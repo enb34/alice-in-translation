@@ -1,9 +1,16 @@
 start = book
-book = element book {bookTitle, author, translator*, chapter+}
-bookTitle = element bookTitle {text}
-author = element author {text}
-translator = element translator {text}
-chapter = element chapter {n, chapterTitle, p+}
-n = attribute n {text}
-chapterTitle = element title {text}
-p = element p {text}
+book = element book { bookTitle, author, translator*, chapter+ }
+bookTitle = element bookTitle { text }
+author = element author { text }
+translator = element translator { text }
+chapter = element chapter { n, chapterTitle, p+ }
+n = attribute n { text }
+chapterTitle = element title { text }
+p =
+    element p {
+        mixed { (paranthesis | word | rhyme)* }
+    }
+paranthesis = element paranthesis { text }
+word = element word { kind, text }
+kind = attribute kind { "iu" | "ns" }
+rhyme = element rhyme { text }
