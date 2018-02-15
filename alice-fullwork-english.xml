@@ -1,4 +1,4 @@
-﻿<?xml-model href="alice-fullwork-english.rnc" type="application/relax-ng-compact-syntax"?>
+﻿<?xml-model href="alice-fullwork.rnc" type="application/relax-ng-compact-syntax"?>
 <book>
     <bookTitle>ALICE’S ADVENTURES IN WONDERLAND</bookTitle>
     <author>Lewis Carroll</author>
@@ -8,14 +8,14 @@
             nothing to do: once or twice she had peeped into the book her sister was reading, but it
             had no pictures or conversations in it, ‘and what is the use of a book,’ thought Alice
             ‘without pictures or conversations?’</p>
-        <p>So she was considering in her own mind <paranthesis>as well as she could, for the hot day
-                made her feel very sleepy and stupid</paranthesis>, whether the pleasure of making a
+        <p>So she was considering in her own mind <parenthesis>as well as she could, for the hot day
+                made her feel very sleepy and stupid</parenthesis>, whether the pleasure of making a
             daisy-chain would be worth the trouble of getting up and picking the daisies, when
             suddenly a White Rabbit with pink eyes ran close by her.</p>
         <p>There was nothing so VERY remarkable in that; nor did Alice think it so VERY much out of
             the way to hear the Rabbit say to itself, ‘Oh dear! Oh dear! I shall be late!’
-                <paranthesis>when she thought it over afterwards, it occurred to her that she ought
-                to have wondered at this, but at the time it all seemed quite natural</paranthesis>;
+                <parenthesis>when she thought it over afterwards, it occurred to her that she ought
+                to have wondered at this, but at the time it all seemed quite natural</parenthesis>;
             but when the Rabbit actually TOOK A WATCH OUT OF ITS WAISTCOAT-POCKET, and looked at it,
             and then hurried on, Alice started to her feet, for it flashed across her mind that she
             had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of
@@ -37,30 +37,30 @@
             fell past it.</p>
         <p>‘Well!’ thought Alice to herself, ‘after such a fall as this, I shall think nothing of
             tumbling down stairs! How brave they’ll all think me at home! Why, I wouldn’t say
-            anything about it, even if I fell off the top of the house!’ <paranthesis>Which was very
-                likely true.</paranthesis></p>
+            anything about it, even if I fell off the top of the house!’ <parenthesis>Which was very
+                likely true.</parenthesis></p>
         <p>Down, down, down. Would the fall NEVER come to an end! ‘I wonder how many miles I’ve
             fallen by this time?’ she said aloud. ‘I must be getting somewhere near the centre of
             the earth. Let me see: that would be four thousand miles down, I think--’
-                <paranthesis>for, you see, Alice had learnt several things of this sort in her
+                <parenthesis>for, you see, Alice had learnt several things of this sort in her
                 lessons in the schoolroom, and though this was not a VERY good opportunity for
                 showing off her knowledge, as there was no one to listen to her, still it was good
-                practice to say it over</paranthesis> ‘--yes, that’s about the right distance--but
-            then I wonder what Latitude or Longitude I’ve got to?’ <paranthesis>Alice had no idea
+                practice to say it over</parenthesis> ‘--yes, that’s about the right distance--but
+            then I wonder what Latitude or Longitude I’ve got to?’ <parenthesis>Alice had no idea
                 what Latitude was, or Longitude either, but thought they were nice grand words to
-                say.</paranthesis></p>
+                say.</parenthesis></p>
         <p>Presently she began again. ‘I wonder if I shall fall right THROUGH the earth! How funny
             it’ll seem to come out among the people that walk with their heads downward! The <word
-                kind="iu">Antipathies</word>, I think--’ <paranthesis>she was rather glad there WAS
-                no one listening, this time, as it didn’t sound at all the right word</paranthesis>
+                kind="iu">Antipathies</word>, I think--’ <parenthesis>she was rather glad there WAS
+                no one listening, this time, as it didn’t sound at all the right word</parenthesis>
             ‘--but I shall have to ask them what the name of the country is, you know. Please,
-            Ma’am, is this New Zealand or Australia?’ <paranthesis>and she tried to curtsey as she
+            Ma’am, is this New Zealand or Australia?’ <parenthesis>and she tried to curtsey as she
                 spoke--fancy CURTSEYING as you’re falling through the air! Do you think you could
-                manage it?</paranthesis> ‘And what an ignorant little girl she’ll think me for
+                manage it?</parenthesis> ‘And what an ignorant little girl she’ll think me for
             asking! No, it’ll never do to ask: perhaps I shall see it written up somewhere.’</p>
         <p>Down, down, down. There was nothing else to do, so Alice soon began talking again.
-            ‘Dinah’ll miss me very much to-night, I should think!’ <paranthesis>Dinah was the
-                cat.</paranthesis> ‘I hope they’ll remember her saucer of milk at tea-time. Dinah my
+            ‘Dinah’ll miss me very much to-night, I should think!’ <parenthesis>Dinah was the
+                cat.</parenthesis> ‘I hope they’ll remember her saucer of milk at tea-time. Dinah my
             dear! I wish you were down here with me! There are no mice in the air, I’m afraid, but
             you might catch a bat, and that’s very like a mouse, you know. But <rhyme>do cats eat
                 bats</rhyme>, I wonder?’ And here Alice began to get rather sleepy, and went on
@@ -112,8 +112,8 @@
             from a bottle marked ‘poison,’ it is almost certain to disagree with you, sooner or
             later.</p>
         <p>However, this bottle was NOT marked ‘poison,’ so Alice ventured to taste it, and finding
-            it very nice, <paranthesis>it had, in fact, a sort of mixed flavour of cherry-tart,
-                custard, pine-apple, roast turkey, toffee, and hot buttered toast,</paranthesis> she
+            it very nice, <parenthesis>it had, in fact, a sort of mixed flavour of cherry-tart,
+                custard, pine-apple, roast turkey, toffee, and hot buttered toast,</parenthesis> she
             very soon finished it off.</p>
 
         <p>‘What a curious feeling!’ said Alice; ‘I must be shutting up like a telescope.’</p>
@@ -132,7 +132,7 @@
             had tired herself out with trying, the poor little thing sat down and cried.</p>
         <p>‘Come, there’s no use in crying like that!’ said Alice to herself, rather sharply; ‘I
             advise you to leave off this minute!’ She generally gave herself very good advice,
-                <paranthesis>though she very seldom followed it</paranthesis>, and sometimes she
+                <parenthesis>though she very seldom followed it</parenthesis>, and sometimes she
             scolded herself so severely as to bring tears into her eyes; and once she remembered
             trying to box her own ears for having cheated herself in a game of croquet she was
             playing against herself, for this curious child was very fond of pretending to be two
@@ -153,11 +153,11 @@
     </chapter>
     <chapter n="II">
         <title>CHAPTER II. The Pool of Tears</title>
-        <p>‘Curiouser and curiouser!’ cried Alice <paranthesis>she was so much surprised, that for
-                the moment she quite forgot how to speak good English</paranthesis>; ‘now I’m
-            opening out like the largest telescope that ever was! Good-bye, feet!’ <paranthesis>for
+        <p>‘Curiouser and curiouser!’ cried Alice <parenthesis>she was so much surprised, that for
+                the moment she quite forgot how to speak good English</parenthesis>; ‘now I’m
+            opening out like the largest telescope that ever was! Good-bye, feet!’ <parenthesis>for
                 when she looked down at her feet, they seemed to be almost out of sight, they were
-                getting so far off</paranthesis>. ‘Oh, my poor little feet, I wonder who will put on
+                getting so far off</parenthesis>. ‘Oh, my poor little feet, I wonder who will put on
             your shoes and stockings for you now, dears? I’m sure _I_ shan’t be able! I shall be a
             great deal too far off to trouble myself about you: you must manage the best way you
             can;--but I must be kind to them,’ thought Alice, ‘or perhaps they won’t walk the way I
@@ -165,8 +165,8 @@
         <p>And she went on planning to herself how she would manage it. ‘They must go by the
             carrier,’ she thought; ‘and how funny it’ll seem, sending presents to one’s own feet!
             And how odd the directions will look!</p>
-        <p> ALICE’S RIGHT FOOT, ESQ. HEARTHRUG, NEAR THE FENDER, <paranthesis>WITH ALICE’S
-                LOVE</paranthesis>.</p>
+        <p> ALICE’S RIGHT FOOT, ESQ. HEARTHRUG, NEAR THE FENDER, <parenthesis>WITH ALICE’S
+                LOVE</parenthesis>.</p>
         <p>Oh dear, what nonsense I’m talking!’</p>
         <p>Just then her head struck against the roof of the hall: in fact she was now more than
             nine feet high, and she at once took up the little golden key and hurried off to the
@@ -175,7 +175,7 @@
             the garden with one eye; but to get through was more hopeless than ever: she sat down
             and began to cry again.</p>
         <p>‘You ought to be ashamed of yourself,’ said Alice, ‘a great girl like you,’
-                <paranthesis>she might well say this</paranthesis>, ‘to go on crying in this way!
+                <parenthesis>she might well say this</parenthesis>, ‘to go on crying in this way!
             Stop this moment, I tell you!’ But she went on all the same, shedding gallons of tears,
             until there was a large pool all round her, about four inches deep and reaching half
             down the hall.</p>
@@ -234,11 +234,11 @@
             declare it’s too bad, that it is!’</p>
         <p>As she said these words her foot slipped, and in another moment, splash! she was up to
             her chin in salt water. Her first idea was that she had somehow fallen into the sea,
-            ‘and in that case I can go back by railway,’ she said to herself. <paranthesis>Alice had
+            ‘and in that case I can go back by railway,’ she said to herself. <parenthesis>Alice had
                 been to the seaside once in her life, and had come to the general conclusion, that
                 wherever you go to on the English coast you find a number of bathing machines in the
                 sea, some children digging in the sand with wooden spades, then a row of lodging
-                houses, and behind them a railway station.</paranthesis> However, she soon made out
+                houses, and behind them a railway station.</parenthesis> However, she soon made out
             that she was in the pool of tears which she had wept when she was nine feet high.</p>
         <p>‘I wish I hadn’t cried so much!’ said Alice, as she swam about, trying to find her way
             out. ‘I shall be punished for it now, I suppose, by being drowned in my own tears! That
@@ -250,16 +250,16 @@
         <p>‘Would it be of any use, now,’ thought Alice, ‘to speak to this mouse? Everything is so
             out-of-the-way down here, that I should think very likely it can talk: at any rate,
             there’s no harm in trying.’ So she began: ‘O Mouse, do you know the way out of this
-            pool? I am very tired of swimming about here, O Mouse!’ <paranthesis>Alice thought this
+            pool? I am very tired of swimming about here, O Mouse!’ <parenthesis>Alice thought this
                 must be the right way of speaking to a mouse: she had never done such a thing
                 before, but she remembered having seen in her brother’s Latin Grammar, ‘A mouse--of
-                a mouse--to a mouse--a mouse--O mouse!’</paranthesis> The Mouse looked at her rather
+                a mouse--to a mouse--a mouse--O mouse!’</parenthesis> The Mouse looked at her rather
             inquisitively, and seemed to her to wink with one of its little eyes, but it said
             nothing.</p>
         <p>‘Perhaps it doesn’t understand English,’ thought Alice; ‘I daresay it’s a French mouse,
-            come over with William the Conqueror.’ <paranthesis>For, with all her knowledge of
+            come over with William the Conqueror.’ <parenthesis>For, with all her knowledge of
                 history, Alice had no very clear notion how long ago anything had
-                happened.</paranthesis> So she began again: ‘Ou est ma chatte?’ which was the first
+                happened.</parenthesis> So she began again: ‘Ou est ma chatte?’ which was the first
             sentence in her French lesson-book. The Mouse gave a sudden leap out of the water, and
             seemed to quiver all over with fright. ‘Oh, I beg your pardon!’ cried Alice hastily,
             afraid that she had hurt the poor animal’s feelings. ‘I quite forgot you didn’t like
@@ -289,8 +289,8 @@
             the pool as it went.</p>
         <p>So she called softly after it, ‘Mouse dear! Do come back again, and we won’t talk about
             cats or dogs either, if you don’t like them!’ When the Mouse heard this, it turned round
-            and swam slowly back to her: its face was quite pale <paranthesis>with passion, Alice
-                thought</paranthesis>, and it said in a low trembling voice, ‘Let us get to the
+            and swam slowly back to her: its face was quite pale <parenthesis>with passion, Alice
+                thought</parenthesis>, and it said in a low trembling voice, ‘Let us get to the
             shore, and then I’ll tell you my history, and you’ll understand why it is I hate cats
             and dogs.’</p>
         <p>It was high time to go, for the pool was getting quite crowded with the birds and animals
@@ -345,9 +345,9 @@
         <p>‘What IS a Caucus-race?’ said Alice; not that she wanted much to know, but the Dodo had
             paused as if it thought that SOMEBODY ought to speak, and no one else seemed inclined to
             say anything.</p>
-        <p>‘Why,’ said the Dodo, ‘the best way to explain it is to do it.’ <paranthesis>And, as you
+        <p>‘Why,’ said the Dodo, ‘the best way to explain it is to do it.’ <parenthesis>And, as you
                 might like to try the thing yourself, some winter day, I will tell you how the Dodo
-                managed it.</paranthesis></p>
+                managed it.</parenthesis></p>
         <p>First it marked out a race-course, in a sort of circle, [‘the exact shape doesn’t
             matter,’ it said,) and then all the party were placed along the course, here and there.
             There was no ‘One, two, three, and away,’ but they began running when they liked, and
@@ -356,16 +356,16 @@
             Dodo suddenly called out ‘The race is over!’ and they all crowded round it, panting, and
             asking, ‘But who has won?’</p>
         <p>This question the Dodo could not answer without a great deal of thought, and it sat for a
-            long time with one finger pressed upon its forehead <paranthesis>the position in which
-                you usually see Shakespeare, in the pictures of him</paranthesis>, while the rest
+            long time with one finger pressed upon its forehead <parenthesis>the position in which
+                you usually see Shakespeare, in the pictures of him</parenthesis>, while the rest
             waited in silence. At last the Dodo said, ‘EVERYBODY has won, and all must have
             prizes.’</p>
         <p>‘But who is to give the prizes?’ quite a chorus of voices asked.</p>
         <p>‘Why, SHE, of course,’ said the Dodo, pointing to Alice with one finger; and the whole
             party at once crowded round her, calling out in a confused way, ‘Prizes! Prizes!’</p>
         <p>Alice had no idea what to do, and in despair she put her hand in her pocket, and pulled
-            out a box of comfits, <paranthesis>luckily the salt water had not got into
-                it</paranthesis>, and handed them round as prizes. There was exactly one a-piece all
+            out a box of comfits, <parenthesis>luckily the salt water had not got into
+                it</parenthesis>, and handed them round as prizes. There was exactly one a-piece all
             round.</p>
         <p>‘But she must have a prize herself, you know,’ said the Mouse.</p>
         <p>‘Of course,’ the Dodo replied very gravely. ‘What else have you got in your pocket?’ he
@@ -457,7 +457,7 @@
             don’t think,’ Alice went on, ‘that they’d let Dinah stop in the house if it began
             ordering people about like that!’</p>
         <p>By this time she had found her way into a tidy little room with a table in the window,
-            and on it <paranthesis>as she had hoped</paranthesis> a fan and two or three pairs of
+            and on it <parenthesis>as she had hoped</parenthesis> a fan and two or three pairs of
             tiny white kid gloves: she took up the fan and a pair of the gloves, and was just going
             to leave the room, when her eye fell upon a little bottle that stood near the
             looking-glass. There was no label this time with the words ‘DRINK ME,’ but nevertheless
@@ -510,9 +510,9 @@
         <p>Next came an angry voice--the Rabbit’s--‘Pat! Pat! Where are you?’ And then a voice she
             had never heard before, ‘Sure then I’m here! Digging for apples, yer honour!’</p>
         <p>‘Digging for apples, indeed!’ said the Rabbit angrily. ‘Here! Come and help me out of
-            THIS!’ <paranthesis>Sounds of more broken glass.</paranthesis></p>
+            THIS!’ <parenthesis>Sounds of more broken glass.</parenthesis></p>
         <p>‘Now tell me, Pat, what’s that in the window?’</p>
-        <p>‘Sure, it’s an arm, yer honour!’ <paranthesis>He pronounced it ‘arrum.’</paranthesis></p>
+        <p>‘Sure, it’s an arm, yer honour!’ <parenthesis>He pronounced it ‘arrum.’</parenthesis></p>
         <p>‘An arm, you goose! Who ever saw one that size? Why, it fills the whole window!’</p>
         <p>‘Sure, it does, yer honour: but it’s an arm for all that.’</p>
         <p>‘Well, it’s got no business there, at any rate: go and take it away!’</p>
@@ -529,15 +529,15 @@
             other--Bill! fetch it here, lad!--Here, put ‘em up at this corner--No, tie ‘em together
             first--they don’t reach half high enough yet--Oh! they’ll do well enough; don’t be
             particular--Here, Bill! catch hold of this rope--Will the roof bear?--Mind that loose
-            slate--Oh, it’s coming down! Heads below!’ <paranthesis>a loud
-            crash</paranthesis>--‘Now, who did that?--It was Bill, I fancy--Who’s to go down the
+            slate--Oh, it’s coming down! Heads below!’ <parenthesis>a loud
+            crash</parenthesis>--‘Now, who did that?--It was Bill, I fancy--Who’s to go down the
             chimney?--Nay, I shan’t! YOU do it!--That I won’t, then!--Bill’s to go down--Here, Bill!
             the master says you’re to go down the chimney!’</p>
         <p>‘Oh! So Bill’s got to come down the chimney, has he?’ said Alice to herself. ‘Shy, they
             seem to put everything upon Bill! I wouldn’t be in Bill’s place for a good deal: this
             fireplace is narrow, to be sure; but I THINK I can kick a little!’</p>
         <p>She drew her foot as far down the chimney as she could, and waited till she heard a
-            little animal <paranthesis>she couldn’t guess of what sort it was</paranthesis>
+            little animal <parenthesis>she couldn’t guess of what sort it was</parenthesis>
             scratching and scrambling about in the chimney close above her: then, saying to herself
             ‘This is Bill,’ she gave one sharp kick, and waited to see what would happen next.</p>
         <p>The first thing she heard was a general chorus of ‘There goes Bill!’ then the Rabbit’s
@@ -697,7 +697,7 @@
         <p>‘Well, I should like to be a LITTLE larger, sir, if you wouldn’t mind,’ said Alice:
             ‘three inches is such a wretched height to be.’</p>
         <p>‘It is a very good height indeed!’ said the Caterpillar angrily, rearing itself upright
-            as it spoke <paranthesis>it was exactly three inches high</paranthesis>.</p>
+            as it spoke <parenthesis>it was exactly three inches high</parenthesis>.</p>
         <p>‘But I’m not used to it!’ pleaded poor Alice in a piteous tone. And she thought of
             herself, ‘I wish the creatures wouldn’t be so easily offended!’</p>
         <p>‘You’ll get used to it in time,’ said the Caterpillar; and it put the hookah into its
@@ -793,9 +793,9 @@
     <chapter n="VI">
         <title>CHAPTER VI. Pig and Pepper</title>
         <p>For a minute or two she stood looking at the house, and wondering what to do next, when
-            suddenly a footman in livery came running out of the wood--<paranthesis>she considered
+            suddenly a footman in livery came running out of the wood--<parenthesis>she considered
                 him to be a footman because he was in livery: otherwise, judging by his face only,
-                she would have called him a fish</paranthesis>--and rapped loudly at the door with
+                she would have called him a fish</parenthesis>--and rapped loudly at the door with
             his knuckles. It was opened by another footman in livery, with a round face, and large
             eyes like a frog; and both footmen, Alice noticed, had powdered hair that curled all
             over their heads. She felt very curious to know what it was all about, and crept a
@@ -888,7 +888,7 @@
             annoy, Because he knows it teases.’</p>
         <p> CHORUS.</p>
         <p>
-            <paranthesis>In which the cook and the baby joined</paranthesis>:--</p>
+            <parenthesis>In which the cook and the baby joined</parenthesis>:--</p>
         <p> ‘Wow! wow! wow!’</p>
         <p>While the Duchess sang the second verse of the song, she kept tossing the baby violently
             up and down, and the poor little thing howled so, that Alice could hardly hear the
@@ -906,13 +906,13 @@
             The poor little thing was snorting like a steam-engine when she caught it, and kept
             doubling itself up and straightening itself out again, so that altogether, for the first
             minute or two, it was as much as she could do to hold it.</p>
-        <p>As soon as she had made out the proper way of nursing it, <paranthesis>which was to twist
+        <p>As soon as she had made out the proper way of nursing it, <parenthesis>which was to twist
                 it up into a sort of knot, and then keep tight hold of its right ear and left foot,
-                so as to prevent its undoing itself,</paranthesis> she carried it out into the open
+                so as to prevent its undoing itself,</parenthesis> she carried it out into the open
             air. ‘IF I don’t take this child away with me,’ thought Alice, ‘they’re sure to kill it
             in a day or two: wouldn’t it be murder to leave it behind?’ She said the last words out
-            loud, and the little thing grunted in reply <paranthesis>it had left off sneezing by
-                this time</paranthesis>. ‘Don’t grunt,’ said Alice; ‘that’s not at all a proper way
+            loud, and the little thing grunted in reply <parenthesis>it had left off sneezing by
+                this time</parenthesis>. ‘Don’t grunt,’ said Alice; ‘that’s not at all a proper way
             of expressing yourself.’</p>
         <p>The baby grunted again, and Alice looked very anxiously into its face to see what was the
             matter with it. There could be no doubt that it had a VERY turn-up nose, much more like
@@ -922,7 +922,7 @@
             tears.</p>
         <p>No, there were no tears. ‘If you’re going to turn into a pig, my dear,’ said Alice,
             seriously, ‘I’ll have nothing more to do with you. Mind now!’ The poor little thing
-            sobbed again <paranthesis>or grunted, it was impossible to say which</paranthesis>, and
+            sobbed again <parenthesis>or grunted, it was impossible to say which</parenthesis>, and
             they went on for some while in silence.</p>
         <p>Alice was just beginning to think to herself, ‘Now, what am I to do with this creature
             when I get it home?’ when it grunted again, so violently, that she looked down into its
@@ -1087,8 +1087,8 @@
             as you liked.’</p>
         <p>‘Is that the way YOU manage?’ Alice asked.</p>
         <p>The Hatter shook his head mournfully. ‘Not I!’ he replied. ‘We quarrelled last
-            March--just before HE went mad, you know--’ <paranthesis>pointing with his tea spoon at
-                the March Hare,</paranthesis> ‘--it was at the great concert given by the Queen of
+            March--just before HE went mad, you know--’ <parenthesis>pointing with his tea spoon at
+                the March Hare,</parenthesis> ‘--it was at the great concert given by the Queen of
             Hearts, and I had to sing</p>
         <p> “Twinkle, twinkle, little bat! How I wonder what you’re at!”</p>
         <p>You know the song, perhaps?’</p>
@@ -1192,8 +1192,8 @@
         <p>Once more she found herself in the long hall, and close to the little glass table. ‘Now,
             I’ll manage better this time,’ she said to herself, and began by taking the little
             golden key, and unlocking the door that led into the garden. Then she went to work
-            nibbling at the mushroom <paranthesis>she had kept a piece of it in her
-                pocket</paranthesis> till she was about a foot high: then she walked down the little
+            nibbling at the mushroom <parenthesis>she had kept a piece of it in her
+                pocket</parenthesis> till she was about a foot high: then she walked down the little
             passage: and THEN--she found herself at last in the beautiful garden, among the bright
             flower-beds and the cool fountains.</p>
     </chapter>
@@ -1384,8 +1384,8 @@
         <p>The King’s argument was, that anything that had a head could be beheaded, and that you
             weren’t to talk nonsense.</p>
         <p>The Queen’s argument was, that if something wasn’t done about it in less than no time
-            she’d have everybody executed, all round. <paranthesis>It was this last remark that had
-                made the whole party look so grave and anxious.</paranthesis></p>
+            she’d have everybody executed, all round. <parenthesis>It was this last remark that had
+                made the whole party look so grave and anxious.</parenthesis></p>
         <p>Alice could think of nothing else to say but ‘It belongs to the Duchess: you’d better ask
             HER about it.’</p>
         <p>‘She’s in prison,’ the Queen said to the executioner: ‘fetch her here.’ And the
@@ -1402,8 +1402,8 @@
         <p>Alice was very glad to find her in such a pleasant temper, and thought to herself that
             perhaps it was only the pepper that had made her so savage when they met in the
             kitchen.</p>
-        <p>‘When I’M a Duchess,’ she said to herself, <paranthesis>not in a very hopeful tone
-                though</paranthesis>, ‘I won’t have any pepper in my kitchen AT ALL. Soup does very
+        <p>‘When I’M a Duchess,’ she said to herself, <parenthesis>not in a very hopeful tone
+                though</parenthesis>, ‘I won’t have any pepper in my kitchen AT ALL. Soup does very
             well without--Maybe it’s always pepper that makes people hot-tempered,’ she went on,
             very much pleased at having found out a new kind of rule, ‘and vinegar that makes them
             sour--and camomile that makes them bitter--and--and barley-sugar and such things that
@@ -1491,8 +1491,8 @@
         <p>As they walked off together, Alice heard the King say in a low voice, to the company
             generally, ‘You are all pardoned.’ ‘Come, THAT’S a good thing!’ she said to herself, for
             she had felt quite unhappy at the number of executions the Queen had ordered.</p>
-        <p>They very soon came upon a Gryphon, lying fast asleep in the sun. <paranthesis>IF you
-                don’t know what a Gryphon is, look at the picture.</paranthesis> ‘Up, lazy thing!’
+        <p>They very soon came upon a Gryphon, lying fast asleep in the sun. <parenthesis>IF you
+                don’t know what a Gryphon is, look at the picture.</parenthesis> ‘Up, lazy thing!’
             said the Queen, ‘and take this young lady to see the Mock Turtle, and to hear his
             history. I must go back and see after some executions I have ordered’; and she walked
             off, leaving Alice alone with the Gryphon. Alice did not quite like the look of the
@@ -1598,8 +1598,8 @@
             him and punching him in the back. At last the Mock Turtle recovered his voice, and, with
             tears running down his cheeks, he went on again:--</p>
         <p>‘You may not have lived much under the sea--’ [‘I haven’t,’ said Alice)--‘and perhaps you
-            were never even introduced to a lobster--’ <paranthesis>Alice began to say ‘I once
-                tasted--’ but checked herself hastily, and said ‘No, never’</paranthesis> ‘--so you
+            were never even introduced to a lobster--’ <parenthesis>Alice began to say ‘I once
+                tasted--’ but checked herself hastily, and said ‘No, never’</parenthesis> ‘--so you
             can have no idea what a delightful thing a Lobster Quadrille is!’</p>
         <p>‘No, indeed,’ said Alice. ‘What sort of a dance is it?’</p>
         <p>‘Why,’ said the Gryphon, ‘you first form into a line along the sea-shore--’</p>
@@ -1778,12 +1778,12 @@
             and she was quite pleased to find that she knew the name of nearly everything there.
             ‘That’s the judge,’ she said to herself, ‘because of his great wig.’</p>
         <p>The judge, by the way, was the King; and as he wore his crown over the wig,
-                <paranthesis>look at the frontispiece if you want to see how he did
-                it,</paranthesis> he did not look at all comfortable, and it was certainly not
+                <parenthesis>look at the frontispiece if you want to see how he did
+                it,</parenthesis> he did not look at all comfortable, and it was certainly not
             becoming.</p>
-        <p>‘And that’s the jury-box,’ thought Alice, ‘and those twelve creatures,’ <paranthesis>she
+        <p>‘And that’s the jury-box,’ thought Alice, ‘and those twelve creatures,’ <parenthesis>she
                 was obliged to say ‘creatures,’ you see, because some of them were animals, and some
-                were birds,</paranthesis> ‘I suppose they are the jurors.’ She said this last word
+                were birds,</parenthesis> ‘I suppose they are the jurors.’ She said this last word
             two or three times over to herself, being rather proud of it: for she thought, and
             rightly too, that very few little girls of her age knew the meaning of it at all.
             However, ‘jury-men’ would have done just as well.</p>
@@ -1801,8 +1801,8 @@
             him. ‘A nice muddle their slates’ll be in before the trial’s over!’ thought Alice.</p>
         <p>One of the jurors had a pencil that squeaked. This of course, Alice could not stand, and
             she went round the court and got behind him, and very soon found an opportunity of
-            taking it away. She did it so quickly that the poor little juror <paranthesis>it was
-                Bill, the Lizard</paranthesis> could not make out at all what had become of it; so,
+            taking it away. She did it so quickly that the poor little juror <parenthesis>it was
+                Bill, the Lizard</parenthesis> could not make out at all what had become of it; so,
             after hunting all about for it, he was obliged to write with one finger for the rest of
             the day; and this was of very little use, as it left no mark on the slate.</p>
         <p>‘Herald, read the accusation!’ said the King.</p>
@@ -1880,10 +1880,10 @@
             ‘I’m a poor man, your Majesty,’ he began.</p>
         <p>‘You’re a very poor speaker,’ said the King.</p>
         <p>Here one of the guinea-pigs cheered, and was immediately suppressed by the officers of
-            the court. <paranthesis>As that is rather a hard word, I will just explain to you how it
+            the court. <parenthesis>As that is rather a hard word, I will just explain to you how it
                 was done. They had a large canvas bag, which tied up at the mouth with strings: into
                 this they slipped the guinea-pig, head first, and then sat upon
-            it.</paranthesis></p>
+            it.</parenthesis></p>
         <p>‘I’m glad I’ve seen that done,’ thought Alice. ‘I’ve so often read in the newspapers, at
             the end of trials, “There was some attempts at applause, which was immediately
             suppressed by the officers of the court,” and I never understood what it meant till
@@ -1989,9 +1989,9 @@
             all: it’s a set of verses.’</p>
         <p>‘Are they in the prisoner’s handwriting?’ asked another of the jurymen.</p>
         <p>‘No, they’re not,’ said the White Rabbit, ‘and that’s the queerest thing about it.’
-                <paranthesis>The jury all looked puzzled.</paranthesis></p>
-        <p>‘He must have imitated somebody else’s hand,’ said the King. <paranthesis>The jury all
-                brightened up again.</paranthesis></p>
+                <parenthesis>The jury all looked puzzled.</parenthesis></p>
+        <p>‘He must have imitated somebody else’s hand,’ said the King. <parenthesis>The jury all
+                brightened up again.</parenthesis></p>
         <p>‘Please your Majesty,’ said the Knave, ‘I didn’t write it, and they can’t prove I did:
             there’s no name signed at the end.’</p>
         <p>‘If you didn’t sign it,’ said the King, ‘that only makes the matter worse. You MUST have
@@ -2009,20 +2009,20 @@
         <p>These were the verses the White Rabbit read:--</p>
         <p> ‘They told me you had been to her, And mentioned me to him: She gave me a good
             character, But said I could not swim.</p>
-        <p> He sent them word I had not gone <paranthesis>We know it to be true</paranthesis>: If
+        <p> He sent them word I had not gone <parenthesis>We know it to be true</parenthesis>: If
             she should push the matter on, What would become of you?</p>
         <p> I gave her one, they gave him two, You gave us three or more; They all returned from him
             to you, Though they were mine before.</p>
         <p> If I or she should chance to be Involved in this affair, He trusts to you to set them
             free, Exactly as we were.</p>
-        <p> My notion was that you had been <paranthesis>Before she had this fit</paranthesis> An
+        <p> My notion was that you had been <parenthesis>Before she had this fit</parenthesis> An
             obstacle that came between Him, and ourselves, and it.</p>
         <p> Don’t let him know she liked them best, For this must ever be A secret, kept from all
             the rest, Between yourself and me.’</p>
         <p>‘That’s the most important piece of evidence we’ve heard yet,’ said the King, rubbing his
             hands; ‘so now let the jury--’</p>
-        <p>‘If any one of them can explain it,’ said Alice, <paranthesis>she had grown so large in
-                the last few minutes that she wasn’t a bit afraid of interrupting him,</paranthesis>
+        <p>‘If any one of them can explain it,’ said Alice, <parenthesis>she had grown so large in
+                the last few minutes that she wasn’t a bit afraid of interrupting him,</parenthesis>
             ‘I’ll give him sixpence. _I_ don’t believe there’s an atom of meaning in it.’</p>
         <p>The jury all wrote down on their slates, ‘SHE doesn’t believe there’s an atom of meaning
             in it,’ but none of them attempted to explain the paper.</p>
@@ -2031,8 +2031,8 @@
             verses on his knee, and looking at them with one eye; ‘I seem to see some meaning in
             them, after all. “--SAID I COULD NOT SWIM--” you can’t swim, can you?’ he added, turning
             to the Knave.</p>
-        <p>The Knave shook his head sadly. ‘Do I look like it?’ he said. <paranthesis>Which he
-                certainly did NOT, being made entirely of cardboard.</paranthesis></p>
+        <p>The Knave shook his head sadly. ‘Do I look like it?’ he said. <parenthesis>Which he
+                certainly did NOT, being made entirely of cardboard.</parenthesis></p>
         <p>‘All right, so far,’ said the King, and he went on muttering over the verses to himself:
             ‘“WE KNOW IT TO BE TRUE--” that’s the jury, of course--“I GAVE HER ONE, THEY GAVE HIM
             TWO--” why, that must be what he did with the tarts, you know--’</p>
@@ -2041,9 +2041,9 @@
             ‘Nothing can be clearer than THAT. Then again--“BEFORE SHE HAD THIS FIT--” you never had
             fits, my dear, I think?’ he said to the Queen.</p>
         <p>‘Never!’ said the Queen furiously, throwing an inkstand at the Lizard as she spoke.
-                <paranthesis>The unfortunate little Bill had left off writing on his slate with one
+                <parenthesis>The unfortunate little Bill had left off writing on his slate with one
                 finger, as he found it made no mark; but he now hastily began again, using the ink,
-                that was trickling down his face, as long as it lasted.</paranthesis></p>
+                that was trickling down his face, as long as it lasted.</parenthesis></p>
         <p>‘Then the words don’t FIT you,’ said the King, looking round the court with a smile.
             There was a dead silence.</p>
         <p>‘It’s a pun!’ the King added in an offended tone, and everybody laughed, ‘Let the jury
@@ -2053,8 +2053,8 @@
         <p>‘Hold your tongue!’ said the Queen, turning purple.</p>
         <p>‘I won’t!’ said Alice.</p>
         <p>‘Off with her head!’ the Queen shouted at the top of her voice. Nobody moved.</p>
-        <p>‘Who cares for you?’ said Alice, <paranthesis>she had grown to her full size by this
-                time.</paranthesis> ‘You’re nothing but a pack of cards!’</p>
+        <p>‘Who cares for you?’ said Alice, <parenthesis>she had grown to her full size by this
+                time.</parenthesis> ‘You’re nothing but a pack of cards!’</p>
         <p>At this the whole pack rose up into the air, and came flying down upon her: she gave a
             little scream, half of fright and half of anger, and tried to beat them off, and found
             herself lying on the bank, with her head in the lap of her sister, who was gently
@@ -2088,7 +2088,7 @@
             only rustling in the wind, and the pool rippling to the waving of the reeds--the
             rattling teacups would change to tinkling sheep-bells, and the Queen’s shrill cries to
             the voice of the shepherd boy--and the sneeze of the baby, the shriek of the Gryphon,
-            and all the other queer noises, would change <paranthesis>she knew</paranthesis> to the
+            and all the other queer noises, would change <parenthesis>she knew</parenthesis> to the
             confused clamour of the busy farm-yard--while the lowing of the cattle in the distance
             would take the place of the Mock Turtle’s heavy sobs.</p>
         <p>Lastly, she pictured to herself how this same little sister of hers would, in the
