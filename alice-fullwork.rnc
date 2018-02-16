@@ -8,11 +8,19 @@ n = attribute n { text }
 chapterTitle = element title { text }
 p =
     element p {
-        mixed { (parenthesis | word | phrase | rhyme)* }
+        mixed { (parenthesis | word | phrase | rhyme | song | emp)* }
     }
-parenthesis = element parenthesis { text }
+parenthesis =
+    element parenthesis {
+        mixed { (word | phrase | emp)* }
+    }
 word = element word { kind, text }
-kind = attribute kind { "iu" | "ns" | "pun" }
+kind = attribute kind { "iu" | "ns" | "uc" | "pun" }
 phrase = element phrase { type, text }
-type = attribute type { "iu" | "ns" | "pun" }
+type = attribute type { "iu" | "ns" | "uc" | "pun" }
 rhyme = element rhyme { text }
+song =
+    element song {
+        mixed { (rhyme* | word* | phrase)* }
+    }
+emp = element emp { text }
