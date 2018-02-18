@@ -1,0 +1,25 @@
+body {
+    background-Color:#e7fdff;
+}
+h1 {
+    font-family:fantasy;
+    font-style:italic;
+    color:black;
+    text-align:center;
+    background-color: #f7feff;
+    box-shadow:2px 2px #366974;
+    padding:30px;
+    margin: 5px auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+div {
+    font-family:arial, helvetica, sans-serif;
+    color:black;
+    background-color: #f7feff;
+    box-shadow:2px 2px #366974;
+    padding:30px;
+    margin: 5px auto;
+    margin-left: auto;
+    margin-right: auto;
+}
