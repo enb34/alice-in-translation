@@ -3,9 +3,10 @@ book = element book { bookTitle, author, translator*, chapter+ }
 bookTitle = element bookTitle { text }
 author = element author { text }
 translator = element translator { text }
-chapter = element chapter { n, chapterTitle, p+}
+chapter = element chapter { n, chapterTitle, ( p | break )+ }
 n = attribute n { text }
 chapterTitle = element title { text }
+break = element break { text }
 p =
     element p {
         mixed { (parenthesis | word | phrase | rp | song | emp | foreign)* }
