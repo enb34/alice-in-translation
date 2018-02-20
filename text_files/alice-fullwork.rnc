@@ -21,7 +21,8 @@ phrase = element phrase { type, text }
 type = attribute type { "iu" | "ns" | "uc" | "pow" }
 rp = element rp { rpn, mixed { rhyme+ } }
 rpn = attribute rpn { xsd:int }
-rhyme = element rhyme { rn, text }
+rhyme = element rhyme { rn, def, text }
+def = attribute def { "true" | "trans" }
 rn = attribute rn { xsd:int }
 song =
     element song {
