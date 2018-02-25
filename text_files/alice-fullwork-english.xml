@@ -73,8 +73,8 @@
                 either question,</rp> it didn’t much matter which way she put it. She felt that she
             was dozing off, and had just begun to dream that she was walking hand in hand with
             Dinah, and saying to her very earnestly, ‘Now, Dinah, tell me the truth: did you ever
-            eat a bat?’ when suddenly, thump! thump! down she came upon a heap of sticks and dry
-            leaves, and the fall was over.</p>
+            eat a bat?’ when suddenly, <onomatopoeia>thump! thump!</onomatopoeia> down she came upon
+            a heap of sticks and dry leaves, and the fall was over.</p>
         <p>Alice was not a bit hurt, and she jumped up on to her feet in a moment: she looked up,
             but it was all dark overhead; before her was another long passage, and the White Rabbit
             was still in sight, hurrying down it. There was not a moment to be lost: away went Alice
@@ -91,7 +91,7 @@
             the key was too small, but at any rate it would not open any of them. However, on the
             second time round, she came upon a low curtain she had not noticed before, and behind it
             was a little door about fifteen inches high: she tried the little golden key in the
-            lock, and to her great delight it fitted!</p>
+            lock, and to her great delight it <word kind="uc">fitted!</word></p>
         <p>Alice opened the door and found that it led into a small passage, not much larger than a
             rat-hole: she knelt down and looked along the passage into the loveliest garden you ever
             saw. How she longed to get out of that dark hall, and wander about among those beds of
@@ -104,9 +104,9 @@
         <p>There seemed to be no use in waiting by the little door, so she went back to the table,
             half hoping she might find another key on it, or at any rate a book of rules for <phrase
                 type="uc">shutting people up like telescopes</phrase>: this time she found a little
-            bottle on it, [‘which certainly was not here before,’ said Alice,) and round the neck of
-            the bottle was a paper label, with the words ‘DRINK ME’ beautifully printed on it in
-            large letters.</p>
+            bottle on it, <parenthesis>‘which certainly was not here before,’ said
+                Alice,</parenthesis> and round the neck of the bottle was a paper label, with the
+            words ‘DRINK ME’ beautifully printed on it in large letters.</p>
         <p>It was all very well to say ‘Drink me,’ but the wise little Alice was not going to do
                 <emp>THAT</emp> in a hurry. ‘No, I’ll look first,’ she said, ‘and see whether it’s
             marked “poison” or not’; for she had read several nice little histories about children
@@ -118,18 +118,22 @@
             disagree with you, sooner or later.</p>
         <p>However, this bottle was <emp>NOT</emp> marked ‘poison,’ so Alice ventured to taste it,
             and finding it very nice, <parenthesis>it had, in fact, a sort of mixed flavour of
-                cherry-tart, custard, pine-apple, roast turkey, toffee, and hot buttered
-                toast,</parenthesis> she very soon finished it off.</p>
+                    <cultural>cherry-tart</cultural>, <cultural>custard</cultural>,
+                    <cultural>pine-apple</cultural>, <cultural>roast turkey</cultural>,
+                    <cultural>toffee</cultural>, and <cultural>hot buttered
+                toast</cultural>,</parenthesis> she very soon finished it off.</p>
 
-        <p>‘What a curious feeling!’ said Alice; ‘I must be shutting up like a telescope.’</p>
+        <p>‘What a curious feeling!’ said Alice; ‘I must be <phrase type="uc">shutting up like a
+                telescope</phrase>.’</p>
         <break> * * * * * * * * * * * * * * * * * * * *</break>
         <p>And so it was indeed: she was now only ten inches high, and her face brightened up at the
             thought that she was now the right size for going through the little door into that
             lovely garden. First, however, she waited for a few minutes to see if she was going to
             shrink any further: she felt a little nervous about this; ‘for it might end, you know,’
-            said Alice to herself, ‘in my going out altogether, like a candle. I wonder what I
-            should be like then?’ And she tried to fancy what the flame of a candle is like after
-            the candle is blown out, for she could not remember ever having seen such a thing.</p>
+            said Alice to herself, ‘<phrase type="uc">in my going out altogether, like a
+                candle</phrase>. I wonder what I should be like then?’ And she tried to fancy what
+            the flame of a candle is like after the candle is blown out, for she could not remember
+            ever having seen such a thing.</p>
         <p>After a while, finding that nothing more happened, she decided on going into the garden
             at once; but, alas for poor Alice! when she got to the door, she found she had forgotten
             the little golden key, and when she went back to the table for it, she found she could
@@ -140,15 +144,17 @@
             advise you to leave off this minute!’ She generally gave herself very good advice,
                 <parenthesis>though she very seldom followed it</parenthesis>, and sometimes she
             scolded herself so severely as to bring tears into her eyes; and once she remembered
-            trying to box her own ears for having cheated herself in a game of croquet she was
-            playing against herself, for this curious child was very fond of pretending to be two
-            people. ‘But it’s no use now,’ thought poor Alice, ‘to pretend to be two people! Why,
-            there’s hardly enough of me left to make <emp>ONE</emp> respectable person!’</p>
+            trying to box her own ears for having cheated herself in a game of
+                <cultural>croquet</cultural> she was playing against herself, for this curious child
+            was very fond of pretending to be two people. ‘But it’s no use now,’ thought poor Alice,
+            ‘to pretend to be two people! Why, there’s hardly enough of me left to make
+                <emp>ONE</emp> respectable person!’</p>
         <p>Soon her eye fell on a little glass box that was lying under the table: she opened it,
-            and found in it a very small cake, on which the words ‘EAT ME’ were beautifully marked
-            in currants. ‘Well, I’ll eat it,’ said Alice, ‘and if it makes me grow larger, I can
-            reach the key; and if it makes me grow smaller, I can creep under the door; so either
-            way I’ll get into the garden, and I don’t care which happens!’</p>
+            and found in it a very small <cultural>cake</cultural>, on which the words ‘EAT ME’ were
+            beautifully marked in <cultural>currants</cultural>. ‘Well, I’ll eat it,’ said Alice,
+            ‘and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I
+            can creep under the door; so either way I’ll get into the garden, and I don’t care which
+            happens!’</p>
         <p>She ate a little bit, and said anxiously to herself, ‘Which way? Which way?’, holding her
             hand on the top of her head to feel which way it was growing, and she was quite
             surprised to find that she remained the same size: to be sure, this generally happens
@@ -160,12 +166,13 @@
     </chapter>
     <chapter n="II">
         <title>CHAPTER II. The Pool of Tears</title>
-        <p>‘Curiouser and curiouser!’ cried Alice <parenthesis>she was so much surprised, that for
-                the moment she quite forgot how to speak good English</parenthesis>; ‘now I’m
-            opening out like the largest telescope that ever was! Good-bye, feet!’ <parenthesis>for
-                when she looked down at her feet, they seemed to be almost out of sight, they were
-                getting so far off</parenthesis>. ‘Oh, my poor little feet, I wonder who will put on
-            your shoes and stockings for you now, dears? I’m sure _I_ shan’t be able! I shall be a
+        <p>‘<word kind="ns">Curiouser</word> and <word kind="ns">curiouser</word>!’ cried Alice
+                <parenthesis>she was so much surprised, that for the moment she quite forgot how to
+                speak good English</parenthesis>; ‘now <phrase type="uc">I’m opening out like the
+                largest telescope</phrase> that ever was! Good-bye, feet!’ <parenthesis>for when she
+                looked down at her feet, they seemed to be almost out of sight, they were getting so
+                far off</parenthesis>. ‘Oh, my poor little feet, I wonder who will put on your shoes
+            and stockings for you now, dears? I’m sure <emp>I</emp> shan’t be able! I shall be a
             great deal too far off to trouble myself about you: you must manage the best way you
             can;--but I must be kind to them,’ thought Alice, ‘or perhaps they won’t walk the way I
             want to go! Let me see: I’ll give them a new pair of boots every Christmas.’</p>
@@ -183,57 +190,61 @@
             and began to cry again.</p>
         <p>‘You ought to be ashamed of yourself,’ said Alice, ‘a great girl like you,’
                 <parenthesis>she might well say this</parenthesis>, ‘to go on crying in this way!
-            Stop this moment, I tell you!’ But she went on all the same, shedding gallons of tears,
-            until there was a large pool all round her, about four inches deep and reaching half
-            down the hall.</p>
-        <p>After a time she heard a little pattering of feet in the distance, and she hastily dried
-            her eyes to see what was coming. It was the White Rabbit returning, splendidly dressed,
-            with a pair of white kid gloves in one hand and a large fan in the other: he came
-            trotting along in a great hurry, muttering to himself as he came, ‘Oh! the Duchess, the
-            Duchess! Oh! won’t she be savage if I’ve kept her waiting!’ Alice felt so desperate that
-            she was ready to ask help of any one; so, when the Rabbit came near her, she began, in a
-            low, timid voice, ‘If you please, sir--’ The Rabbit started violently, dropped the white
-            kid gloves and the fan, and skurried away into the darkness as hard as he could go.</p>
-        <p>Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself
-            all the time she went on talking: ‘Dear, dear! How queer everything is to-day! And
-            yesterday things went on just as usual. I wonder if I’ve been changed in the night? Let
-            me think: was I the same when I got up this morning? I almost think I can remember
-            feeling a little different. But if I’m not the same, the next question is, Who in the
-            world am I? Ah, <emp>THAT’S</emp> the great puzzle!’ And she began thinking over all the
-            children she knew that were of the same age as herself, to see if she could have been
-            changed for any of them.</p>
+            Stop this moment, I tell you!’ But she went on all the same, shedding
+                <cultural>gallons</cultural> of tears, until there was a large pool all round her,
+            about four inches deep and reaching half down the hall.</p>
+        <p>After a time she heard a little <onomatopoeia>pattering</onomatopoeia> of feet in the
+            distance, and she hastily dried her eyes to see what was coming. It was the White Rabbit
+            returning, splendidly dressed, with a pair of <cultural>white kid gloves</cultural> in
+            one hand and a large fan in the other: he came trotting along in a great hurry,
+            muttering to himself as he came, ‘Oh! the Duchess, the Duchess! Oh! won’t she be savage
+            if I’ve kept her waiting!’ Alice felt so desperate that she was ready to ask help of any
+            one; so, when the Rabbit came near her, she began, in a low, timid voice, ‘If you
+            please, sir--’ The Rabbit started violently, dropped the <cultural>white kid
+                gloves</cultural> and the fan, and skurried away into the darkness as hard as he
+            could go.</p>
+        <p>Alice took up the fan and <cultural>gloves</cultural>, and, as the hall was very hot, she
+            kept fanning herself all the time she went on talking: ‘Dear, dear! How queer everything
+            is to-day! And yesterday things went on just as usual. I wonder if I’ve been changed in
+            the night? Let me think: was I the same when I got up this morning? I almost think I can
+            remember feeling a little different. But if I’m not the same, the next question is, Who
+            in the world am I? Ah, <emp>THAT’S</emp> the great puzzle!’ And she began thinking over
+            all the children she knew that were of the same age as herself, to see if she could have
+            been changed for any of them.</p>
         <p>‘I’m sure I’m not Ada,’ she said, ‘for her hair goes in such long ringlets, and mine
             doesn’t go in ringlets at all; and I’m sure I can’t be Mabel, for I know all sorts of
             things, and she, oh! she knows such a very little! Besides, <emp>SHE’S</emp> she, and
             I’m I, and--oh dear, how puzzling it all is! I’ll try if I know all the things I used to
             know. Let me see: four times five is twelve, and four times six is thirteen, and four
             times seven is--oh dear! I shall never get to twenty at that rate! However, the
-            Multiplication Table doesn’t signify: let’s try Geography. London is the capital of
-            Paris, and Paris is the capital of Rome, and Rome--no, <emp>THAT’S</emp> all wrong, I’m
-            certain! I must have been changed for Mabel! I’ll try and say “How doth the little--“’
-            and she crossed her hands on her lap as if she were saying lessons, and began to repeat
-            it, but her voice sounded hoarse and strange, and the words did not come the same as
-            they used to do:--</p>
-        <p> ‘How doth the little crocodile Improve his shining tail, And pour the waters of the Nile
-            On every golden scale!</p>
-        <p> ‘How cheerfully he seems to grin, How neatly spread his claws, And welcome little fishes
-            in With gently smiling jaws!’</p>
+            Multiplication Table doesn’t signify: let’s try Geography. <cultural>London is the
+                capital of Paris</cultural>, and <cultural>Paris is the capital of Rome</cultural>,
+            and <cultural>Rome</cultural>--no, <emp>THAT’S</emp> all wrong, I’m certain! I must have
+            been changed for Mabel! I’ll try and say “How doth the little--“’ and she crossed her
+            hands on her lap as if she were saying lessons, and began to repeat it, but her voice
+            sounded hoarse and strange, and the words did not come the same as they used to
+            do:--</p>
+        <p><song><stanza>‘How doth the little crocodile <emp>Improve</emp> his shining tail, And
+                    pour the waters of the Nile On every golden scale!</stanza>‘ <stanza>How
+                    cheerfully he seems to grin, How neatly spread his claws, And welcome little
+                    fishes in <emp>With</emp> gently smiling jaws!’</stanza></song></p>
         <p>‘I’m sure those are not the right words,’ said poor Alice, and her eyes filled with tears
             again as she went on, ‘I must be Mabel after all, and I shall have to go and live in
-            that poky little house, and have next to no toys to play with, and oh! ever so many
-            lessons to learn! No, I’ve made up my mind about it; if I’m Mabel, I’ll stay down here!
-            It’ll be no use their putting their heads down and saying “Come up again, dear!” I shall
-            only look up and say “Who am I then? Tell me that first, and then, if I like being that
-            person, I’ll come up: if not, I’ll stay down here till I’m somebody else”--but, oh
-            dear!’ cried Alice, with a sudden burst of tears, ‘I do wish they <emp>WOULD</emp> put
-            their heads down! I am so <emp>VERY</emp> tired of being all alone here!’</p>
+            that <word kind="uc">poky</word> little house, and have next to no toys to play with,
+            and oh! ever so many lessons to learn! No, I’ve made up my mind about it; if I’m Mabel,
+            I’ll stay down here! It’ll be no use their putting their heads down and saying “Come up
+            again, dear!” I shall only look up and say “Who am I then? Tell me that first, and then,
+            if I like being that person, I’ll come up: if not, I’ll stay down here till I’m somebody
+            else”--but, oh dear!’ cried Alice, with a sudden burst of tears, ‘I do wish they
+                <emp>WOULD</emp> put their heads down! I am so <emp>VERY</emp> tired of being all
+            alone here!’</p>
         <p>As she said this she looked down at her hands, and was surprised to see that she had put
             on one of the Rabbit’s little white kid gloves while she was talking. ‘How
                 <emp>CAN</emp> I have done that?’ she thought. ‘I must be growing small again.’ She
             got up and went to the table to measure herself by it, and found that, as nearly as she
             could guess, she was now about two feet high, and was going on shrinking rapidly: she
             soon found out that the cause of this was the fan she was holding, and she dropped it
-            hastily, just in time to avoid shrinking away altogether.</p>
+            hastily, just in time to avoid <phrase type="uc">shrinking away</phrase> altogether.</p>
         <p>‘That <emp>WAS</emp> a narrow escape!’ said Alice, a good deal frightened at the sudden
             change, but very glad to find herself still in existence; ‘and now for the garden!’ and
             she ran with all speed back to the little door: but, alas! the little door was shut
