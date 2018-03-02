@@ -1,3 +1,27 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgba(77,77,77,0.75);
+}
+li {
+    float:left;
+}
+li a {
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color:#267080;
+}
+.active {
+    background-color:#267080;
+}
 body {
     background-image: url("images/clouds-dennis.jpg");
     background-repeat:no-repeat;
@@ -14,21 +38,58 @@ h1 {
     box-shadow: 7px 7px 5px #637282;
     width:500px;
     padding:15px;
+    padding-top:5px;
+    padding-bottom:5px;
     margin: 30px auto;
     margin-left: auto;
     margin-right: auto;
-    margin-top:10px;
-    margin-bottom:10px;
 }
-div {
+h2 {
+    font-family: 'Arima Madurai', cursive;
+    color:#4d4d4d;
+    text-align:center;
+    padding:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+#description {
     font-family: 'Montserrat', sans-serif;
     color:black;
-    opacity:1;
     background-color:rgba(217,232,250,0.75);
     box-shadow: 7px 7px 5px #637282;
     opacity:.75;
+    width:900px;
     padding:15px;
     margin: 30px auto;
     margin-left: auto;
     margin-right: auto;
+}
+.flex-container {
+  display:flex;
+  flex-direction:row;
+  flex-wrap:nowrap;
+  justify-content: center;
+  align-items: baseline;
+}
+#english {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    background-color:rgba(217,232,250,0.75);
+    box-shadow: 7px 7px 5px #637282;
+    opacity:.75;
+    width:450px;
+    padding:15px;
+    margin: 30px auto;
+    margin-left:60px;
+}
+#japanese {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    background-color:rgba(217,232,250,0.75);
+    box-shadow: 7px 7px 5px #637282;
+    opacity:.75;
+    width:450px;
+    padding:15px;
+    margin: 30px auto;
+    margin-right:60px;
 }
