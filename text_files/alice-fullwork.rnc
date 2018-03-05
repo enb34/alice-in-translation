@@ -37,9 +37,15 @@ song =
     }
 stanza =
     element stanza {
-        mixed { (rhyme | word | phrase | onomatopoeia | emp)* }
+        mixed { (rhyme | word | phrase | onomatopoeia | emp | parenthesis)* }
     }
 emp = element emp { text }
 foreign = element foreign { language, text }
 language = attribute language { text }
 cultural = element cultural { text }
+
+
+
+# Definition of terms:
+# word/phrase kind/type: "iu"="incorrect usage" "ns"="nonsense words" "uc"="uncommon usage" "pow"="play on words"
+# rhyme def: "true"="true rhyme, the content rhymes" "trans"="translation of the rhyme, if the translation does not rhyme itself"
