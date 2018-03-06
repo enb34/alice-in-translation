@@ -27,25 +27,32 @@ rp =
         mixed { rhyme+ }
     }
 rpn = attribute rpn { xsd:int }
-rhyme = element rhyme { rn, def, text }
+rhyme =
+    element rhyme {
+        mixed { rn, def, emp* }
+    }
 def = attribute def { "true" | "trans" }
 rn = attribute rn { xsd:int }
 onomatopoeia = element onomatopoeia { text }
 song =
     element song {
-        mixed { (rhyme | word | phrase | stanza | onomatopoeia | emp)* }
+        mixed { (rp | word | phrase | stanza | onomatopoeia | emp)* }
     }
 stanza =
     element stanza {
-        mixed { (rhyme | word | phrase | onomatopoeia | emp | parenthesis)* }
+        mixed { (l | rp | word | phrase | onomatopoeia | emp | parenthesis)* }
+    }
+l =
+    element l {
+        mixed { (rp | word | phrase | onomatopoeia | emp | parenthesis)* }
     }
 emp = element emp { text }
 foreign = element foreign { language, text }
 language = attribute language { text }
-cultural = element cultural { text }
-
-
-
+cultural =
+    element cultural {
+        mixed { (word | phrase | rp | song | onomatopoeia | emp)* }
+    }
 # Definition of terms:
-# word/phrase kind/type: "iu"="incorrect usage" "ns"="nonsense words" "uc"="uncommon usage" "pow"="play on words"
+# word/phrase kind/type: "iu"="incorrect usage" "ns"="nonsense words" "uc"="uncommon/unconventional usage" "pow"="play on words"
 # rhyme def: "true"="true rhyme, the content rhymes" "trans"="translation of the rhyme, if the translation does not rhyme itself"
