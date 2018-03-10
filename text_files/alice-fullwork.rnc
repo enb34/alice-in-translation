@@ -3,7 +3,7 @@ book = element book { bookTitle, author, translator*, chapter+ }
 bookTitle = element bookTitle { text }
 author = element author { text }
 translator = element translator { text }
-chapter = element chapter { n, chapterTitle, (p | break)+ }
+chapter = element chapter { n, chapterTitle, (p | break | song)+ }
 n = attribute n { text }
 chapterTitle = element title { text }
 break = element break { text }
@@ -17,9 +17,9 @@ parenthesis =
     element parenthesis {
         mixed { (word | phrase | emp | cultural)* }
     }
-word = element word { kind, text }
+word = element word { kind, emp*, text }
 kind = attribute kind { "iu" | "ns" | "uc" | "pow" }
-phrase = element phrase { type, text }
+phrase = element phrase { type, emp*, text }
 type = attribute type { "iu" | "ns" | "uc" | "pow" }
 rp =
     element rp {

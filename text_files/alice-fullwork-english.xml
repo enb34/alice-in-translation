@@ -627,29 +627,29 @@
             her look up in a great hurry.</p>
         <p>An enormous puppy was looking down at her with large round eyes, and feebly stretching
             out one paw, trying to touch her. ‘Poor little thing!’ said Alice, in a coaxing tone,
-            and she tried hard to whistle to it; but she was terribly frightened all the time at the
-            thought that it might be hungry, in which case it would be very likely to eat her up in
-            spite of all her coaxing.</p>
+            and she tried hard to whistle to it; but she was terribly frightened <phrase type="uc"
+                >all the time</phrase> at the thought that it might be hungry, in which case it
+            would be very likely to eat her up in spite of all her coaxing.</p>
         <p>Hardly knowing what she did, she picked up a little bit of stick, and held it out to the
             puppy; whereupon the puppy jumped into the air off all its feet at once, with a yelp of
             delight, and rushed at the stick, and made believe to worry it; then Alice dodged behind
             a great thistle, to keep herself from being run over; and the moment she appeared on the
             other side, the puppy made another rush at the stick, and tumbled head over heels in its
-            hurry to get hold of it; then Alice, thinking it was very like having a game of play
-            with a cart-horse, and expecting every moment to be trampled under its feet, ran round
-            the thistle again; then the puppy began a series of short charges at the stick, running
-            a very little way forwards each time and a long way back, and barking hoarsely all the
-            while, till at last it sat down a good way off, panting, with its tongue hanging out of
-            its mouth, and its great eyes half shut.</p>
+            hurry to get hold of it; then Alice, thinking it was very like having a game of
+                <cultural>play with a cart-horse</cultural>, and expecting every moment to be
+            trampled under its feet, ran round the thistle again; then the puppy began a series of
+            short charges at the stick, running a very little way forwards each time and a long way
+            back, and barking hoarsely all the while, till at last it sat down a good way off,
+            panting, with its tongue hanging out of its mouth, and its great eyes half shut.</p>
         <p>This seemed to Alice a good opportunity for making her escape; so she set off at once,
             and ran till she was quite tired and out of breath, and till the puppy’s bark sounded
             quite faint in the distance.</p>
         <p>‘And yet what a dear little puppy it was!’ said Alice, as she leant against a buttercup
             to rest herself, and fanned herself with one of the leaves: ‘I should have liked
             teaching it tricks very much, if--if I’d only been the right size to do it! Oh dear! I’d
-            nearly forgotten that I’ve got to grow up again! Let me see--how <emp>IS</emp> it to be
-            managed? I suppose I ought to eat or drink something or other; but the great question
-            is, what?’</p>
+            nearly forgotten that I’ve got to <phrase type="pow">grow up</phrase> again! Let me
+            see--how <emp>IS</emp> it to be managed? I suppose I ought to eat or drink something or
+            other; but the great question is, what?’</p>
         <p>The great question certainly was, what? Alice looked all round her at the flowers and the
             blades of grass, but she did not see anything that looked like the right thing to eat or
             drink under the circumstances. There was a large mushroom growing near her, about the
@@ -705,47 +705,106 @@
         <p>‘I’m afraid I am, sir,’ said Alice; ‘I can’t remember things as I used--and I don’t keep
             the same size for ten minutes together!’</p>
         <p>‘Can’t remember <emp>WHAT</emp> things?’ said the Caterpillar.</p>
-        <p>‘Well, I’ve tried to say “<emp>HOW DOTH THE LITTLE BUSY BEE</emp>,” but it all came
-            different!’ Alice replied in a very melancholy voice.</p>
-        <p>‘Repeat, “YOU ARE OLD, FATHER WILLIAM,”’ said the Caterpillar.</p>
+        <p>‘Well, I’ve tried to say <cultural><emp>HOW DOTH THE LITTLE BUSY BEE</emp></cultural>,
+            but it all came different!’ Alice replied in a very melancholy voice.</p>
+        <p>‘Repeat, <cultural><emp>YOU ARE OLD, FATHER WILLIAM</emp></cultural>,’ said the
+            Caterpillar.</p>
         <p>Alice folded her hands, and began:--</p>
-        <p> ‘You are old, Father William,’ the young man said, ‘And your hair has become very white;
-            And yet you incessantly stand on your head-- Do you think, at your age, it is
-            right?’</p>
-        <p> ‘In my youth,’ Father William replied to his son, ‘I feared it might injure the brain;
-            But, now that I’m perfectly sure I have none, Why, I do it again and again.’</p>
-        <p> ‘You are old,’ said the youth, ‘as I mentioned before, And have grown most uncommonly
-            fat; Yet you turned a back-somersault in at the door-- Pray, what is the reason of
-            that?’</p>
-        <p> ‘In my youth,’ said the sage, as he shook his grey locks, ‘I kept all my limbs very
-            supple By the use of this ointment--one shilling the box-- Allow me to sell you a
-            couple?’</p>
-        <p> ‘You are old,’ said the youth, ‘and your jaws are too weak For anything tougher than
-            suet; Yet you finished the goose, with the bones and the beak-- Pray how did you manage
-            to do it?’</p>
-        <p> ‘In my youth,’ said his father, ‘I took to the law, And argued each case with my wife;
-            And the muscular strength, which it gave to my jaw, Has lasted the rest of my life.’</p>
-        <p> ‘You are old,’ said the youth, ‘one would hardly suppose That your eye was as steady as
-            ever; Yet you balanced an eel on the end of your nose-- What made you so awfully
-            clever?’</p>
-        <p> ‘I have answered three questions, and that is enough,’ Said his father; ‘don’t give
-            yourself airs! Do you think I can listen all day to such stuff? Be off, or I’ll kick you
-            down stairs!’</p>
+        <song>
+            <stanza>
+                <rp rpn="008">
+                    <rhyme rn="01" def="true">‘You are old, Father William,’ the young man
+                        said,</rhyme>
+                    <rhyme rn="02" def="true">‘And your hair has become very white;</rhyme>
+                    <rhyme rn="01" def="true">And yet you incessantly stand on your head--</rhyme>
+                    <rhyme rn="02" def="true">Do you think, at your age, it is right?’</rhyme>
+                </rp>
+            </stanza>
+            <stanza>
+                <rp rpn="009">
+                    <rhyme rn="01" def="true">‘In my youth,’ Father William replied to his
+                        son,</rhyme>
+                    <rhyme rn="02" def="true">‘I feared it might injure the brain;</rhyme>
+                    <rhyme rn="01" def="true">But, now that I’m perfectly sure I have none,</rhyme>
+                    <rhyme rn="02" def="true">Why, I do it again and again.’</rhyme>
+                </rp>
+            </stanza>
+            <stanza>
+                <rp rpn="010">
+                    <rhyme rn="01" def="true">‘You are old,’ said the youth, ‘as I mentioned
+                        before,</rhyme>
+                    <rhyme rn="02" def="true">And have grown most uncommonly fat;</rhyme>
+                    <rhyme rn="01" def="true">Yet you turned a back-somersault in at the
+                        door--</rhyme>
+                    <rhyme rn="02" def="true">Pray, what is the reason of that?’</rhyme>
+                </rp>
+            </stanza>
+            <stanza>
+                <rp rpn="011">
+                    <rhyme rn="01" def="true">‘In my youth,’ said the sage, as he shook his grey
+                        locks,</rhyme>
+                    <rhyme rn="02" def="true">‘I kept all my limbs very supple </rhyme>
+                    <rhyme rn="01" def="true">By the use of this ointment--one shilling the
+                        box--</rhyme>
+                    <rhyme rn="02" def="true">Allow me to sell you a couple?’</rhyme>
+                </rp>
+            </stanza>
+            <stanza>
+                <rp rpn="012">
+                    <rhyme rn="01" def="true">‘You are old,’ said the youth, ‘and your jaws are too
+                        weak</rhyme>
+                    <rhyme rn="02" def="true">For anything tougher than suet;</rhyme>
+                    <rhyme rn="01" def="true">Yet you finished the goose, with the bones and the
+                        beak--</rhyme>
+                    <rhyme rn="02" def="true">Pray how did you manage to do it?’</rhyme>
+                </rp>
+            </stanza>
+            <stanza>
+                <rp rpn="013">
+                    <rhyme rn="01" def="true">‘In my youth,’ said his father, ‘I took to the
+                        law,</rhyme>
+                    <rhyme rn="02" def="true">And argued each case with my wife;</rhyme>
+                    <rhyme rn="01" def="true">And the muscular strength, which it gave to my
+                        jaw,</rhyme>
+                    <rhyme rn="02" def="true">Has lasted the rest of my life.’</rhyme></rp>
+            </stanza>
+            <stanza>
+                <rp rpn="014">
+                    <rhyme rn="01" def="true">‘You are old,’ said the youth, ‘one would hardly
+                        suppose</rhyme>
+                    <rhyme rn="02" def="true">That your eye was as steady as ever;</rhyme>
+                    <rhyme rn="01" def="true">Yet you balanced an eel on the end of your
+                        nose--</rhyme>
+                    <rhyme rn="02" def="true">What made you so awfully clever?’</rhyme>
+                </rp>
+            </stanza>
+            <stanza>
+                <rp rpn="015">
+                    <rhyme rn="01" def="true">‘I have answered three questions, and that is
+                        enough,’</rhyme>
+                    <rhyme rn="02" def="true">Said his father; ‘don’t give yourself airs!</rhyme>
+                    <rhyme rn="01" def="true">Do you think I can listen all day to such
+                        stuff?</rhyme>
+                    <rhyme rn="02" def="true">Be off, or I’ll kick you down stairs!’</rhyme>
+                </rp>
+            </stanza>
+        </song>
+        <!--Parody of Robert Southey's poem "The Old Man's Comforts and How He Gained Them"-->
         <p>‘That is not said right,’ said the Caterpillar.</p>
-        <p>‘Not QUITE right, I’m afraid,’ said Alice, timidly; ‘some of the words have got
-            altered.’</p>
+        <p>‘Not <emp>QUITE</emp> right, I’m afraid,’ said Alice, timidly; ‘some of the words have
+            got altered.’</p>
         <p>‘It is wrong from beginning to end,’ said the Caterpillar decidedly, and there was
             silence for some minutes.</p>
         <p>The Caterpillar was the first to speak.</p>
         <p>‘What size do you want to be?’ it asked.</p>
         <p>‘Oh, I’m not particular as to size,’ Alice hastily replied; ‘only one doesn’t like
             changing so often, you know.’</p>
-        <p>‘I DON’T know,’ said the Caterpillar.</p>
+        <p>‘I <emp>DON’T</emp> know,’ said the Caterpillar.</p>
         <p>Alice said nothing: she had never been so much contradicted in her life before, and she
             felt that she was losing her temper.</p>
         <p>‘Are you content now?’ said the Caterpillar.</p>
-        <p>‘Well, I should like to be a LITTLE larger, sir, if you wouldn’t mind,’ said Alice:
-            ‘three inches is such a wretched height to be.’</p>
+        <p>‘Well, I should like to be a <phrase type="pow"><emp>LITTLE</emp> larger</phrase>, sir,
+            if you wouldn’t mind,’ said Alice: ‘three inches is such a wretched height to be.’</p>
         <p>‘It is a very good height indeed!’ said the Caterpillar angrily, rearing itself upright
             as it spoke <parenthesis>it was exactly three inches high</parenthesis>.</p>
         <p>‘But I’m not used to it!’ pleaded poor Alice in a piteous tone. And she thought of
@@ -777,19 +836,19 @@
             in another moment, when she found that her shoulders were nowhere to be found: all she
             could see, when she looked down, was an immense length of neck, which seemed to rise
             like a stalk out of a sea of green leaves that lay far below her.</p>
-        <p>‘What CAN all that green stuff be?’ said Alice. ‘And where HAVE my shoulders got to? And
-            oh, my poor hands, how is it I can’t see you?’ She was moving them about as she spoke,
-            but no result seemed to follow, except a little shaking among the distant green
-            leaves.</p>
+        <p>‘What <emp>CAN</emp> all that green stuff be?’ said Alice. ‘And where <emp>HAVE</emp> my
+            shoulders got to? And oh, my poor hands, how is it I can’t see you?’ She was moving them
+            about as she spoke, but no result seemed to follow, except a little shaking among the
+            distant green leaves.</p>
         <p>As there seemed to be no chance of getting her hands up to her head, she tried to get her
             head down to them, and was delighted to find that her neck would bend about easily in
             any direction, like a serpent. She had just succeeded in curving it down into a graceful
-            zigzag, and was going to dive in among the leaves, which she found to be nothing but the
-            tops of the trees under which she had been wandering, when a sharp hiss made her draw
-            back in a hurry: a large pigeon had flown into her face, and was beating her violently
-            with its wings.</p>
+                <onomatopoeia>zigzag</onomatopoeia>, and was going to dive in among the leaves,
+            which she found to be nothing but the tops of the trees under which she had been
+            wandering, when a sharp hiss made her draw back in a hurry: a large pigeon had flown
+            into her face, and was beating her violently with its wings.</p>
         <p>‘Serpent!’ screamed the Pigeon.</p>
-        <p>‘I’m NOT a serpent!’ said Alice indignantly. ‘Let me alone!’</p>
+        <p>‘I’m <emp>NOT</emp> a serpent!’ said Alice indignantly. ‘Let me alone!’</p>
         <p>‘Serpent, I say again!’ repeated the Pigeon, but in a more subdued tone, and added with a
             kind of sob, ‘I’ve tried every way, and nothing seems to suit them!’</p>
         <p>‘I haven’t the least idea what you’re talking about,’ said Alice.</p>
@@ -810,18 +869,20 @@
         <p>‘I--I’m a little girl,’ said Alice, rather doubtfully, as she remembered the number of
             changes she had gone through that day.</p>
         <p>‘A likely story indeed!’ said the Pigeon in a tone of the deepest contempt. ‘I’ve seen a
-            good many little girls in my time, but never ONE with such a neck as that! No, no!
-            You’re a serpent; and there’s no use denying it. I suppose you’ll be telling me next
-            that you never tasted an egg!’</p>
-        <p>‘I HAVE tasted eggs, certainly,’ said Alice, who was a very truthful child; ‘but little
-            girls eat eggs quite as much as serpents do, you know.’</p>
+            good many little girls in my time, but never <emp>ONE</emp> with such a neck as that!
+            No, no! You’re a serpent; and there’s no use denying it. I suppose you’ll be telling me
+            next that you never tasted an egg!’</p>
+        <p>‘I <emp>HAVE</emp> tasted eggs, certainly,’ said Alice, who was a very truthful child;
+            ‘but little girls eat eggs quite as much as serpents do, you know.’</p>
         <p>‘I don’t believe it,’ said the Pigeon; ‘but if they do, why then they’re a kind of
             serpent, that’s all I can say.’</p>
         <p>This was such a new idea to Alice, that she was quite silent for a minute or two, which
-            gave the Pigeon the opportunity of adding, ‘You’re looking for eggs, I know THAT well
-            enough; and what does it matter to me whether you’re a little girl or a serpent?’</p>
-        <p>‘It matters a good deal to ME,’ said Alice hastily; ‘but I’m not looking for eggs, as it
-            happens; and if I was, I shouldn’t want YOURS: I don’t like them raw.’</p>
+            gave the Pigeon the opportunity of adding, ‘You’re looking for eggs, I know
+                <emp>THAT</emp> well enough; and what does it matter to me whether you’re a little
+            girl or a serpent?’</p>
+        <p>‘It matters a good deal to <emp>ME</emp>,’ said Alice hastily; ‘but I’m not looking for
+            eggs, as it happens; and if I was, I shouldn’t want <emp>YOURS</emp>: I don’t like them
+            raw.’</p>
         <p>‘Well, be off, then!’ said the Pigeon in a sulky tone, as it settled down again into its
             nest. Alice crouched down among the trees as well as she could, for her neck kept
             getting entangled among the branches, and every now and then she had to stop and untwist
@@ -836,25 +897,28 @@
             my right size: the next thing is, to get into that beautiful garden--how IS that to be
             done, I wonder?’ As she said this, she came suddenly upon an open place, with a little
             house in it about four feet high. ‘Whoever lives there,’ thought Alice, ‘it’ll never do
-            to come upon them THIS size: why, I should frighten them out of their wits!’ So she
-            began nibbling at the righthand bit again, and did not venture to go near the house till
-            she had brought herself down to nine inches high.</p>
+            to come upon them <emp>THIS</emp> size: why, I should frighten them out of their wits!’
+            So she began nibbling at the righthand bit again, and did not venture to go near the
+            house till she had brought herself down to nine inches high.</p>
     </chapter>
     <chapter n="VI">
         <title>CHAPTER VI. Pig and Pepper</title>
         <p>For a minute or two she stood looking at the house, and wondering what to do next, when
-            suddenly a footman in livery came running out of the wood--<parenthesis>she considered
-                him to be a footman because he was in livery: otherwise, judging by his face only,
+            suddenly a <cultural>footman</cultural> in <cultural>livery</cultural> came running out
+            of the wood--<parenthesis>she considered him to be a <cultural>footman</cultural>
+                because he was in <cultural>livery</cultural>: otherwise, judging by his face only,
                 she would have called him a fish</parenthesis>--and rapped loudly at the door with
-            his knuckles. It was opened by another footman in livery, with a round face, and large
-            eyes like a frog; and both footmen, Alice noticed, had powdered hair that curled all
-            over their heads. She felt very curious to know what it was all about, and crept a
-            little way out of the wood to listen.</p>
+            his knuckles. It was opened by another <cultural>footman</cultural> in
+                <cultural>livery</cultural>, with a round face, and large eyes like a frog; and both
+                <cultural>footmen</cultural>, Alice noticed, had <cultural>powdered hair</cultural>
+            that curled all over their heads. She felt very curious to know what it was all about,
+            and crept a little way out of the wood to listen.</p>
         <p>The Fish-Footman began by producing from under his arm a great letter, nearly as large as
             himself, and this he handed over to the other, saying, in a solemn tone, ‘For the
-            Duchess. An invitation from the Queen to play croquet.’ The Frog-Footman repeated, in
-            the same solemn tone, only changing the order of the words a little, ‘From the Queen. An
-            invitation for the Duchess to play croquet.’</p>
+            Duchess. An invitation from the Queen to play <cultural>croquet</cultural>.’ The
+            Frog-Footman repeated, in the same solemn tone, only changing the order of the words a
+            little, ‘From the Queen. An invitation for the Duchess to play
+                <cultural>croquet</cultural>.’</p>
         <p>Then they both bowed low, and their curls got entangled together.</p>
         <p>Alice laughed so much at this, that she had to run back into the wood for fear of their
             hearing her; and when she next peeped out the Fish-Footman was gone, and the other was
@@ -899,7 +963,7 @@
         <p>There was certainly too much of it in the air. Even the Duchess sneezed occasionally; and
             as for the baby, it was sneezing and howling alternately without a moment’s pause. The
             only things in the kitchen that did not sneeze, were the cook, and a large cat which was
-            sitting on the hearth and grinning from ear to ear.</p>
+            sitting on the hearth and <phrase type="pow">grinning from ear to ear</phrase>.</p>
         <p>‘Please would you tell me,’ said Alice, a little timidly, for she was not quite sure
             whether it was good manners for her to speak first, ‘why your cat grins like that?’</p>
         <p>‘It’s a Cheshire cat,’ said the Duchess, ‘and that’s why. Pig!’</p>
