@@ -1224,7 +1224,7 @@
             the Queen of Hearts, and I had to sing</p>
         <song>“<rp rpn="018"><rhyme rn="01" def="true">Twinkle, twinkle, little bat! How I wonder
                     what you’re at!</rhyme></rp>”</song>
-        <!--Reference to "Twinkle Twinkle Little Star"-->
+        <!--Parody of "Twinkle Twinkle Little Star"-->
         <p>You know the song, perhaps?’</p>
         <p>‘I’ve heard something like it,’ said Alice.</p>
         <p>‘It goes on, you know,’ the Hatter continued, ‘in this way:--</p>
@@ -1477,9 +1477,7 @@
             any rules in particular; at least, if there are, nobody attends to them--and you’ve no
             idea how confusing it is all the things being alive; for instance, there’s the arch I’ve
             got to go through next walking about at the other end of the ground--and I should have
-                <word kind="ns">croqueted</word> the Queen’s hedgehog just now, only it ran away
-            when it saw mine coming!’</p>
-        <!--Check validity of word 'croqueted'-->
+            croqueted the Queen’s hedgehog just now, only it ran away when it saw mine coming!’</p>
         <p>‘How do you like the Queen?’ said the Cat in a low voice.</p>
         <p>‘Not at all,’ said Alice: ‘she’s so extremely--’ Just then she noticed that the Queen was
             close behind her, listening: so she went on, ‘--likely to win, that it’s hardly worth
@@ -1569,13 +1567,12 @@
             a little.</p>
         <p>‘’Tis so,’ said the Duchess: ‘and the moral of that is--<phrase type="iu">“Oh, ‘tis love,
                 ‘tis love, that makes the world go round!”</phrase>’</p>
-        <!--Check reference-->
         <p>‘Somebody said,’ Alice whispered, ‘that it’s done by everybody minding their own
             business!’</p>
         <p>‘Ah, well! It means much the same thing,’ said the Duchess, digging her sharp little chin
-            into Alice’s shoulder as she added, ‘and the moral of <emp>THAT</emp> is--“Take care of
-            the sense, and the sounds will take care of themselves.”’</p>
-        <!--Check reference-->
+            into Alice’s shoulder as she added, ‘and the moral of <emp>THAT</emp> is--<phrase
+                type="iu">“Take care of the sense, and the sounds will take care of
+                themselves.”</phrase>’</p>
         <p>‘How fond she is of finding morals in things!’ Alice thought to herself.</p>
         <p>‘I dare say you’re wondering why I don’t put my arm round your waist,’ the Duchess said
             after a pause: ‘the reason is, that I’m doubtful about the temper of your flamingo.
@@ -1589,10 +1586,10 @@
         <p>‘Right, as usual,’ said the Duchess: ‘what a clear way you have of putting things!’</p>
         <p>‘It’s a mineral, I <emp>THINK</emp>,’ said Alice.</p>
         <p>‘Of course it is,’ said the Duchess, who seemed ready to agree to everything that Alice
-            said; ‘there’s a large mustard-mine near here. And the moral of that is--<phrase
-                type="iu">“The more there is of <word kind="pow">mine</word>, the less there is of
-                yours.”</phrase>’</p>
-        <!--Check mustard-mine reference-->
+            said; ‘there’s a large <phrase type="pow">mustard-mine</phrase> near here. And the moral
+            of that is--<phrase type="iu">“The more there is of <word kind="pow">mine</word>, the
+                less there is of yours.”</phrase>’</p>
+        <!--mustard: food and sulfur mustard-->
         <p>‘Oh, I know!’ exclaimed Alice, who had not attended to this last remark, ‘it’s a
             vegetable. It doesn’t look like one, but it is.’</p>
         <p>‘I quite agree with you,’ said the Duchess; ‘and the moral of that is--<phrase type="iu"
@@ -1708,33 +1705,35 @@
         <p>‘I couldn’t afford to learn it.’ said the Mock Turtle with a sigh. ‘I only took the
             regular course.’</p>
         <p>‘What was that?’ inquired Alice.</p>
-        <p>‘Reeling and Writhing, of course, to begin with,’ the Mock Turtle replied; ‘and then the
-            different branches of <word kind="iu">Arithmetic</word>--Ambition, Distraction, <word
-                kind="ns">Uglification</word>, and Derision.’</p>
-        <!--Check to see what Arithmetic here could be-is it the synonym of another word that could work
-            better here?-->
+        <p>‘<word kind="pow">Reeling</word> and <word kind="pow">Writhing</word>, of course, to
+            begin with,’ the Mock Turtle replied; ‘and then the different branches of
+                Arithmetic--<word kind="pow">Ambition</word>, <word kind="pow">Distraction</word>,
+                <word kind="ns">Uglification</word>, and <word kind="pow">Derision</word>.’</p>
+        <!--How to tag uglification as both "ns" and "pow"?-->
+        <!--reading, writing, addition, subtraction, multiplication, division-->
         <p>‘I never heard of “<word kind="ns">Uglification</word>,”’ Alice ventured to say. ‘What is
             it?’</p>
         <p>The Gryphon lifted up both its paws in surprise. ‘What! Never heard of <word kind="ns"
-                >uglifying</word>!’ it exclaimed. ‘You know what to <word kind="ns">beautify</word>
-            is, I suppose?’</p>
-        <!--Check whether "beautify" is a word-->
+                >uglifying</word>!’ it exclaimed. ‘You know what to beautify is, I suppose?’</p>
         <p>‘Yes,’ said Alice doubtfully: ‘it means--to--make--anything--prettier.’</p>
         <p>‘Well, then,’ the Gryphon went on, ‘if you don’t know what to <word kind="ns"
                 >uglify</word> is, you <emp>ARE</emp> a simpleton.’</p>
         <p>Alice did not feel encouraged to ask any more questions about it, so she turned to the
             Mock Turtle, and said ‘What else had you to learn?’</p>
-        <p>‘Well, there was Mystery,’ the Mock Turtle replied, counting off the subjects on his
-            flappers, ‘--Mystery, ancient and modern, with Seaography: then Drawling--the
-            Drawling-master was an old conger-eel, that used to come once a week: <emp>HE</emp>
-            taught us Drawling, Stretching, and Fainting in Coils.’</p>
+        <p>‘Well, there was <word kind="pow">Mystery</word>,’ the Mock Turtle replied, counting off
+            the subjects on his flappers, ‘--<word kind="pow">Mystery</word>, ancient and modern,
+            with <word kind="pow">Seaography</word>: then <word kind="pow">Drawling</word>--the
+                <word kind="pow">Drawling</word>-master was an old conger-eel, that used to come
+            once a week: <emp>HE</emp> taught us <word kind="pow">Drawling</word>, <word kind="pow"
+                >Stretching</word>, and <phrase type="pow">Fainting in Coils</phrase>.’</p>
         <p>‘What was <emp>THAT</emp> like?’ said Alice.</p>
         <p>‘Well, I can’t show it you myself,’ the Mock Turtle said: ‘I’m too stiff. And the Gryphon
             never learnt it.’</p>
         <p>‘Hadn’t time,’ said the Gryphon: ‘I went to the Classics master, though. He was an old
             crab, <emp>HE</emp> was.’</p>
-        <p>‘I never went to him,’ the Mock Turtle said with a sigh: ‘he taught Laughing and Grief,
-            they used to say.’</p>
+        <p>‘I never went to him,’ the Mock Turtle said with a sigh: ‘he taught <word kind="pow"
+                >Laughing</word> and <word kind="pow">Grief</word>, they used to say.’</p>
+        <!--history, geography, drawing, sketching, painting in oils, latin, greek-->
         <p>‘So he did, so he did,’ said the Gryphon, sighing in his turn; and both creatures hid
             their faces in their paws.</p>
         <p>‘And how many hours a day did you do lessons?’ said Alice, in a hurry to change the
@@ -1790,9 +1789,10 @@
         <p>So they began solemnly dancing round and round Alice, every now and then treading on her
             toes when they passed too close, and waving their forepaws to mark the time, while the
             Mock Turtle sang this, very slowly and sadly:--</p>
-        <song> ‘<stanza>
+        <song>
+            <stanza>
                 <rp rpn="020">
-                    <rhyme rn="01" def="true">“Will you walk a little faster?” said a whiting to a
+                    <rhyme rn="01" def="true">‘“Will you walk a little faster?” said a whiting to a
                         snail.</rhyme>
                     <rhyme rn="02" def="true">“There’s a porpoise close behind us, and he’s treading
                         on my tail.</rhyme>
@@ -1843,10 +1843,9 @@
         <!--Song tags: in the two stanzas without rhyme, should the repetition be tagged? As phrases?
             Would this be interesting to track across translations, or should it just be left as it 
             currently is?-->
-        <!--Song reference?-->
+        <!--Parody of Mary Botham Howitt's "The Spider and the Fly"-->
         <p>‘Thank you, it’s a very interesting dance to watch,’ said Alice, feeling very glad that
             it was over at last: ‘and I do so like that curious song about the whiting!’</p>
-        <!--Look up whiting-->
         <p>‘Oh, as to the whiting,’ said the Mock Turtle, ‘they--you’ve seen them, of course?’</p>
         <p>‘Yes,’ said Alice, ‘I’ve often seen them at dinn--’ she checked herself hastily.</p>
         <p>‘I don’t know where Dinn may be,’ said the Mock Turtle, ‘but if you’ve seen them so
@@ -1939,8 +1938,9 @@
                         around,</rhyme>
                     <rhyme rn="02" def="true">His voice has a timid and tremulous sound.</rhyme>
                 </rp>
-            </stanza> r</song>
-        <!--Check song reference-->
+            </stanza>
+        </song>
+        <!--Parody of Isaac Watts's "'Tis the Voice of the Sluggard"-->
         <p>‘That’s different from what I used to say when I was a child,’ said the Gryphon.</p>
         <p>‘Well, I never heard it before,’ said the Mock Turtle; ‘but it sounds uncommon
             nonsense.’</p>
@@ -1981,7 +1981,7 @@
                 banquet-- </stanza>
         </song>
         <!--Incomplete rhyme phrase-->
-        <!--Check reference-->
+        <!--Parody of Watts's "'Tis the Voice of the Sluggard", continued-->
         <p>‘What <emp>IS</emp> the use of repeating all that stuff,’ the Mock Turtle interrupted,
             ‘if you don’t explain it as you go on? It’s by far the most confusing thing I ever
             heard!’</p>
@@ -2328,7 +2328,7 @@
                 <rp rpn="047"><rhyme rn="02" def="true">Between yourself and me.’</rhyme></rp>
             </stanza>
         </song>
-        <!--Check reference-->
+        <!--Song reference unknown-->
         <p>‘That’s the most important piece of evidence we’ve heard yet,’ said the King, rubbing his
             hands; ‘so now let the jury--’</p>
         <p>‘If any one of them can explain it,’ said Alice, <parenthesis>she had grown so large in
