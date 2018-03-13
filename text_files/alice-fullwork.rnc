@@ -15,11 +15,11 @@ p =
     }
 parenthesis =
     element parenthesis {
-        mixed { (word | phrase | emp | cultural)* }
+        mixed { (word | phrase | emp | cultural | rp )* }
     }
-word = element word { kind, emp*, text }
+word = element word { mixed { ( kind, emp* ) } }
 kind = attribute kind { "iu" | "ns" | "uc" | "pow" }
-phrase = element phrase { type, emp*, text }
+phrase = element phrase { mixed { ( type, ( emp | word )* ) } }
 type = attribute type { "iu" | "ns" | "uc" | "pow" }
 rp =
     element rp {
@@ -53,6 +53,8 @@ cultural =
     element cultural {
         mixed { (word | phrase | rp | song | onomatopoeia | emp)* }
     }
+
+
 # Definition of terms:
 # word/phrase kind/type: "iu"="incorrect usage" "ns"="nonsense words" "uc"="uncommon/unconventional usage" "pow"="play on words"
 # rhyme def: "true"="true rhyme, the content rhymes" "trans"="translation of the rhyme, if the translation does not rhyme itself"

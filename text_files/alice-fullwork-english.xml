@@ -970,8 +970,8 @@
         <p>She said the last word with such sudden violence that Alice quite jumped; but she saw in
             another moment that it was addressed to the baby, and not to her, so she took courage,
             and went on again:--</p>
-        <p>‘I didn’t know that Cheshire cats always grinned; in fact, I didn’t know that cats COULD
-            grin.’</p>
+        <p>‘I didn’t know that Cheshire cats always grinned; in fact, I didn’t know that cats
+                <emp>COULD</emp> grin.’</p>
         <p>‘They all can,’ said the Duchess; ‘and most of ‘em do.’</p>
         <p>‘I don’t know of any that do,’ Alice said very politely, feeling quite pleased to have
             got into a conversation.</p>
@@ -979,43 +979,56 @@
         <p>Alice did not at all like the tone of this remark, and thought it would be as well to
             introduce some other subject of conversation. While she was trying to fix on one, the
             cook took the cauldron of soup off the fire, and at once set to work throwing everything
-            within her reach at the Duchess and the baby--the fire-irons came first; then followed a
-            shower of saucepans, plates, and dishes. The Duchess took no notice of them even when
-            they hit her; and the baby was howling so much already, that it was quite impossible to
-            say whether the blows hurt it or not.</p>
-        <p>‘Oh, PLEASE mind what you’re doing!’ cried Alice, jumping up and down in an agony of
-            terror. ‘Oh, there goes his PRECIOUS nose’; as an unusually large saucepan flew close by
-            it, and very nearly carried it off.</p>
+            within her reach at the Duchess and the baby--the <cultural>fire-irons</cultural> came
+            first; then followed a shower of saucepans, plates, and dishes. The Duchess took no
+            notice of them even when they hit her; and the baby was howling so much already, that it
+            was quite impossible to say whether the blows hurt it or not.</p>
+        <p>‘Oh, <emp>PLEASE</emp> mind what you’re doing!’ cried Alice, jumping up and down in an
+                <word kind="uc">agony</word> of terror. ‘Oh, there goes his <emp>PRECIOUS</emp>
+            nose’; as an unusually large saucepan flew close by it, and very nearly carried it
+            off.</p>
         <p>‘If everybody minded their own business,’ the Duchess said in a hoarse growl, ‘the world
             would go round a deal faster than it does.’</p>
-        <p>‘Which would NOT be an advantage,’ said Alice, who felt very glad to get an opportunity
-            of showing off a little of her knowledge. ‘Just think of what work it would make with
-            the day and night! You see the earth takes twenty-four hours to turn round on its
-            axis--’</p>
-        <p>‘Talking of axes,’ said the Duchess, ‘chop off her head!’</p>
+        <p>‘Which would <emp>NOT</emp> be an advantage,’ said Alice, who felt very glad to get an
+            opportunity of showing off a little of her knowledge. ‘Just think of what work it would
+            make with the day and night! You see the earth takes twenty-four hours to turn round on
+            its axis--’</p>
+        <p>‘Talking of <word kind="pow">axes</word>,’ said the Duchess, ‘chop off her head!’</p>
         <p>Alice glanced rather anxiously at the cook, to see if she meant to take the hint; but the
             cook was busily stirring the soup, and seemed not to be listening, so she went on again:
-            ‘Twenty-four hours, I THINK; or is it twelve? I--’</p>
-        <p>‘Oh, don’t bother ME,’ said the Duchess; ‘I never could abide figures!’ And with that she
-            began nursing her child again, singing a sort of lullaby to it as she did so, and giving
-            it a violent shake at the end of every line:</p>
-        <p> ‘Speak roughly to your little boy, And beat him when he sneezes: He only does it to
-            annoy, Because he knows it teases.’</p>
-        <p> CHORUS.</p>
-        <p>
-            <parenthesis>In which the cook and the baby joined</parenthesis>:--</p>
-        <p> ‘Wow! wow! wow!’</p>
+            ‘Twenty-four hours, I <emp>THINK</emp>; or is it twelve? I--’</p>
+        <p>‘Oh, don’t bother <emp>ME</emp>,’ said the Duchess; ‘I never could abide figures!’ And
+            with that she began nursing her child again, singing a sort of lullaby to it as she did
+            so, and giving it a violent shake at the end of every line:</p>
+        <song>
+            <stanza>
+                <rp rpn="016">
+                    <rhyme rn="01" def="true">‘Speak roughly to your little boy,</rhyme>
+                    <rhyme rn="02" def="true">And beat him when he sneezes:</rhyme>
+                    <rhyme rn="01" def="true">He only does it to annoy,</rhyme>
+                    <rhyme rn="02" def="true">Because he knows it teases.’</rhyme>
+                </rp>
+            </stanza>
+            <stanza><emp>CHORUS</emp>. <parenthesis>In which the cook and the baby
+                    joined</parenthesis>:-- ‘Wow! wow! wow!’</stanza>
+        </song>
         <p>While the Duchess sang the second verse of the song, she kept tossing the baby violently
             up and down, and the poor little thing howled so, that Alice could hardly hear the
             words:--</p>
-        <p> ‘I speak severely to my boy, I beat him when he sneezes; For he can thoroughly enjoy The
-            pepper when he pleases!’</p>
-        <p> CHORUS.</p>
-        <p> ‘Wow! wow! wow!’</p>
+        <song>
+            <stanza>
+                <rp rpn="016">
+                    <rhyme rn="01" def="true">‘I speak severely to my boy,</rhyme>
+                    <rhyme rn="02" def="true">I beat him when he sneezes;</rhyme>
+                    <rhyme rn="01" def="true">For he can thoroughly enjoy</rhyme>
+                    <rhyme rn="02" def="true">The pepper when he pleases!</rhyme>’ </rp>
+            </stanza>
+            <stanza><emp>CHORUS</emp>. ‘Wow! wow! wow!’</stanza>
+        </song>
         <p>‘Here! you may nurse it a bit, if you like!’ the Duchess said to Alice, flinging the baby
-            at her as she spoke. ‘I must go and get ready to play croquet with the Queen,’ and she
-            hurried out of the room. The cook threw a frying-pan after her as she went out, but it
-            just missed her.</p>
+            at her as she spoke. ‘I must go and get ready to play <cultural>croquet</cultural> with
+            the Queen,’ and she hurried out of the room. The cook threw a frying-pan after her as
+            she went out, but it just missed her.</p>
         <p>Alice caught the baby with some difficulty, as it was a queer-shaped little creature, and
             held out its arms and legs in all directions, ‘just like a star-fish,’ thought Alice.
             The poor little thing was snorting like a steam-engine when she caught it, and kept
@@ -1024,16 +1037,16 @@
         <p>As soon as she had made out the proper way of nursing it, <parenthesis>which was to twist
                 it up into a sort of knot, and then keep tight hold of its right ear and left foot,
                 so as to prevent its undoing itself,</parenthesis> she carried it out into the open
-            air. ‘IF I don’t take this child away with me,’ thought Alice, ‘they’re sure to kill it
-            in a day or two: wouldn’t it be murder to leave it behind?’ She said the last words out
-            loud, and the little thing grunted in reply <parenthesis>it had left off sneezing by
-                this time</parenthesis>. ‘Don’t grunt,’ said Alice; ‘that’s not at all a proper way
-            of expressing yourself.’</p>
+            air. ‘<emp>IF</emp> I don’t take this child away with me,’ thought Alice, ‘they’re sure
+            to kill it in a day or two: wouldn’t it be murder to leave it behind?’ She said the last
+            words out loud, and the little thing grunted in reply <parenthesis>it had left off
+                sneezing by this time</parenthesis>. ‘Don’t grunt,’ said Alice; ‘that’s not at all a
+            proper way of expressing yourself.’</p>
         <p>The baby grunted again, and Alice looked very anxiously into its face to see what was the
-            matter with it. There could be no doubt that it had a VERY turn-up nose, much more like
-            a snout than a real nose; also its eyes were getting extremely small for a baby:
-            altogether Alice did not like the look of the thing at all. ‘But perhaps it was only
-            sobbing,’ she thought, and looked into its eyes again, to see if there were any
+            matter with it. There could be no doubt that it had a <emp>VERY</emp> turn-up nose, much
+            more like a snout than a real nose; also its eyes were getting extremely small for a
+            baby: altogether Alice did not like the look of the thing at all. ‘But perhaps it was
+            only sobbing,’ she thought, and looked into its eyes again, to see if there were any
             tears.</p>
         <p>No, there were no tears. ‘If you’re going to turn into a pig, my dear,’ said Alice,
             seriously, ‘I’ll have nothing more to do with you. Mind now!’ The poor little thing
@@ -1052,8 +1065,8 @@
             little startled by seeing the Cheshire Cat sitting on a bough of a tree a few yards
             off.</p>
         <p>The Cat only grinned when it saw Alice. It looked good-natured, she thought: still it had
-            VERY long claws and a great many teeth, so she felt that it ought to be treated with
-            respect.</p>
+                <emp>VERY</emp> long claws and a great many teeth, so she felt that it ought to be
+            treated with respect.</p>
         <p>‘Cheshire Puss,’ she began, rather timidly, as she did not at all know whether it would
             like the name: however, it only grinned a little wider. ‘Come, it’s pleased so far,’
             thought Alice, and she went on. ‘Would you tell me, please, which way I ought to go from
@@ -1065,9 +1078,9 @@
         <p>‘Oh, you’re sure to do that,’ said the Cat, ‘if you only walk long enough.’</p>
         <p>Alice felt that this could not be denied, so she tried another question. ‘What sort of
             people live about here?’</p>
-        <p>‘In THAT direction,’ the Cat said, waving its right paw round, ‘lives a Hatter: and in
-            THAT direction,’ waving the other paw, ‘lives a March Hare. Visit either you like:
-            they’re both mad.’</p>
+        <p>‘In <emp>THAT</emp> direction,’ the Cat said, waving its right paw round, ‘lives a
+            Hatter: and in <emp>THAT</emp> direction,’ waving the other paw, ‘lives a March Hare.
+            Visit either you like: they’re both mad.’</p>
         <p>‘But I don’t want to go among mad people,’ Alice remarked.</p>
         <p>‘Oh, you can’t help that,’ said the Cat: ‘we’re all mad here. I’m mad. You’re mad.’</p>
         <p>‘How do you know I’m mad?’ said Alice.</p>
@@ -1080,7 +1093,8 @@
             when it’s pleased. Now I growl when I’m pleased, and wag my tail when I’m angry.
             Therefore I’m mad.’</p>
         <p>‘I call it purring, not growling,’ said Alice.</p>
-        <p>‘Call it what you like,’ said the Cat. ‘Do you play croquet with the Queen to-day?’</p>
+        <p>‘Call it what you like,’ said the Cat. ‘Do you play <cultural>croquet</cultural> with the
+            Queen to-day?’</p>
         <p>‘I should like it very much,’ said Alice, ‘but I haven’t been invited yet.’</p>
         <p>‘You’ll see me there,’ said the Cat, and vanished.</p>
         <p>Alice was not much surprised at this, she was getting so used to queer things happening.
@@ -1093,9 +1107,10 @@
             minute or two she walked on in the direction in which the March Hare was said to live.
             ‘I’ve seen hatters before,’ she said to herself; ‘the March Hare will be much the most
             interesting, and perhaps as this is May it won’t be raving mad--at least not so mad as
-            it was in March.’ As she said this, she looked up, and there was the Cat again, sitting
-            on a branch of a tree.</p>
-        <p>‘Did you say pig, or fig?’ said the Cat.</p>
+            it was in <word kind="pow">March</word>.’ As she said this, she looked up, and there was
+            the Cat again, sitting on a branch of a tree.</p>
+        <p>‘Did you say <rp rpn="017"><rhyme rn="01" def="true">pig</rhyme>, or <rhyme rn="02"
+                    def="true">fig</rhyme></rp>?’ said the Cat.</p>
         <p>‘I said pig,’ replied Alice; ‘and I wish you wouldn’t keep appearing and vanishing so
             suddenly: you make one quite giddy.’</p>
         <p>‘All right,’ said the Cat; and this time it vanished quite slowly, beginning with the end
@@ -1104,12 +1119,12 @@
         <p>‘Well! I’ve often seen a cat without a grin,’ thought Alice; ‘but a grin without a cat!
             It’s the most curious thing I ever saw in my life!’</p>
         <p>She had not gone much farther before she came in sight of the house of the March Hare:
-            she thought it must be the right house, because the chimneys were shaped like ears and
-            the roof was thatched with fur. It was so large a house, that she did not like to go
-            nearer till she had nibbled some more of the lefthand bit of mushroom, and raised
-            herself to about two feet high: even then she walked up towards it rather timidly,
-            saying to herself ‘Suppose it should be raving mad after all! I almost wish I’d gone to
-            see the Hatter instead!’</p>
+            she thought it must be the right house, because the <cultural>chimneys</cultural> were
+            shaped like ears and the roof was <cultural>thatched</cultural> with fur. It was so
+            large a house, that she did not like to go nearer till she had nibbled some more of the
+            lefthand bit of mushroom, and raised herself to about two feet high: even then she
+            walked up towards it rather timidly, saying to herself ‘Suppose it should be raving mad
+            after all! I almost wish I’d gone to see the Hatter instead!’</p>
     </chapter>
     <chapter n="VII">
         <title>CHAPTER VII. A Mad Tea-Party</title>
@@ -1119,17 +1134,17 @@
             head. ‘Very uncomfortable for the Dormouse,’ thought Alice; ‘only, as it’s asleep, I
             suppose it doesn’t mind.’</p>
         <p>The table was a large one, but the three were all crowded together at one corner of it:
-            ‘No room! No room!’ they cried out when they saw Alice coming. ‘There’s PLENTY of room!’
-            said Alice indignantly, and she sat down in a large arm-chair at one end of the
-            table.</p>
+            ‘No room! No room!’ they cried out when they saw Alice coming. ‘There’s
+                <emp>PLENTY</emp> of room!’ said Alice indignantly, and she sat down in a large
+            arm-chair at one end of the table.</p>
         <p>‘Have some wine,’ the March Hare said in an encouraging tone.</p>
         <p>Alice looked all round the table, but there was nothing on it but tea. ‘I don’t see any
             wine,’ she remarked.</p>
         <p>‘There isn’t any,’ said the March Hare.</p>
         <p>‘Then it wasn’t very civil of you to offer it,’ said Alice angrily.</p>
         <p>‘It wasn’t very civil of you to sit down without being invited,’ said the March Hare.</p>
-        <p>‘I didn’t know it was YOUR table,’ said Alice; ‘it’s laid for a great many more than
-            three.’</p>
+        <p>‘I didn’t know it was <emp>YOUR</emp> table,’ said Alice; ‘it’s laid for a great many
+            more than three.’</p>
         <p>‘Your hair wants cutting,’ said the Hatter. He had been looking at Alice for some time
             with great curiosity, and this was his first speech.</p>
         <p>‘You should learn not to make personal remarks,’ Alice said with some severity; ‘it’s
@@ -1149,30 +1164,31 @@
             thing as “I get what I like”!’</p>
         <p>‘You might just as well say,’ added the Dormouse, who seemed to be talking in his sleep,
             ‘that “I breathe when I sleep” is the same thing as “I sleep when I breathe”!’</p>
-        <p>‘It IS the same thing with you,’ said the Hatter, and here the conversation dropped, and
-            the party sat silent for a minute, while Alice thought over all she could remember about
-            ravens and writing-desks, which wasn’t much.</p>
+        <p>‘It <emp>IS</emp> the same thing with you,’ said the Hatter, and here the conversation
+            dropped, and the party sat silent for a minute, while Alice thought over all she could
+            remember about ravens and writing-desks, which wasn’t much.</p>
         <p>The Hatter was the first to break the silence. ‘What day of the month is it?’ he said,
             turning to Alice: he had taken his watch out of his pocket, and was looking at it
             uneasily, shaking it every now and then, and holding it to his ear.</p>
         <p>Alice considered a little, and then said ‘The fourth.’</p>
         <p>‘Two days wrong!’ sighed the Hatter. ‘I told you butter wouldn’t suit the works!’ he
             added looking angrily at the March Hare.</p>
-        <p>‘It was the BEST butter,’ the March Hare meekly replied.</p>
+        <p>‘It was the <emp>BEST</emp> butter,’ the March Hare meekly replied.</p>
         <p>‘Yes, but some crumbs must have got in as well,’ the Hatter grumbled: ‘you shouldn’t have
-            put it in with the bread-knife.’</p>
+            put it in with the <cultural>bread-knife</cultural>.’</p>
         <p>The March Hare took the watch and looked at it gloomily: then he dipped it into his cup
             of tea, and looked at it again: but he could think of nothing better to say than his
-            first remark, ‘It was the BEST butter, you know.’</p>
+            first remark, ‘It was the <emp>BEST</emp> butter, you know.’</p>
         <p>Alice had been looking over his shoulder with some curiosity. ‘What a funny watch!’ she
             remarked. ‘It tells the day of the month, and doesn’t tell what o’clock it is!’</p>
-        <p>‘Why should it?’ muttered the Hatter. ‘Does YOUR watch tell you what year it is?’</p>
+        <p>‘Why should it?’ muttered the Hatter. ‘Does <emp>YOUR</emp> watch tell you what year it
+            is?’</p>
         <p>‘Of course not,’ Alice replied very readily: ‘but that’s because it stays the same year
             for such a long time together.’</p>
-        <p>‘Which is just the case with MINE,’ said the Hatter.</p>
+        <p>‘Which is just the case with <emp>MINE</emp>,’ said the Hatter.</p>
         <p>Alice felt dreadfully puzzled. The Hatter’s remark seemed to have no sort of meaning in
-            it, and yet it was certainly English. ‘I don’t quite understand you,’ she said, as
-            politely as she could.</p>
+            it, and yet it was certainly <cultural>English</cultural>. ‘I don’t quite understand
+            you,’ she said, as politely as she could.</p>
         <p>‘The Dormouse is asleep again,’ said the Hatter, and he poured a little hot tea upon its
             nose.</p>
         <p>The Dormouse shook its head impatiently, and said, without opening its eyes, ‘Of course,
@@ -1183,44 +1199,49 @@
         <p>‘Nor I,’ said the March Hare.</p>
         <p>Alice sighed wearily. ‘I think you might do something better with the time,’ she said,
             ‘than waste it in asking riddles that have no answers.’</p>
-        <p>‘If you knew Time as well as I do,’ said the Hatter, ‘you wouldn’t talk about wasting IT.
-            It’s HIM.’</p>
+        <p>‘If you knew Time as well as I do,’ said the Hatter, ‘you wouldn’t talk about <phrase
+                type="pow">wasting <emp>IT</emp>. It’s <emp>HIM</emp></phrase>.’</p>
         <p>‘I don’t know what you mean,’ said Alice.</p>
         <p>‘Of course you don’t!’ the Hatter said, tossing his head contemptuously. ‘I dare say you
-            never even spoke to Time!’</p>
-        <p>‘Perhaps not,’ Alice cautiously replied: ‘but I know I have to beat time when I learn
-            music.’</p>
-        <p>‘Ah! that accounts for it,’ said the Hatter. ‘He won’t stand beating. Now, if you only
-            kept on good terms with him, he’d do almost anything you liked with the clock. For
-            instance, suppose it were nine o’clock in the morning, just time to begin lessons: you’d
-            only have to whisper a hint to Time, and round goes the clock in a twinkling! Half-past
-            one, time for dinner!’</p>
-        <p>[‘I only wish it was,’ the March Hare said to itself in a whisper.)</p>
+            never even spoke to <word kind="pow">Time</word>!’</p>
+        <p>‘Perhaps not,’ Alice cautiously replied: ‘but I know I have to <phrase type="pow">beat
+                time</phrase> when I learn music.’</p>
+        <p>‘Ah! that accounts for it,’ said the Hatter. ‘He won’t stand <word kind="pow"
+                >beating</word>. Now, if you only kept on good terms with him, he’d do almost
+            anything you liked with the clock. For instance, suppose it were nine o’clock in the
+            morning, just time to begin lessons: you’d only have to whisper a hint to Time, and
+            round goes the clock in a twinkling! Half-past one, time for dinner!’</p>
+        <p><parenthesis>‘I only wish it was,’ the March Hare said to itself in a
+                whisper.</parenthesis></p>
         <p>‘That would be grand, certainly,’ said Alice thoughtfully: ‘but then--I shouldn’t be
             hungry for it, you know.’</p>
         <p>‘Not at first, perhaps,’ said the Hatter: ‘but you could keep it to half-past one as long
             as you liked.’</p>
-        <p>‘Is that the way YOU manage?’ Alice asked.</p>
+        <p>‘Is that the way <emp>YOU</emp> manage?’ Alice asked.</p>
         <p>The Hatter shook his head mournfully. ‘Not I!’ he replied. ‘We quarrelled last
-            March--just before HE went mad, you know--’ <parenthesis>pointing with his tea spoon at
-                the March Hare,</parenthesis> ‘--it was at the great concert given by the Queen of
-            Hearts, and I had to sing</p>
-        <p> “Twinkle, twinkle, little bat! How I wonder what you’re at!”</p>
+            March--just before <emp>HE</emp> went mad, you know--’ <parenthesis>pointing with his
+                tea spoon at the March Hare,</parenthesis> ‘--it was at the great concert given by
+            the Queen of Hearts, and I had to sing</p>
+        <song>“<rp rpn="018"><rhyme rn="01" def="true">Twinkle, twinkle, little bat! How I wonder
+                    what you’re at!</rhyme></rp>”</song>
+        <!--Reference to "Twinkle Twinkle Little Star"-->
         <p>You know the song, perhaps?’</p>
         <p>‘I’ve heard something like it,’ said Alice.</p>
         <p>‘It goes on, you know,’ the Hatter continued, ‘in this way:--</p>
-        <p> “Up above the world you fly, Like a tea-tray in the sky. Twinkle, twinkle--“’</p>
+        <song>“<rp rpn="019"><rhyme rn="01" def="true">Up above the world you fly, Like a tea-tray
+                    in the sky</rhyme></rp>. Twinkle, twinkle--“’</song>
         <p>Here the Dormouse shook itself, and began singing in its sleep ‘Twinkle, twinkle,
             twinkle, twinkle--’ and went on so long that they had to pinch it to make it stop.</p>
         <p>‘Well, I’d hardly finished the first verse,’ said the Hatter, ‘when the Queen jumped up
-            and bawled out, “He’s murdering the time! Off with his head!”’</p>
+            and bawled out, “<phrase type="pow">He’s murdering the time!</phrase> Off with his
+            head!”’</p>
         <p>‘How dreadfully savage!’ exclaimed Alice.</p>
         <p>‘And ever since that,’ the Hatter went on in a mournful tone, ‘he won’t do a thing I ask!
             It’s always six o’clock now.’</p>
         <p>A bright idea came into Alice’s head. ‘Is that the reason so many tea-things are put out
             here?’ she asked.</p>
-        <p>‘Yes, that’s it,’ said the Hatter with a sigh: ‘it’s always tea-time, and we’ve no time
-            to wash the things between whiles.’</p>
+        <p>‘Yes, that’s it,’ said the Hatter with a sigh: ‘it’s always
+            <cultural>tea-time</cultural>, and we’ve no time to wash the things between whiles.’</p>
         <p>‘Then you keep moving round, I suppose?’ said Alice.</p>
         <p>‘Exactly so,’ said the Hatter: ‘as the things get used up.’</p>
         <p>‘But what happens when you come to the beginning again?’ Alice ventured to ask.</p>
@@ -1243,15 +1264,15 @@
         <p>‘They lived on treacle,’ said the Dormouse, after thinking a minute or two.</p>
         <p>‘They couldn’t have done that, you know,’ Alice gently remarked; ‘they’d have been
             ill.’</p>
-        <p>‘So they were,’ said the Dormouse; ‘VERY ill.’</p>
+        <p>‘So they were,’ said the Dormouse; ‘<emp>VERY</emp> ill.’</p>
         <p>Alice tried to fancy to herself what such an extraordinary ways of living would be like,
             but it puzzled her too much, so she went on: ‘But why did they live at the bottom of a
             well?’</p>
         <p>‘Take some more tea,’ the March Hare said to Alice, very earnestly.</p>
         <p>‘I’ve had nothing yet,’ Alice replied in an offended tone, ‘so I can’t take more.’</p>
-        <p>‘You mean you can’t take LESS,’ said the Hatter: ‘it’s very easy to take MORE than
-            nothing.’</p>
-        <p>‘Nobody asked YOUR opinion,’ said Alice.</p>
+        <p>‘You mean you can’t take <emp>LESS</emp>,’ said the Hatter: ‘it’s very easy to take
+                <emp>MORE</emp> than nothing.’</p>
+        <p>‘Nobody asked <emp>YOUR</emp> opinion,’ said Alice.</p>
         <p>‘Who’s making personal remarks now?’ the Hatter asked triumphantly.</p>
         <p>Alice did not quite know what to say to this: so she helped herself to some tea and
             bread-and-butter, and then turned to the Dormouse, and repeated her question. ‘Why did
@@ -1262,7 +1283,7 @@
             Hare went ‘Sh! sh!’ and the Dormouse sulkily remarked, ‘If you can’t be civil, you’d
             better finish the story for yourself.’</p>
         <p>‘No, please go on!’ Alice said very humbly; ‘I won’t interrupt again. I dare say there
-            may be ONE.’</p>
+            may be <emp>ONE</emp>.’</p>
         <p>‘One, indeed!’ said the Dormouse indignantly. However, he consented to go on. ‘And so
             these three little sisters--they were learning to draw, you know--’</p>
         <p>‘What did they draw?’ said Alice, quite forgetting her promise.</p>
@@ -1274,11 +1295,12 @@
             worse off than before, as the March Hare had just upset the milk-jug into his plate.</p>
         <p>Alice did not wish to offend the Dormouse again, so she began very cautiously: ‘But I
             don’t understand. Where did they draw the treacle from?’</p>
-        <p>‘You can draw water out of a water-well,’ said the Hatter; ‘so I should think you could
-            draw treacle out of a treacle-well--eh, stupid?’</p>
+        <p>‘You can <word kind="pow">draw</word> water out of a water-well,’ said the Hatter; ‘so I
+            should think you could <word kind="pow">draw</word> treacle out of a treacle-well--eh,
+            stupid?’</p>
         <p>‘But they were <emp>IN</emp> the well,’ Alice said to the Dormouse, not choosing to
             notice this last remark.</p>
-        <p>‘Of course they were’, said the Dormouse; ‘--well in.’</p>
+        <p>‘Of course they were’, said the Dormouse; ‘--<phrase type="pow">well in</phrase>.’</p>
         <p>This answer so confused poor Alice, that she let the Dormouse go on for some time without
             interrupting it.</p>
         <p>‘They were learning to draw,’ the Dormouse went on, yawning and rubbing its eyes, for it
@@ -1289,9 +1311,10 @@
         <p>Alice was silent.</p>
         <p>The Dormouse had closed its eyes by this time, and was going off into a doze; but, on
             being pinched by the Hatter, it woke up again with a little shriek, and went on: ‘--that
-            begins with an M, such as mouse-traps, and the moon, and memory, and muchness--you know
-            you say things are “much of a muchness”--did you ever see such a thing as a drawing of a
-            muchness?’</p>
+            begins with an M, such as mouse-traps, and the moon, and memory, and <word kind="ns"
+                >muchness</word>--you know you say things are “much of a <word kind="ns"
+                >muchness</word>”--did you ever see such a thing as a drawing of a <word kind="ns"
+                >muchness</word>?’</p>
         <p>‘Really, now you ask me,’ said Alice, very much confused, ‘I don’t think--’</p>
         <p>‘Then you shouldn’t talk,’ said the Hatter.</p>
         <p>This piece of rudeness was more than Alice could bear: she got up in great disgust, and
@@ -1309,8 +1332,8 @@
             golden key, and unlocking the door that led into the garden. Then she went to work
             nibbling at the mushroom <parenthesis>she had kept a piece of it in her
                 pocket</parenthesis> till she was about a foot high: then she walked down the little
-            passage: and THEN--she found herself at last in the beautiful garden, among the bright
-            flower-beds and the cool fountains.</p>
+            passage: and <emp>THEN</emp>--she found herself at last in the beautiful garden, among
+            the bright flower-beds and the cool fountains.</p>
     </chapter>
     <chapter n="VIII">
         <title>CHAPTER VIII. The Queen’s Croquet-Ground</title>
@@ -1322,24 +1345,25 @@
         <p>‘I couldn’t help it,’ said Five, in a sulky tone; ‘Seven jogged my elbow.’</p>
         <p>On which Seven looked up and said, ‘That’s right, Five! Always lay the blame on
             others!’</p>
-        <p>‘YOU’D better not talk!’ said Five. ‘I heard the Queen say only yesterday you deserved to
-            be beheaded!’</p>
+        <p>‘<emp>YOU’D</emp> better not talk!’ said Five. ‘I heard the Queen say only yesterday you
+            deserved to be beheaded!’</p>
         <p>‘What for?’ said the one who had spoken first.</p>
-        <p>‘That’s none of YOUR business, Two!’ said Seven.</p>
-        <p>‘Yes, it IS his business!’ said Five, ‘and I’ll tell him--it was for bringing the cook
-            tulip-roots instead of onions.’</p>
+        <p>‘That’s none of <emp>YOUR</emp> business, Two!’ said Seven.</p>
+        <p>‘Yes, it <emp>IS</emp> his business!’ said Five, ‘and I’ll tell him--it was for bringing
+            the cook tulip-roots instead of onions.’</p>
         <p>Seven flung down his brush, and had just begun ‘Well, of all the unjust things--’ when
             his eye chanced to fall upon Alice, as she stood watching them, and he checked himself
             suddenly: the others looked round also, and all of them bowed low.</p>
         <p>‘Would you tell me,’ said Alice, a little timidly, ‘why you are painting those
             roses?’</p>
         <p>Five and Seven said nothing, but looked at Two. Two began in a low voice, ‘Why the fact
-            is, you see, Miss, this here ought to have been a RED rose-tree, and we put a white one
-            in by mistake; and if the Queen was to find it out, we should all have our heads cut
-            off, you know. So you see, Miss, we’re doing our best, afore she comes, to--’ At this
-            moment Five, who had been anxiously looking across the garden, called out ‘The Queen!
-            The Queen!’ and the three gardeners instantly threw themselves flat upon their faces.
-            There was a sound of many footsteps, and Alice looked round, eager to see the Queen.</p>
+            is, you see, Miss, this here ought to have been a <emp>RED</emp> rose-tree, and we put a
+            white one in by mistake; and if the Queen was to find it out, we should all have our
+            heads cut off, you know. So you see, Miss, we’re doing our best, afore she comes, to--’
+            At this moment Five, who had been anxiously looking across the garden, called out ‘The
+            Queen! The Queen!’ and the three gardeners instantly threw themselves flat upon their
+            faces. There was a sound of many footsteps, and Alice looked round, eager to see the
+            Queen.</p>
         <p>First came ten soldiers carrying clubs; these were all shaped like the three gardeners,
             oblong and flat, with their hands and feet at the corners: next the ten courtiers; these
             were ornamented all over with diamonds, and walked two and two, as the soldiers did.
@@ -1348,8 +1372,10 @@
             Next came the guests, mostly Kings and Queens, and among them Alice recognised the White
             Rabbit: it was talking in a hurried nervous manner, smiling at everything that was said,
             and went by without noticing her. Then followed the Knave of Hearts, carrying the King’s
-            crown on a crimson velvet cushion; and, last of all this grand procession, came THE KING
-            AND QUEEN OF HEARTS.</p>
+            crown on a crimson velvet cushion; and, last of all this grand procession, came <emp>THE
+                KING AND QUEEN OF HEARTS</emp>.</p>
+        <!--How to tag the above paragraph? Obvious cards reference, too long to use cultural tag. 
+            Revisit with the Japanese translation.-->
         <p>Alice was rather doubtful whether she ought not to lie down on her face like the three
             gardeners, but she could not remember ever having heard of such a rule at processions;
             ‘and besides, what would be the use of a procession,’ thought she, ‘if people had all to
@@ -1361,14 +1387,14 @@
         <p>‘Idiot!’ said the Queen, tossing her head impatiently; and, turning to Alice, she went
             on, ‘What’s your name, child?’</p>
         <p>‘My name is Alice, so please your Majesty,’ said Alice very politely; but she added, to
-            herself, ‘Why, they’re only a pack of cards, after all. I needn’t be afraid of
-            them!’</p>
+            herself, ‘Why, they’re only <cultural>a pack of cards</cultural>, after all. I needn’t
+            be afraid of them!’</p>
         <p>‘And who are <emp>THESE</emp>?’ said the Queen, pointing to the three gardeners who were
             lying round the rosetree; for, you see, as they were lying on their faces, and the
             pattern on their backs was the same as the rest of the pack, she could not tell whether
             they were gardeners, or soldiers, or courtiers, or three of her own children.</p>
         <p>‘How should I know?’ said Alice, surprised at her own courage. ‘It’s no business of
-            MINE.’</p>
+                <emp>MINE</emp>.’</p>
         <p>The Queen turned crimson with fury, and, after glaring at her for a moment like a wild
             beast, screamed ‘Off with her head! Off--’</p>
         <p>‘Nonsense!’ said Alice, very loudly and decidedly, and the Queen was silent.</p>
@@ -1380,7 +1406,7 @@
             jumped up, and began bowing to the King, the Queen, the royal children, and everybody
             else.</p>
         <p>‘Leave off that!’ screamed the Queen. ‘You make me giddy.’ And then, turning to the
-            rose-tree, she went on, ‘What HAVE you been doing here?’</p>
+            rose-tree, she went on, ‘What <emp>HAVE</emp> you been doing here?’</p>
         <p>‘May it please your Majesty,’ said Two, in a very humble tone, going down on one knee as
             he spoke, ‘we were trying--’</p>
         <p>‘I see!’ said the Queen, who had meanwhile been examining the roses. ‘Off with their
@@ -1391,7 +1417,7 @@
             quietly marched off after the others.</p>
         <p>‘Are their heads off?’ shouted the Queen.</p>
         <p>‘Their heads are gone, if it please your Majesty!’ the soldiers shouted in reply.</p>
-        <p>‘That’s right!’ shouted the Queen. ‘Can you play croquet?’</p>
+        <p>‘That’s right!’ shouted the Queen. ‘Can you play <cultural>croquet</cultural>?’</p>
         <p>The soldiers were silent, and looked at Alice, as the question was evidently meant for
             her.</p>
         <p>‘Yes!’ shouted Alice.</p>
@@ -1412,20 +1438,20 @@
         <p>‘Get to your places!’ shouted the Queen in a voice of thunder, and people began running
             about in all directions, tumbling up against each other; however, they got settled down
             in a minute or two, and the game began. Alice thought she had never seen such a curious
-            croquet-ground in her life; it was all ridges and furrows; the balls were live
-            hedgehogs, the mallets live flamingoes, and the soldiers had to double themselves up and
-            to stand on their hands and feet, to make the arches.</p>
+                <cultural>croquet-ground</cultural> in her life; it was all ridges and furrows; the
+            balls were live hedgehogs, the mallets live flamingoes, and the soldiers had to double
+            themselves up and to stand on their hands and feet, to make the arches.</p>
         <p>The chief difficulty Alice found at first was in managing her flamingo: she succeeded in
             getting its body tucked away, comfortably enough, under her arm, with its legs hanging
             down, but generally, just as she had got its neck nicely straightened out, and was going
-            to give the hedgehog a blow with its head, it WOULD twist itself round and look up in
-            her face, with such a puzzled expression that she could not help bursting out laughing:
-            and when she had got its head down, and was going to begin again, it was very provoking
-            to find that the hedgehog had unrolled itself, and was in the act of crawling away:
-            besides all this, there was generally a ridge or furrow in the way wherever she wanted
-            to send the hedgehog to, and, as the doubled-up soldiers were always getting up and
-            walking off to other parts of the ground, Alice soon came to the conclusion that it was
-            a very difficult game indeed.</p>
+            to give the hedgehog a blow with its head, it <emp>WOULD</emp> twist itself round and
+            look up in her face, with such a puzzled expression that she could not help bursting out
+            laughing: and when she had got its head down, and was going to begin again, it was very
+            provoking to find that the hedgehog had unrolled itself, and was in the act of crawling
+            away: besides all this, there was generally a ridge or furrow in the way wherever she
+            wanted to send the hedgehog to, and, as the doubled-up soldiers were always getting up
+            and walking off to other parts of the ground, Alice soon came to the conclusion that it
+            was a very difficult game indeed.</p>
         <p>The players all played at once without waiting for turns, quarrelling all the while, and
             fighting for the hedgehogs; and in a very short time the Queen was in a furious passion,
             and went stamping about, and shouting ‘Off with his head!’ or ‘Off with her head!’ about
@@ -1451,14 +1477,16 @@
             any rules in particular; at least, if there are, nobody attends to them--and you’ve no
             idea how confusing it is all the things being alive; for instance, there’s the arch I’ve
             got to go through next walking about at the other end of the ground--and I should have
-            croqueted the Queen’s hedgehog just now, only it ran away when it saw mine coming!’</p>
+                <word kind="ns">croqueted</word> the Queen’s hedgehog just now, only it ran away
+            when it saw mine coming!’</p>
+        <!--Check validity of word 'croqueted'-->
         <p>‘How do you like the Queen?’ said the Cat in a low voice.</p>
         <p>‘Not at all,’ said Alice: ‘she’s so extremely--’ Just then she noticed that the Queen was
             close behind her, listening: so she went on, ‘--likely to win, that it’s hardly worth
             while finishing the game.’</p>
         <p>The Queen smiled and passed on.</p>
-        <p>‘Who ARE you talking to?’ said the King, going up to Alice, and looking at the Cat’s head
-            with great curiosity.</p>
+        <p>‘Who <emp>ARE</emp> you talking to?’ said the King, going up to Alice, and looking at the
+            Cat’s head with great curiosity.</p>
         <p>‘It’s a friend of mine--a Cheshire Cat,’ said Alice: ‘allow me to introduce it.’</p>
         <p>‘I don’t like the look of it at all,’ said the King: ‘however, it may kiss my hand if it
             likes.’</p>
@@ -1478,9 +1506,10 @@
             not like the look of things at all, as the game was in such confusion that she never
             knew whether it was her turn or not. So she went in search of her hedgehog.</p>
         <p>The hedgehog was engaged in a fight with another hedgehog, which seemed to Alice an
-            excellent opportunity for croqueting one of them with the other: the only difficulty
-            was, that her flamingo was gone across to the other side of the garden, where Alice
-            could see it trying in a helpless sort of way to fly up into a tree.</p>
+            excellent opportunity for <word kind="ns">croqueting</word> one of them with the other:
+            the only difficulty was, that her flamingo was gone across to the other side of the
+            garden, where Alice could see it trying in a helpless sort of way to fly up into a
+            tree.</p>
         <p>By the time she had caught the flamingo and brought it back, the fight was over, and both
             the hedgehogs were out of sight: ‘but it doesn’t matter much,’ thought Alice, ‘as all
             the arches are gone from this side of the ground.’ So she tucked it away under her arm,
@@ -1495,14 +1524,14 @@
             very hard indeed to make out exactly what they said.</p>
         <p>The executioner’s argument was, that you couldn’t cut off a head unless there was a body
             to cut it off from: that he had never had to do such a thing before, and he wasn’t going
-            to begin at HIS time of life.</p>
+            to begin at <emp>HIS</emp> time of life.</p>
         <p>The King’s argument was, that anything that had a head could be beheaded, and that you
             weren’t to talk nonsense.</p>
         <p>The Queen’s argument was, that if something wasn’t done about it in less than no time
             she’d have everybody executed, all round. <parenthesis>It was this last remark that had
                 made the whole party look so grave and anxious.</parenthesis></p>
         <p>Alice could think of nothing else to say but ‘It belongs to the Duchess: you’d better ask
-            HER about it.’</p>
+                <emp>HER</emp> about it.’</p>
         <p>‘She’s in prison,’ the Queen said to the executioner: ‘fetch her here.’ And the
             executioner went off like an arrow.</p>
         <p> The Cat’s head began fading away the moment he was gone, and, by the time he had come
@@ -1517,13 +1546,14 @@
         <p>Alice was very glad to find her in such a pleasant temper, and thought to herself that
             perhaps it was only the pepper that had made her so savage when they met in the
             kitchen.</p>
-        <p>‘When I’M a Duchess,’ she said to herself, <parenthesis>not in a very hopeful tone
-                though</parenthesis>, ‘I won’t have any pepper in my kitchen AT ALL. Soup does very
-            well without--Maybe it’s always pepper that makes people hot-tempered,’ she went on,
-            very much pleased at having found out a new kind of rule, ‘and vinegar that makes them
-            sour--and camomile that makes them bitter--and--and barley-sugar and such things that
-            make children sweet-tempered. I only wish people knew that: then they wouldn’t be so
-            stingy about it, you know--’</p>
+        <p>‘When <emp>I’M</emp> a Duchess,’ she said to herself, <parenthesis>not in a very hopeful
+                tone though</parenthesis>, ‘I won’t have any pepper in my kitchen <emp>AT ALL</emp>.
+            Soup does very well without--Maybe it’s always pepper that makes people <word kind="pow"
+                >hot-tempered</word>,’ she went on, very much pleased at having found out a new kind
+            of rule, ‘and vinegar that makes them <word kind="pow">sour</word>--and camomile that
+            makes them <word kind="pow">bitter</word>--and--and barley-sugar and such things that
+            make children <word kind="pow">sweet-tempered</word>. I only wish people knew that: then
+            they wouldn’t be so stingy about it, you know--’</p>
         <p>She had quite forgotten the Duchess by this time, and was a little startled when she
             heard her voice close to her ear. ‘You’re thinking about something, my dear, and that
             makes you forget to talk. I can’t tell you just now what the moral of that is, but I
@@ -1531,39 +1561,45 @@
         <p>‘Perhaps it hasn’t one,’ Alice ventured to remark.</p>
         <p>‘Tut, tut, child!’ said the Duchess. ‘Everything’s got a moral, if only you can find it.’
             And she squeezed herself up closer to Alice’s side as she spoke.</p>
-        <p>Alice did not much like keeping so close to her: first, because the Duchess was VERY
-            ugly; and secondly, because she was exactly the right height to rest her chin upon
-            Alice’s shoulder, and it was an uncomfortably sharp chin. However, she did not like to
-            be rude, so she bore it as well as she could.</p>
+        <p>Alice did not much like keeping so close to her: first, because the Duchess was
+                <emp>VERY</emp> ugly; and secondly, because she was exactly the right height to rest
+            her chin upon Alice’s shoulder, and it was an uncomfortably sharp chin. However, she did
+            not like to be rude, so she bore it as well as she could.</p>
         <p>‘The game’s going on rather better now,’ she said, by way of keeping up the conversation
             a little.</p>
-        <p>‘’Tis so,’ said the Duchess: ‘and the moral of that is--“Oh, ‘tis love, ‘tis love, that
-            makes the world go round!”’</p>
+        <p>‘’Tis so,’ said the Duchess: ‘and the moral of that is--<phrase type="iu">“Oh, ‘tis love,
+                ‘tis love, that makes the world go round!”</phrase>’</p>
+        <!--Check reference-->
         <p>‘Somebody said,’ Alice whispered, ‘that it’s done by everybody minding their own
             business!’</p>
         <p>‘Ah, well! It means much the same thing,’ said the Duchess, digging her sharp little chin
-            into Alice’s shoulder as she added, ‘and the moral of THAT is--“Take care of the sense,
-            and the sounds will take care of themselves.”’</p>
+            into Alice’s shoulder as she added, ‘and the moral of <emp>THAT</emp> is--“Take care of
+            the sense, and the sounds will take care of themselves.”’</p>
+        <!--Check reference-->
         <p>‘How fond she is of finding morals in things!’ Alice thought to herself.</p>
         <p>‘I dare say you’re wondering why I don’t put my arm round your waist,’ the Duchess said
             after a pause: ‘the reason is, that I’m doubtful about the temper of your flamingo.
             Shall I try the experiment?’</p>
-        <p>‘HE might bite,’ Alice cautiously replied, not feeling at all anxious to have the
-            experiment tried.</p>
-        <p>‘Very true,’ said the Duchess: ‘flamingoes and mustard both bite. And the moral of that
-            is--“Birds of a feather flock together.”’</p>
+        <p>‘<emp>HE</emp> might bite,’ Alice cautiously replied, not feeling at all anxious to have
+            the experiment tried.</p>
+        <p>‘Very true,’ said the Duchess: ‘flamingoes and mustard both <word kind="pow">bite</word>.
+            And the moral of that is--<phrase type="iu">“Birds of a feather flock
+                together.”</phrase>’</p>
         <p>‘Only mustard isn’t a bird,’ Alice remarked.</p>
         <p>‘Right, as usual,’ said the Duchess: ‘what a clear way you have of putting things!’</p>
-        <p>‘It’s a mineral, I THINK,’ said Alice.</p>
+        <p>‘It’s a mineral, I <emp>THINK</emp>,’ said Alice.</p>
         <p>‘Of course it is,’ said the Duchess, who seemed ready to agree to everything that Alice
-            said; ‘there’s a large mustard-mine near here. And the moral of that is--“The more there
-            is of mine, the less there is of yours.”’</p>
+            said; ‘there’s a large mustard-mine near here. And the moral of that is--<phrase
+                type="iu">“The more there is of <word kind="pow">mine</word>, the less there is of
+                yours.”</phrase>’</p>
+        <!--Check mustard-mine reference-->
         <p>‘Oh, I know!’ exclaimed Alice, who had not attended to this last remark, ‘it’s a
             vegetable. It doesn’t look like one, but it is.’</p>
-        <p>‘I quite agree with you,’ said the Duchess; ‘and the moral of that is--“Be what you would
-            seem to be”--or if you’d like it put more simply--“Never imagine yourself not to be
-            otherwise than what it might appear to others that what you were or might have been was
-            not otherwise than what you had been would have appeared to them to be otherwise.”’</p>
+        <p>‘I quite agree with you,’ said the Duchess; ‘and the moral of that is--<phrase type="iu"
+                >“Be what you would seem to be”</phrase>--or if you’d like it put more
+                simply--<phrase type="iu">“Never imagine yourself not to be otherwise than what it
+                might appear to others that what you were or might have been was not otherwise than
+                what you had been would have appeared to them to be otherwise.”</phrase>’</p>
         <p>‘I think I should understand that better,’ Alice said very politely, ‘if I had it written
             down: but I can’t quite follow it as you say it.’</p>
         <p>‘That’s nothing to what I could say if I chose,’ the Duchess replied, in a pleased
@@ -1583,11 +1619,12 @@
             frowning like a thunderstorm.</p>
         <p>‘A fine day, your Majesty!’ the Duchess began in a low, weak voice.</p>
         <p>‘Now, I give you fair warning,’ shouted the Queen, stamping on the ground as she spoke;
-            ‘either you or your head must be off, and that in about half no time! Take your
-            choice!’</p>
+            ‘either you or your head must be <word kind="pow">off</word>, and that in about half no
+            time! Take your choice!’</p>
         <p>The Duchess took her choice, and was gone in a moment.</p>
         <p>‘Let’s go on with the game,’ the Queen said to Alice; and Alice was too much frightened
-            to say a word, but slowly followed her back to the croquet-ground.</p>
+            to say a word, but slowly followed her back to the
+            <cultural>croquet-ground</cultural>.</p>
         <p>The other guests had taken advantage of the Queen’s absence, and were resting in the
             shade: however, the moment they saw her, they hurried back to the game, the Queen merely
             remarking that a moment’s delay would cost them their lives.</p>
@@ -1604,21 +1641,22 @@
         <p>‘I never saw one, or heard of one,’ said Alice.</p>
         <p>‘Come on, then,’ said the Queen, ‘and he shall tell you his history,’</p>
         <p>As they walked off together, Alice heard the King say in a low voice, to the company
-            generally, ‘You are all pardoned.’ ‘Come, THAT’S a good thing!’ she said to herself, for
-            she had felt quite unhappy at the number of executions the Queen had ordered.</p>
-        <p>They very soon came upon a Gryphon, lying fast asleep in the sun. <parenthesis>IF you
-                don’t know what a Gryphon is, look at the picture.</parenthesis> ‘Up, lazy thing!’
-            said the Queen, ‘and take this young lady to see the Mock Turtle, and to hear his
-            history. I must go back and see after some executions I have ordered’; and she walked
-            off, leaving Alice alone with the Gryphon. Alice did not quite like the look of the
-            creature, but on the whole she thought it would be quite as safe to stay with it as to
-            go after that savage Queen: so she waited.</p>
+            generally, ‘You are all pardoned.’ ‘Come, <emp>THAT’S</emp> a good thing!’ she said to
+            herself, for she had felt quite unhappy at the number of executions the Queen had
+            ordered.</p>
+        <p>They very soon came upon a Gryphon, lying fast asleep in the sun.
+                    <parenthesis><emp>IF</emp> you don’t know what a Gryphon is, look at the
+                picture.</parenthesis> ‘Up, lazy thing!’ said the Queen, ‘and take this young lady
+            to see the Mock Turtle, and to hear his history. I must go back and see after some
+            executions I have ordered’; and she walked off, leaving Alice alone with the Gryphon.
+            Alice did not quite like the look of the creature, but on the whole she thought it would
+            be quite as safe to stay with it as to go after that savage Queen: so she waited.</p>
         <p>The Gryphon sat up and rubbed its eyes: then it watched the Queen till she was out of
             sight: then it chuckled. ‘What fun!’ said the Gryphon, half to itself, half to
             Alice.</p>
         <p>‘What IS the fun?’ said Alice.</p>
-        <p>‘Why, SHE,’ said the Gryphon. ‘It’s all her fancy, that: they never executes nobody, you
-            know. Come on!’</p>
+        <p>‘Why, <emp>SHE</emp>,’ said the Gryphon. ‘It’s all her fancy, that: they never executes
+            nobody, you know. Come on!’</p>
         <p>‘Everybody says “come on!” here,’ thought Alice, as she went slowly after it: ‘I never
             was so ordered about in all my life, never!’</p>
         <p>They had not gone far before they saw the Mock Turtle in the distance, sitting sad and
@@ -1633,19 +1671,20 @@
         <p>‘I’ll tell it her,’ said the Mock Turtle in a deep, hollow tone: ‘sit down, both of you,
             and don’t speak a word till I’ve finished.’</p>
         <p>So they sat down, and nobody spoke for some minutes. Alice thought to herself, ‘I don’t
-            see how he can EVEN finish, if he doesn’t begin.’ But she waited patiently.</p>
+            see how he can <emp>EVEN</emp> finish, if he doesn’t begin.’ But she waited
+            patiently.</p>
         <p>‘Once,’ said the Mock Turtle at last, with a deep sigh, ‘I was a real Turtle.’</p>
         <p>These words were followed by a very long silence, broken only by an occasional
             exclamation of ‘Hjckrrh!’ from the Gryphon, and the constant heavy sobbing of the Mock
             Turtle. Alice was very nearly getting up and saying, ‘Thank you, sir, for your
-            interesting story,’ but she could not help thinking there MUST be more to come, so she
-            sat still and said nothing.</p>
+            interesting story,’ but she could not help thinking there <emp>MUST</emp> be more to
+            come, so she sat still and said nothing.</p>
         <p>‘When we were little,’ the Mock Turtle went on at last, more calmly, though still sobbing
             a little now and then, ‘we went to school in the sea. The master was an old Turtle--we
             used to call him Tortoise--’</p>
         <p>‘Why did you call him Tortoise, if he wasn’t one?’ Alice asked.</p>
-        <p>‘We called him Tortoise because he taught us,’ said the Mock Turtle angrily: ‘really you
-            are very dull!’</p>
+        <p>‘We called him Tortoise because he <word kind="pow">taught us</word>,’ said the Mock
+            Turtle angrily: ‘really you are very dull!’</p>
         <p>‘You ought to be ashamed of yourself for asking such a simple question,’ added the
             Gryphon; and then they both sat silent and looked at poor Alice, who felt ready to sink
             into the earth. At last the Gryphon said to the Mock Turtle, ‘Drive on, old fellow!
@@ -1656,38 +1695,44 @@
         <p>‘Hold your tongue!’ added the Gryphon, before Alice could speak again. The Mock Turtle
             went on.</p>
         <p>‘We had the best of educations--in fact, we went to school every day--’</p>
-        <p>‘I’VE been to a day-school, too,’ said Alice; ‘you needn’t be so proud as all that.’</p>
+        <p>‘<emp>I’VE</emp> been to a day-school, too,’ said Alice; ‘you needn’t be so proud as all
+            that.’</p>
         <p>‘With extras?’ asked the Mock Turtle a little anxiously.</p>
         <p>‘Yes,’ said Alice, ‘we learned French and music.’</p>
         <p>‘And washing?’ said the Mock Turtle.</p>
         <p>‘Certainly not!’ said Alice indignantly.</p>
         <p>‘Ah! then yours wasn’t a really good school,’ said the Mock Turtle in a tone of great
-            relief. ‘Now at OURS they had at the end of the bill, “French, music, AND
-            WASHING--extra.”’</p>
+            relief. ‘Now at <emp>OURS</emp> they had at the end of the bill, “French, music,
+                <emp>AND</emp> WASHING--extra.”’</p>
         <p>‘You couldn’t have wanted it much,’ said Alice; ‘living at the bottom of the sea.’</p>
         <p>‘I couldn’t afford to learn it.’ said the Mock Turtle with a sigh. ‘I only took the
             regular course.’</p>
         <p>‘What was that?’ inquired Alice.</p>
         <p>‘Reeling and Writhing, of course, to begin with,’ the Mock Turtle replied; ‘and then the
-            different branches of Arithmetic--Ambition, Distraction, Uglification, and
-            Derision.’</p>
-        <p>‘I never heard of “Uglification,”’ Alice ventured to say. ‘What is it?’</p>
-        <p>The Gryphon lifted up both its paws in surprise. ‘What! Never heard of uglifying!’ it
-            exclaimed. ‘You know what to beautify is, I suppose?’</p>
+            different branches of <word kind="iu">Arithmetic</word>--Ambition, Distraction, <word
+                kind="ns">Uglification</word>, and Derision.’</p>
+        <!--Check to see what Arithmetic here could be-is it the synonym of another word that could work
+            better here?-->
+        <p>‘I never heard of “<word kind="ns">Uglification</word>,”’ Alice ventured to say. ‘What is
+            it?’</p>
+        <p>The Gryphon lifted up both its paws in surprise. ‘What! Never heard of <word kind="ns"
+                >uglifying</word>!’ it exclaimed. ‘You know what to <word kind="ns">beautify</word>
+            is, I suppose?’</p>
+        <!--Check whether "beautify" is a word-->
         <p>‘Yes,’ said Alice doubtfully: ‘it means--to--make--anything--prettier.’</p>
-        <p>‘Well, then,’ the Gryphon went on, ‘if you don’t know what to uglify is, you ARE a
-            simpleton.’</p>
+        <p>‘Well, then,’ the Gryphon went on, ‘if you don’t know what to <word kind="ns"
+                >uglify</word> is, you <emp>ARE</emp> a simpleton.’</p>
         <p>Alice did not feel encouraged to ask any more questions about it, so she turned to the
             Mock Turtle, and said ‘What else had you to learn?’</p>
         <p>‘Well, there was Mystery,’ the Mock Turtle replied, counting off the subjects on his
             flappers, ‘--Mystery, ancient and modern, with Seaography: then Drawling--the
-            Drawling-master was an old conger-eel, that used to come once a week: HE taught us
-            Drawling, Stretching, and Fainting in Coils.’</p>
-        <p>‘What was THAT like?’ said Alice.</p>
+            Drawling-master was an old conger-eel, that used to come once a week: <emp>HE</emp>
+            taught us Drawling, Stretching, and Fainting in Coils.’</p>
+        <p>‘What was <emp>THAT</emp> like?’ said Alice.</p>
         <p>‘Well, I can’t show it you myself,’ the Mock Turtle said: ‘I’m too stiff. And the Gryphon
             never learnt it.’</p>
         <p>‘Hadn’t time,’ said the Gryphon: ‘I went to the Classics master, though. He was an old
-            crab, HE was.’</p>
+            crab, <emp>HE</emp> was.’</p>
         <p>‘I never went to him,’ the Mock Turtle said with a sigh: ‘he taught Laughing and Grief,
             they used to say.’</p>
         <p>‘So he did, so he did,’ said the Gryphon, sighing in his turn; and both creatures hid
@@ -1696,8 +1741,8 @@
             subject.</p>
         <p>‘Ten hours the first day,’ said the Mock Turtle: ‘nine the next, and so on.’</p>
         <p>‘What a curious plan!’ exclaimed Alice.</p>
-        <p>‘That’s the reason they’re called lessons,’ the Gryphon remarked: ‘because they lessen
-            from day to day.’</p>
+        <p>‘That’s the reason they’re called lessons,’ the Gryphon remarked: ‘because they <word
+                kind="pow">lessen</word> from day to day.’</p>
         <p>This was quite a new idea to Alice, and she thought it over a little before she made her
             next remark. ‘Then the eleventh day must have been a holiday?’</p>
         <p>‘Of course it was,’ said the Mock Turtle.</p>
@@ -1708,19 +1753,21 @@
     <chapter n="X">
         <title>CHAPTER X. The Lobster Quadrille</title>
         <p>The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He
-            looked at Alice, and tried to speak, but for a minute or two sobs choked his voice.
-            ‘Same as if he had a bone in his throat,’ said the Gryphon: and it set to work shaking
-            him and punching him in the back. At last the Mock Turtle recovered his voice, and, with
-            tears running down his cheeks, he went on again:--</p>
-        <p>‘You may not have lived much under the sea--’ [‘I haven’t,’ said Alice)--‘and perhaps you
-            were never even introduced to a lobster--’ <parenthesis>Alice began to say ‘I once
-                tasted--’ but checked herself hastily, and said ‘No, never’</parenthesis> ‘--so you
-            can have no idea what a delightful thing a Lobster Quadrille is!’</p>
+            looked at Alice, and tried to speak, but for a minute or two <phrase type="pow">sobs
+                choked his voice</phrase>. ‘Same as if he had a bone in his throat,’ said the
+            Gryphon: and it set to work shaking him and punching him in the back. At last the Mock
+            Turtle recovered his voice, and, with tears running down his cheeks, he went on
+            again:--</p>
+        <p>‘You may not have lived much under the sea--’ <parenthesis>‘I haven’t,’ said
+                Alice</parenthesis>--‘and perhaps you were never even introduced to a lobster--’
+                <parenthesis>Alice began to say ‘I once tasted--’ but checked herself hastily, and
+                said ‘No, never’</parenthesis> ‘--so you can have no idea what a delightful thing a
+            Lobster Quadrille is!’</p>
         <p>‘No, indeed,’ said Alice. ‘What sort of a dance is it?’</p>
         <p>‘Why,’ said the Gryphon, ‘you first form into a line along the sea-shore--’</p>
         <p>‘Two lines!’ cried the Mock Turtle. ‘Seals, turtles, salmon, and so on; then, when you’ve
             cleared all the jelly-fish out of the way--’</p>
-        <p>‘THAT generally takes some time,’ interrupted the Gryphon.</p>
+        <p>‘<emp>THAT</emp> generally takes some time,’ interrupted the Gryphon.</p>
         <p>‘--you advance twice--’</p>
         <p>‘Each with a lobster as a partner!’ cried the Gryphon.</p>
         <p>‘Of course,’ the Mock Turtle said: ‘advance twice, set to partners--’</p>
@@ -1739,28 +1786,67 @@
         <p>‘Very much indeed,’ said Alice.</p>
         <p>‘Come, let’s try the first figure!’ said the Mock Turtle to the Gryphon. ‘We can do
             without lobsters, you know. Which shall sing?’</p>
-        <p>‘Oh, YOU sing,’ said the Gryphon. ‘I’ve forgotten the words.’</p>
+        <p>‘Oh, <emp>YOU</emp> sing,’ said the Gryphon. ‘I’ve forgotten the words.’</p>
         <p>So they began solemnly dancing round and round Alice, every now and then treading on her
             toes when they passed too close, and waving their forepaws to mark the time, while the
             Mock Turtle sang this, very slowly and sadly:--</p>
-        <p> ‘“Will you walk a little faster?” said a whiting to a snail. “There’s a porpoise close
-            behind us, and he’s treading on my tail.</p>
-        <p> See how eagerly the lobsters and the turtles all advance! They are waiting on the
-            shingle--will you come and join the dance?</p>
-        <p> Will you, won’t you, will you, won’t you, will you join the dance? Will you, won’t you,
-            will you, won’t you, won’t you join the dance?</p>
-        <p> “You can really have no notion how delightful it will be When they take us up and throw
-            us, with the lobsters, out to sea!” But the snail replied “Too far, too far!” and gave a
-            look askance-- Said he thanked the whiting kindly, but he would not join the dance.</p>
-        <p> Would not, could not, would not, could not, would not join the dance. Would not, could
-            not, would not, could not, could not join the dance.</p>
-        <p> ‘“What matters it how far we go?” his scaly friend replied. “There is another shore, you
-            know, upon the other side. The further off from England the nearer is to France-- Then
-            turn not pale, beloved snail, but come and join the dance.</p>
-        <p> Will you, won’t you, will you, won’t you, will you join the dance? Will you, won’t you,
-            will you, won’t you, won’t you join the dance?”’</p>
+        <song> ‘<stanza>
+                <rp rpn="020">
+                    <rhyme rn="01" def="true">“Will you walk a little faster?” said a whiting to a
+                        snail.</rhyme>
+                    <rhyme rn="02" def="true">“There’s a porpoise close behind us, and he’s treading
+                        on my tail.</rhyme>
+                </rp>
+            </stanza>
+            <stanza>
+                <rp rpn="021">
+                    <rhyme rn="01" def="true">See how eagerly the lobsters and the turtles all
+                        advance!</rhyme>
+                    <rhyme rn="02" def="true">They are waiting on the shingle--will you come and
+                        join the dance?</rhyme>
+                </rp>
+            </stanza>
+            <stanza> Will you, won’t you, will you, won’t you, will you join the dance? Will you,
+                won’t you, will you, won’t you, won’t you join the dance? </stanza>
+            <stanza>
+                <rp rpn="022">
+                    <rhyme rn="01" def="true">“You can really have no notion how delightful it will
+                        be</rhyme>
+                    <rhyme rn="02" def="true">When they take us up and throw us, with the lobsters,
+                        out to sea!”</rhyme>
+                </rp>
+                <rp rpn="021">
+                    <rhyme rn="03" def="true">But the snail replied “Too far, too far!” and gave a
+                        look askance--</rhyme>
+                    <rhyme rn="02" def="true">Said he thanked the whiting kindly, but he would not
+                        join the dance.</rhyme>
+                </rp>
+            </stanza>
+            <stanza> Would not, could not, would not, could not, would not join the dance. Would
+                not, could not, would not, could not, could not join the dance. </stanza>
+            <stanza>
+                <rp rpn="023">
+                    <rhyme rn="01" def="true">‘“What matters it how far we go?” his scaly friend
+                        replied.</rhyme>
+                    <rhyme rn="02" def="true">“There is another shore, you know, upon the other
+                        side.</rhyme>
+                </rp>
+                <rp rpn="021">
+                    <rhyme rn="04" def="true">The further off from England the nearer is to
+                        France--</rhyme>
+                    <rhyme rn="02" def="true">Then turn not pale, beloved snail, but come and join
+                        the dance.</rhyme>
+                </rp>
+            </stanza>
+            <stanza> Will you, won’t you, will you, won’t you, will you join the dance? Will you,
+                won’t you, will you, won’t you, won’t you join the dance?” </stanza>’ </song>
+        <!--Song tags: in the two stanzas without rhyme, should the repetition be tagged? As phrases?
+            Would this be interesting to track across translations, or should it just be left as it 
+            currently is?-->
+        <!--Song reference?-->
         <p>‘Thank you, it’s a very interesting dance to watch,’ said Alice, feeling very glad that
             it was over at last: ‘and I do so like that curious song about the whiting!’</p>
+        <!--Look up whiting-->
         <p>‘Oh, as to the whiting,’ said the Mock Turtle, ‘they--you’ve seen them, of course?’</p>
         <p>‘Yes,’ said Alice, ‘I’ve often seen them at dinn--’ she checked herself hastily.</p>
         <p>‘I don’t know where Dinn may be,’ said the Mock Turtle, ‘but if you’ve seen them so
@@ -1768,39 +1854,43 @@
         <p>‘I believe so,’ Alice replied thoughtfully. ‘They have their tails in their mouths--and
             they’re all over crumbs.’</p>
         <p>‘You’re wrong about the crumbs,’ said the Mock Turtle: ‘crumbs would all wash off in the
-            sea. But they HAVE their tails in their mouths; and the reason is--’ here the Mock
-            Turtle yawned and shut his eyes.--‘Tell her about the reason and all that,’ he said to
-            the Gryphon.</p>
-        <p>‘The reason is,’ said the Gryphon, ‘that they WOULD go with the lobsters to the dance. So
-            they got thrown out to sea. So they had to fall a long way. So they got their tails fast
-            in their mouths. So they couldn’t get them out again. That’s all.’</p>
+            sea. But they <emp>HAVE</emp> their tails in their mouths; and the reason is--’ here the
+            Mock Turtle yawned and shut his eyes.--‘Tell her about the reason and all that,’ he said
+            to the Gryphon.</p>
+        <p>‘The reason is,’ said the Gryphon, ‘that they <emp>WOULD</emp> go with the lobsters to
+            the dance. So they got thrown out to sea. So they had to fall a long way. So they got
+            their tails fast in their mouths. So they couldn’t get them out again. That’s all.’</p>
         <p>‘Thank you,’ said Alice, ‘it’s very interesting. I never knew so much about a whiting
             before.’</p>
         <p>‘I can tell you more than that, if you like,’ said the Gryphon. ‘Do you know why it’s
             called a whiting?’</p>
         <p>‘I never thought about it,’ said Alice. ‘Why?’</p>
-        <p>‘IT DOES THE BOOTS AND SHOES.’ the Gryphon replied very solemnly.</p>
-        <p>Alice was thoroughly puzzled. ‘Does the boots and shoes!’ she repeated in a wondering
-            tone.</p>
-        <p>‘Why, what are YOUR shoes done with?’ said the Gryphon. ‘I mean, what makes them so
-            shiny?’</p>
-        <p>Alice looked down at them, and considered a little before she gave her answer. ‘They’re
-            done with blacking, I believe.’</p>
-        <p>‘Boots and shoes under the sea,’ the Gryphon went on in a deep voice, ‘are done with a
-            whiting. Now you know.’</p>
+        <p>‘<phrase type="uc"><emp>IT DOES THE BOOTS AND SHOES</emp></phrase>.’ the Gryphon replied
+            very solemnly.</p>
+        <p>Alice was thoroughly puzzled. ‘<phrase type="uc">Does the boots and shoes!</phrase>’ she
+            repeated in a wondering tone.</p>
+        <p>‘Why, what are <emp>YOUR</emp> shoes done with?’ said the Gryphon. ‘I mean, what makes
+            them so shiny?’</p>
+        <p>Alice looked down at them, and considered a little before she gave her answer. ‘<phrase
+                type="uc">They’re done with</phrase>
+            <word kind="pow">blacking</word>, I believe.’</p>
+        <p>‘Boots and shoes under the sea,’ the Gryphon went on in a deep voice, ‘<phrase type="uc"
+                >are done with</phrase> a <word kind="pow">whiting</word>. Now you know.’</p>
         <p>‘And what are they made of?’ Alice asked in a tone of great curiosity.</p>
-        <p>‘Soles and eels, of course,’ the Gryphon replied rather impatiently: ‘any shrimp could
-            have told you that.’</p>
+        <p>‘Soles and <word kind="pow">eels</word>, of course,’ the Gryphon replied rather
+            impatiently: ‘any shrimp could have told you that.’</p>
         <p>‘If I’d been the whiting,’ said Alice, whose thoughts were still running on the song,
-            ‘I’d have said to the porpoise, “Keep back, please: we don’t want YOU with us!”’</p>
+            ‘I’d have said to the porpoise, “Keep back, please: we don’t want <emp>YOU</emp> with
+            us!”’</p>
         <p>‘They were obliged to have him with them,’ the Mock Turtle said: ‘no wise fish would go
-            anywhere without a porpoise.’</p>
+            anywhere without a <word kind="pow">porpoise</word>.’</p>
         <p>‘Wouldn’t it really?’ said Alice in a tone of great surprise.</p>
-        <p>‘Of course not,’ said the Mock Turtle: ‘why, if a fish came to ME, and told me he was
-            going a journey, I should say “With what porpoise?”’</p>
+        <p>‘Of course not,’ said the Mock Turtle: ‘why, if a fish came to <emp>ME</emp>, and told me
+            he was going a journey, I should say “<phrase type="pow">With what
+            porpoise?</phrase>”’</p>
         <p>‘Don’t you mean “purpose”?’ said Alice.</p>
         <p>‘I mean what I say,’ the Mock Turtle replied in an offended tone. And the Gryphon added
-            ‘Come, let’s hear some of YOUR adventures.’</p>
+            ‘Come, let’s hear some of <emp>YOUR</emp> adventures.’</p>
         <p>‘I could tell you my adventures--beginning from this morning,’ said Alice a little
             timidly: ‘but it’s no use going back to yesterday, because I was a different person
             then.’</p>
@@ -1809,31 +1899,53 @@
             such a dreadful time.’</p>
         <p>So Alice began telling them her adventures from the time when she first saw the White
             Rabbit. She was a little nervous about it just at first, the two creatures got so close
-            to her, one on each side, and opened their eyes and mouths so VERY wide, but she gained
-            courage as she went on. Her listeners were perfectly quiet till she got to the part
-            about her repeating ‘YOU ARE OLD, FATHER WILLIAM,’ to the Caterpillar, and the words all
-            coming different, and then the Mock Turtle drew a long breath, and said ‘That’s very
-            curious.’</p>
+            to her, one on each side, and opened their eyes and mouths so <emp>VERY</emp> wide, but
+            she gained courage as she went on. Her listeners were perfectly quiet till she got to
+            the part about her repeating ‘<emp>YOU ARE OLD, FATHER WILLIAM</emp>,’ to the
+            Caterpillar, and the words all coming different, and then the Mock Turtle drew a long
+            breath, and said ‘That’s very curious.’</p>
         <p>‘It’s all about as curious as it can be,’ said the Gryphon.</p>
         <p>‘It all came different!’ the Mock Turtle repeated thoughtfully. ‘I should like to hear
             her try and repeat something now. Tell her to begin.’ He looked at the Gryphon as if he
             thought it had some kind of authority over Alice.</p>
-        <p>‘Stand up and repeat “‘TIS THE VOICE OF THE SLUGGARD,”’ said the Gryphon.</p>
+        <p>‘Stand up and repeat “‘<emp>TIS THE VOICE OF THE SLUGGARD</emp>,”’ said the Gryphon.</p>
         <p>‘How the creatures order one about, and make one repeat lessons!’ thought Alice; ‘I might
             as well be at school at once.’ However, she got up, and began to repeat it, but her head
             was so full of the Lobster Quadrille, that she hardly knew what she was saying, and the
             words came very queer indeed:--</p>
-        <p> ‘’Tis the voice of the Lobster; I heard him declare, “You have baked me too brown, I
-            must sugar my hair.” As a duck with its eyelids, so he with his nose Trims his belt and
-            his buttons, and turns out his toes.’</p>
-        <p> [later editions continued as follows When the sands are all dry, he is gay as a lark,
-            And will talk in contemptuous tones of the Shark, But, when the tide rises and sharks
-            are around, His voice has a timid and tremulous sound.]</p>
+        <song>
+            <stanza>
+                <rp rpn="024"> ‘<rhyme rn="01" def="true">’Tis the voice of the Lobster; I heard him
+                        declare,</rhyme>
+                    <rhyme rn="02" def="true">“You have baked me too brown, I must sugar my
+                        hair.”</rhyme>
+                </rp>
+                <rp rpn="025">
+                    <rhyme rn="01" def="true">As a duck with its eyelids, so he with his
+                        nose</rhyme>
+                    <rhyme rn="02" def="true">Trims his belt and his buttons, and turns out his
+                        toes.</rhyme>’ </rp>
+            </stanza>
+            <!--Originally embedded in text within paratheses: "later editions continued as follows"-->
+            <stanza>
+                <rp rpn="027">
+                    <rhyme rn="01" def="true">When the sands are all dry, he is gay as a
+                        lark,</rhyme>
+                    <rhyme rn="02" def="true">And will talk in contemptuous tones of the
+                        Shark,</rhyme>
+                </rp>
+                <rp rpn="028">
+                    <rhyme rn="01" def="true">But, when the tide rises and sharks are
+                        around,</rhyme>
+                    <rhyme rn="02" def="true">His voice has a timid and tremulous sound.</rhyme>
+                </rp>
+            </stanza> r</song>
+        <!--Check song reference-->
         <p>‘That’s different from what I used to say when I was a child,’ said the Gryphon.</p>
         <p>‘Well, I never heard it before,’ said the Mock Turtle; ‘but it sounds uncommon
             nonsense.’</p>
         <p>Alice said nothing; she had sat down with her face in her hands, wondering if anything
-            would EVER happen in a natural way again.</p>
+            would EVER <emp>happen</emp> in a natural way again.</p>
         <p>‘I should like to have it explained,’ said the Mock Turtle.</p>
         <p>‘She can’t explain it,’ said the Gryphon hastily. ‘Go on with the next verse.’</p>
         <p>‘But about his toes?’ the Mock Turtle persisted. ‘How <emp>COULD</emp> he turn them out
@@ -1844,14 +1956,35 @@
             his garden.”’</p>
         <p>Alice did not dare to disobey, though she felt sure it would all come wrong, and she went
             on in a trembling voice:--</p>
-        <p> ‘I passed by his garden, and marked, with one eye, How the Owl and the Panther were
-            sharing a pie--’</p>
-        <p> [later editions continued as follows The Panther took pie-crust, and gravy, and meat,
-            While the Owl had the dish as its share of the treat. When the pie was all finished, the
-            Owl, as a boon, Was kindly permitted to pocket the spoon: While the Panther received
-            knife and fork with a growl, And concluded the banquet--]</p>
-        <p>‘What IS the use of repeating all that stuff,’ the Mock Turtle interrupted, ‘if you don’t
-            explain it as you go on? It’s by far the most confusing thing I ever heard!’</p>
+        <song>
+            <stanza>
+                <rp rpn="029">
+                    <rhyme rn="01" def="true">‘I passed by his garden, and marked, with one
+                        eye,</rhyme>
+                    <rhyme rn="02" def="true">How the Owl and the Panther were sharing a
+                        pie--’</rhyme>
+                </rp>
+            </stanza>
+            <!--Originally embedded in text within paratheses: "later editions continued as follows"-->
+            <stanza>
+                <rp rpn="030">
+                    <rhyme rn="01" def="true">The Panther took pie-crust, and gravy, and
+                        meat,</rhyme>
+                    <rhyme rn="02" def="true">While the Owl had the dish as its share of the
+                        treat.</rhyme>
+                </rp>
+                <rp rpn="031">
+                    <rhyme rn="01" def="true">When the pie was all finished, the Owl, as a
+                        boon,</rhyme>
+                    <rhyme rn="02" def="true">Was kindly permitted to pocket the spoon:</rhyme>
+                </rp> While the Panther received knife and fork with a growl, And concluded the
+                banquet-- </stanza>
+        </song>
+        <!--Incomplete rhyme phrase-->
+        <!--Check reference-->
+        <p>‘What <emp>IS</emp> the use of repeating all that stuff,’ the Mock Turtle interrupted,
+            ‘if you don’t explain it as you go on? It’s by far the most confusing thing I ever
+            heard!’</p>
         <p>‘Yes, I think you’d better leave off,’ said the Gryphon: and Alice was only too glad to
             do so.</p>
         <p>‘Shall we try another figure of the Lobster Quadrille?’ the Gryphon went on. ‘Or would
@@ -1861,14 +1994,23 @@
             “Turtle Soup,” will you, old fellow?’</p>
         <p>The Mock Turtle sighed deeply, and began, in a voice sometimes choked with sobs, to sing
             this:--</p>
-        <p> ‘Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would
-            not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup!
-            Beau--ootiful Soo--oop! Beau--ootiful Soo--oop! Soo--oop of the e--e--evening,
-            Beautiful, beautiful Soup!</p>
-        <p> ‘Beautiful Soup! Who cares for fish, Game, or any other dish? Who would not give all
-            else for two Pennyworth only of beautiful Soup? Pennyworth only of beautiful Soup?
-            Beau--ootiful Soo--oop! Beau--ootiful Soo--oop! Soo--oop of the e--e--evening,
-            Beautiful, beauti--FUL SOUP!’</p>
+        <song>
+            <stanza>
+                <rp rpn="032">
+                    <rhyme rn="01" def="true">‘Beautiful Soup, so rich and green,</rhyme>
+                    <rhyme rn="02" def="true">Waiting in a hot tureen!</rhyme>
+                </rp>
+                <rp rpn="033">
+                    <rhyme rn="01" def="true">Who for such dainties would not stoop?</rhyme>
+                    <rhyme rn="02" def="true">Soup of the evening, beautiful Soup!</rhyme>
+                </rp> Soup of the evening, beautiful Soup! Beau--ootiful Soo--oop! Beau--ootiful
+                Soo--oop! Soo--oop of the e--e--evening, Beautiful, beautiful Soup! </stanza>
+            <stanza> ‘Beautiful Soup! Who cares for fish, Game, or any other dish? Who would not
+                give all else for two Pennyworth only of beautiful Soup? Pennyworth only of
+                beautiful Soup? Beau--ootiful Soo--oop! Beau--ootiful Soo--oop! Soo--oop of the
+                e--e--evening, Beautiful, beauti--FUL SOUP!’ </stanza>
+        </song>
+        <!--More song repetition-->
         <p>‘Chorus again!’ cried the Gryphon, and the Mock Turtle had just begun to repeat it, when
             a cry of ‘The trial’s beginning!’ was heard in the distance.</p>
         <p>‘Come on!’ cried the Gryphon, and, taking Alice by the hand, it hurried off, without
@@ -1923,8 +2065,22 @@
         <p>‘Herald, read the accusation!’ said the King.</p>
         <p>On this the White Rabbit blew three blasts on the trumpet, and then unrolled the
             parchment scroll, and read as follows:--</p>
-        <p> ‘The Queen of Hearts, she made some tarts, All on a summer day: The Knave of Hearts, he
-            stole those tarts, And took them quite away!’</p>
+        <p>
+            <rp rpn="034">
+                <rhyme rn="01" def="true">‘The Queen of Hearts,</rhyme>
+                <rhyme rn="02" def="true">she made some tarts,</rhyme>
+            </rp>
+            <rp rpn="035">
+                <rhyme rn="01" def="true">All on a summer day:</rhyme>
+            </rp>
+            <rp rpn="034">
+                <rhyme rn="01" def="true">The Knave of Hearts,</rhyme>
+                <rhyme rn="02" def="true">he stole those tarts,</rhyme>
+            </rp>
+            <rp rpn="035">
+                <rhyme rn="02" def="true">And took them quite away!’</rhyme>
+            </rp>
+        </p>
         <p>‘Consider your verdict,’ the King said to the jury.</p>
         <p>‘Not yet, not yet!’ the Rabbit hastily interrupted. ‘There’s a great deal to come before
             that!’</p>
@@ -1977,8 +2133,8 @@
             thin--and the twinkling of the tea--’</p>
         <p>‘The twinkling of the what?’ said the King.</p>
         <p>‘It began with the tea,’ the Hatter replied.</p>
-        <p>‘Of course twinkling begins with a T!’ said the King sharply. ‘Do you take me for a
-            dunce? Go on!’</p>
+        <p>‘Of course <phrase type="pow">twinkling begins with a T</phrase>!’ said the King sharply.
+            ‘Do you take me for a dunce? Go on!’</p>
         <p>‘I’m a poor man,’ the Hatter went on, ‘and most things twinkled after that--only the
             March Hare said--’</p>
         <p>‘I didn’t!’ the March Hare interrupted in a great hurry.</p>
@@ -1990,7 +2146,7 @@
         <p>‘After that,’ continued the Hatter, ‘I cut some more bread-and-butter--’</p>
         <p>‘But what did the Dormouse say?’ one of the jury asked.</p>
         <p>‘That I can’t remember,’ said the Hatter.</p>
-        <p>‘You MUST remember,’ remarked the King, ‘or I’ll have you executed.’</p>
+        <p>‘You <emp>MUST</emp> remember,’ remarked the King, ‘or I’ll have you executed.’</p>
         <p>The miserable Hatter dropped his teacup and bread-and-butter, and went down on one knee.
             ‘I’m a poor man, your Majesty,’ he began.</p>
         <p>‘You’re a very poor speaker,’ said the King.</p>
@@ -2004,8 +2160,9 @@
             suppressed by the officers of the court,” and I never understood what it meant till
             now.’</p>
         <p>‘If that’s all you know about it, you may stand down,’ continued the King.</p>
-        <p>‘I can’t go no lower,’ said the Hatter: ‘I’m on the floor, as it is.’</p>
-        <p>‘Then you may SIT down,’ the King replied.</p>
+        <p>‘<phrase type="pow">I can’t go no lower</phrase>,’ said the Hatter: ‘I’m on the floor, as
+            it is.’</p>
+        <p>‘Then you may <emp>SIT</emp> down,’ the King replied.</p>
         <p>Here the other guinea-pig cheered, and was suppressed.</p>
         <p>‘Come, that finished the guinea-pigs!’ thought Alice. ‘Now we shall get on better.’</p>
         <p>‘I’d rather finish my tea,’ said the Hatter, with an anxious look at the Queen, who was
@@ -2021,7 +2178,7 @@
         <p>‘Give your evidence,’ said the King.</p>
         <p>‘Shan’t,’ said the cook.</p>
         <p>The King looked anxiously at the White Rabbit, who said in a low voice, ‘Your Majesty
-            must cross-examine THIS witness.’</p>
+            must cross-examine <emp>THIS</emp> witness.’</p>
         <p>‘Well, if I must, I must,’ the King said, with a melancholy air, and, after folding his
             arms and frowning at the cook till his eyes were nearly out of sight, he said in a deep
             voice, ‘What are tarts made of?’</p>
@@ -2032,12 +2189,12 @@
         <p>For some minutes the whole court was in confusion, getting the Dormouse turned out, and,
             by the time they had settled down again, the cook had disappeared.</p>
         <p>‘Never mind!’ said the King, with an air of great relief. ‘Call the next witness.’ And he
-            added in an undertone to the Queen, ‘Really, my dear, YOU must cross-examine the next
-            witness. It quite makes my forehead ache!’</p>
+            added in an undertone to the Queen, ‘Really, my dear, <emp>YOU</emp> must cross-examine
+            the next witness. It quite makes my forehead ache!’</p>
         <p>Alice watched the White Rabbit as he fumbled over the list, feeling very curious to see
-            what the next witness would be like, ‘--for they haven’t got much evidence YET,’ she
-            said to herself. Imagine her surprise, when the White Rabbit read out, at the top of his
-            shrill little voice, the name ‘Alice!’</p>
+            what the next witness would be like, ‘--for they haven’t got much evidence
+                <emp>YET</emp>,’ she said to herself. Imagine her surprise, when the White Rabbit
+            read out, at the top of his shrill little voice, the name ‘Alice!’</p>
     </chapter>
     <chapter n="XII">
         <title>CHAPTER XII. Alice’s Evidence</title>
@@ -2046,18 +2203,18 @@
             jury-box with the edge of her skirt, upsetting all the jurymen on to the heads of the
             crowd below, and there they lay sprawling about, reminding her very much of a globe of
             goldfish she had accidentally upset the week before.</p>
-        <p>‘Oh, I BEG your pardon!’ she exclaimed in a tone of great dismay, and began picking them
-            up again as quickly as she could, for the accident of the goldfish kept running in her
-            head, and she had a vague sort of idea that they must be collected at once and put back
-            into the jury-box, or they would die.</p>
+        <p>‘Oh, I <emp>BEG</emp> your pardon!’ she exclaimed in a tone of great dismay, and began
+            picking them up again as quickly as she could, for the accident of the goldfish kept
+            running in her head, and she had a vague sort of idea that they must be collected at
+            once and put back into the jury-box, or they would die.</p>
         <p>‘The trial cannot proceed,’ said the King in a very grave voice, ‘until all the jurymen
-            are back in their proper places--ALL,’ he repeated with great emphasis, looking hard at
-            Alice as he said do.</p>
+            are back in their proper places--<emp>ALL</emp>,’ he repeated with great emphasis,
+            looking hard at Alice as he said do.</p>
         <p>Alice looked at the jury-box, and saw that, in her haste, she had put the Lizard in head
             downwards, and the poor little thing was waving its tail about in a melancholy way,
             being quite unable to move. She soon got it out again, and put it right; ‘not that it
-            signifies much,’ she said to herself; ‘I should think it would be QUITE as much use in
-            the trial one way up as the other.’</p>
+            signifies much,’ she said to herself; ‘I should think it would be <emp>QUITE</emp> as
+            much use in the trial one way up as the other.’</p>
         <p>As soon as the jury had a little recovered from the shock of being upset, and their
             slates and pencils had been found and handed back to them, they set to work very
             diligently to write out a history of the accident, all except the Lizard, who seemed too
@@ -2065,24 +2222,24 @@
             court.</p>
         <p>‘What do you know about this business?’ the King said to Alice.</p>
         <p>‘Nothing,’ said Alice.</p>
-        <p>‘Nothing WHATEVER?’ persisted the King.</p>
+        <p>‘Nothing <emp>WHATEVER</emp>?’ persisted the King.</p>
         <p>‘Nothing whatever,’ said Alice.</p>
         <p>‘That’s very important,’ the King said, turning to the jury. They were just beginning to
-            write this down on their slates, when the White Rabbit interrupted: ‘UNimportant, your
-            Majesty means, of course,’ he said in a very respectful tone, but frowning and making
-            faces at him as he spoke.</p>
-        <p>‘UNimportant, of course, I meant,’ the King hastily said, and went on to himself in an
-            undertone,</p>
+            write this down on their slates, when the White Rabbit interrupted:
+            ‘<emp>UN</emp>important, your Majesty means, of course,’ he said in a very respectful
+            tone, but frowning and making faces at him as he spoke.</p>
+        <p>‘<emp>UN</emp>important, of course, I meant,’ the King hastily said, and went on to
+            himself in an undertone,</p>
         <p>‘important--unimportant--unimportant--important--’ as if he were trying which word
             sounded best.</p>
         <p>Some of the jury wrote it down ‘important,’ and some ‘unimportant.’ Alice could see this,
             as she was near enough to look over their slates; ‘but it doesn’t matter a bit,’ she
             thought to herself.</p>
         <p>At this moment the King, who had been for some time busily writing in his note-book,
-            cackled out ‘Silence!’ and read out from his book, ‘Rule Forty-two. ALL PERSONS MORE
-            THAN A MILE HIGH TO LEAVE THE COURT.’</p>
+            cackled out ‘Silence!’ and read out from his book, ‘Rule Forty-two. <emp>ALL PERSONS
+                MORE THAN A MILE HIGH TO LEAVE THE COUR</emp>T.’</p>
         <p>Everybody looked at Alice.</p>
-        <p>‘I’M not a mile high,’ said Alice.</p>
+        <p>‘<emp>I’M</emp> not a mile high,’ said Alice.</p>
         <p>‘You are,’ said the King.</p>
         <p>‘Nearly two miles high,’ added the Queen.</p>
         <p>‘Well, I shan’t go, at any rate,’ said Alice: ‘besides, that’s not a regular rule: you
@@ -2100,8 +2257,8 @@
             usual, you know.’</p>
         <p>‘Who is it directed to?’ said one of the jurymen.</p>
         <p>‘It isn’t directed at all,’ said the White Rabbit; ‘in fact, there’s nothing written on
-            the OUTSIDE.’ He unfolded the paper as he spoke, and added ‘It isn’t a letter, after
-            all: it’s a set of verses.’</p>
+            the <emp>OUTSIDE</emp>.’ He unfolded the paper as he spoke, and added ‘It isn’t a
+            letter, after all: it’s a set of verses.’</p>
         <p>‘Are they in the prisoner’s handwriting?’ asked another of the jurymen.</p>
         <p>‘No, they’re not,’ said the White Rabbit, ‘and that’s the queerest thing about it.’
                 <parenthesis>The jury all looked puzzled.</parenthesis></p>
@@ -2109,11 +2266,12 @@
                 brightened up again.</parenthesis></p>
         <p>‘Please your Majesty,’ said the Knave, ‘I didn’t write it, and they can’t prove I did:
             there’s no name signed at the end.’</p>
-        <p>‘If you didn’t sign it,’ said the King, ‘that only makes the matter worse. You MUST have
-            meant some mischief, or else you’d have signed your name like an honest man.’</p>
+        <p>‘If you didn’t sign it,’ said the King, ‘that only makes the matter worse. You
+                <emp>MUST</emp> have meant some mischief, or else you’d have signed your name like
+            an honest man.’</p>
         <p>There was a general clapping of hands at this: it was the first really clever thing the
             King had said that day.</p>
-        <p>‘That PROVES his guilt,’ said the Queen.</p>
+        <p>‘That <emp>PROVES</emp> his guilt,’ said the Queen.</p>
         <p>‘It proves nothing of the sort!’ said Alice. ‘Why, you don’t even know what they’re
             about!’</p>
         <p>‘Read them,’ said the King.</p>
@@ -2122,45 +2280,84 @@
         <p>‘Begin at the beginning,’ the King said gravely, ‘and go on till you come to the end:
             then stop.’</p>
         <p>These were the verses the White Rabbit read:--</p>
-        <p> ‘They told me you had been to her, And mentioned me to him: She gave me a good
-            character, But said I could not swim.</p>
-        <p> He sent them word I had not gone <parenthesis>We know it to be true</parenthesis>: If
-            she should push the matter on, What would become of you?</p>
-        <p> I gave her one, they gave him two, You gave us three or more; They all returned from him
-            to you, Though they were mine before.</p>
-        <p> If I or she should chance to be Involved in this affair, He trusts to you to set them
-            free, Exactly as we were.</p>
-        <p> My notion was that you had been <parenthesis>Before she had this fit</parenthesis> An
-            obstacle that came between Him, and ourselves, and it.</p>
-        <p> Don’t let him know she liked them best, For this must ever be A secret, kept from all
-            the rest, Between yourself and me.’</p>
+        <song>
+            <stanza>
+                <rp rpn="036"><rhyme rn="01" def="true">‘They told me you had been to
+                    her,</rhyme></rp>
+                <rp rpn="037"><rhyme rn="01" def="true">And mentioned me to him:</rhyme></rp>
+                <rp rpn="036"><rhyme rn="02" def="true">She gave me a good character,</rhyme></rp>
+                <rp rpn="037"><rhyme rn="02" def="true">But said I could not swim.</rhyme></rp>
+            </stanza>
+            <stanza>
+                <rp rpn="038"><rhyme rn="01" def="true">He sent them word I had not gone
+                    </rhyme></rp>
+                <parenthesis><rp rpn="039"><rhyme rn="01" def="true">We know it to be
+                        true</rhyme></rp></parenthesis>: <rp rpn="038"><rhyme rn="02" def="true">If
+                        she should push the matter on,</rhyme></rp>
+                <rp rpn="039"><rhyme rn="02" def="true">What would become of you?</rhyme></rp>
+            </stanza>
+            <stanza>
+                <rp rpn="040"><rhyme rn="01" def="true">I gave her one, they gave him
+                    two,</rhyme></rp>
+                <rp rpn="041"><rhyme rn="01" def="true">You gave us three or more;</rhyme></rp>
+                <rp rpn="040"><rhyme rn="02" def="true">They all returned from him to
+                    you,</rhyme></rp>
+                <rp rpn="041"><rhyme rn="02" def="true">Though they were mine before.</rhyme></rp>
+            </stanza>
+            <stanza>
+                <rp rpn="042"><rhyme rn="01" def="true">If I or she should chance to be</rhyme></rp>
+                <rp rpn="043"><rhyme rn="01" def="true">Involved in this affair,</rhyme></rp>
+                <rp rpn="042"><rhyme rn="02" def="true">He trusts to you to set them
+                    free,</rhyme></rp>
+                <rp rpn="043"><rhyme rn="02" def="true">Exactly as we were.</rhyme></rp>
+            </stanza>
+            <stanza>
+                <rp rpn="044"><rhyme rn="01" def="true">My notion was that you had been</rhyme></rp>
+                <parenthesis><rp rpn="045"><rhyme rn="01" def="true">Before she had this
+                        fit</rhyme></rp></parenthesis>
+                <rp rpn="044"><rhyme rn="02" def="true">An obstacle that came between
+                    Him,</rhyme></rp>
+                <rp rpn="045"><rhyme rn="02" def="true">and ourselves, and it.</rhyme></rp>
+            </stanza>
+            <stanza>
+                <rp rpn="046"><rhyme rn="01" def="true">Don’t let him know she liked them
+                        best,</rhyme></rp>
+                <rp rpn="047"><rhyme rn="01" def="true">For this must ever be</rhyme></rp>
+                <rp rpn="046"><rhyme rn="02" def="true">A secret, kept from all the
+                    rest,</rhyme></rp>
+                <rp rpn="047"><rhyme rn="02" def="true">Between yourself and me.’</rhyme></rp>
+            </stanza>
+        </song>
+        <!--Check reference-->
         <p>‘That’s the most important piece of evidence we’ve heard yet,’ said the King, rubbing his
             hands; ‘so now let the jury--’</p>
         <p>‘If any one of them can explain it,’ said Alice, <parenthesis>she had grown so large in
                 the last few minutes that she wasn’t a bit afraid of interrupting him,</parenthesis>
-            ‘I’ll give him sixpence. _I_ don’t believe there’s an atom of meaning in it.’</p>
+            ‘I’ll give him sixpence. <emp>I</emp> don’t believe there’s an atom of meaning in
+            it.’</p>
         <p>The jury all wrote down on their slates, ‘<emp>SHE</emp> doesn’t believe there’s an atom
             of meaning in it,’ but none of them attempted to explain the paper.</p>
         <p>‘If there’s no meaning in it,’ said the King, ‘that saves a world of trouble, you know,
             as we needn’t try to find any. And yet I don’t know,’ he went on, spreading out the
             verses on his knee, and looking at them with one eye; ‘I seem to see some meaning in
-            them, after all. “--SAID I COULD NOT SWIM--” you can’t swim, can you?’ he added, turning
-            to the Knave.</p>
+            them, after all. “--<emp>SAID I COULD NOT SWIM</emp>--” you can’t swim, can you?’ he
+            added, turning to the Knave.</p>
         <p>The Knave shook his head sadly. ‘Do I look like it?’ he said. <parenthesis>Which he
-                certainly did NOT, being made entirely of cardboard.</parenthesis></p>
+                certainly did <emp>NOT</emp>, being made entirely of cardboard.</parenthesis></p>
         <p>‘All right, so far,’ said the King, and he went on muttering over the verses to himself:
-            ‘“WE KNOW IT TO BE TRUE--” that’s the jury, of course--“I GAVE HER ONE, THEY GAVE HIM
-            TWO--” why, that must be what he did with the tarts, you know--’</p>
-        <p>‘But, it goes on “THEY ALL RETURNED FROM HIM TO YOU,”’ said Alice.</p>
+                ‘“<emp>WE KNOW IT TO BE TRUE</emp>--” that’s the jury, of course--“<emp>I GAVE HER
+                ONE, THEY GAVE HIM TWO--</emp>” why, that must be what he did with the tarts, you
+            know--’</p>
+        <p>‘But, it goes on “<emp>THEY ALL RETURNED FROM HIM TO YOU,</emp>”’ said Alice.</p>
         <p>‘Why, there they are!’ said the King triumphantly, pointing to the tarts on the table.
-            ‘Nothing can be clearer than THAT. Then again--“BEFORE SHE HAD THIS FIT--” you never had
-            fits, my dear, I think?’ he said to the Queen.</p>
+            ‘Nothing can be clearer than <emp>THAT</emp>. Then again--“<emp>BEFORE SHE HAD THIS
+                FIT</emp>--” you never had fits, my dear, I think?’ he said to the Queen.</p>
         <p>‘Never!’ said the Queen furiously, throwing an inkstand at the Lizard as she spoke.
                 <parenthesis>The unfortunate little Bill had left off writing on his slate with one
                 finger, as he found it made no mark; but he now hastily began again, using the ink,
                 that was trickling down his face, as long as it lasted.</parenthesis></p>
-        <p>‘Then the words don’t FIT you,’ said the King, looking round the court with a smile.
-            There was a dead silence.</p>
+        <p>‘Then the words don’t <word kind="pow"><emp>FIT</emp></word> you,’ said the King, looking
+            round the court with a smile. There was a dead silence.</p>
         <p>‘It’s a pun!’ the King added in an offended tone, and everybody laughed, ‘Let the jury
             consider their verdict,’ the King said, for about the twentieth time that day.</p>
         <p>‘No, no!’ said the Queen. ‘Sentence first--verdict afterwards.’</p>
@@ -2177,19 +2374,19 @@
         <p>‘Wake up, Alice dear!’ said her sister; ‘Why, what a long sleep you’ve had!’</p>
         <p>‘Oh, I’ve had such a curious dream!’ said Alice, and she told her sister, as well as she
             could remember them, all these strange Adventures of hers that you have just been
-            reading about; and when she had finished, her sister kissed her, and said, ‘It WAS a
-            curious dream, dear, certainly: but now run in to your tea; it’s getting late.’ So Alice
-            got up and ran off, thinking while she ran, as well she might, what a wonderful dream it
-            had been.</p>
+            reading about; and when she had finished, her sister kissed her, and said, ‘It
+                <emp>WAS</emp> a curious dream, dear, certainly: but now run in to your tea; it’s
+            getting late.’ So Alice got up and ran off, thinking while she ran, as well she might,
+            what a wonderful dream it had been.</p>
         <p>But her sister sat still just as she left her, leaning her head on her hand, watching the
             setting sun, and thinking of little Alice and all her wonderful Adventures, till she too
             began dreaming after a fashion, and this was her dream:--</p>
         <p>First, she dreamed of little Alice herself, and once again the tiny hands were clasped
             upon her knee, and the bright eager eyes were looking up into hers--she could hear the
             very tones of her voice, and see that queer little toss of her head to keep back the
-            wandering hair that WOULD always get into her eyes--and still as she listened, or seemed
-            to listen, the whole place around her became alive with the strange creatures of her
-            little sister’s dream.</p>
+            wandering hair that <emp>WOULD</emp> always get into her eyes--and still as she
+            listened, or seemed to listen, the whole place around her became alive with the strange
+            creatures of her little sister’s dream.</p>
         <p>The long grass rustled at her feet as the White Rabbit hurried by--the frightened Mouse
             splashed his way through the neighbouring pool--she could hear the rattle of the teacups
             as the March Hare and his friends shared their never-ending meal, and the shrill voice
@@ -2209,9 +2406,9 @@
         <p>Lastly, she pictured to herself how this same little sister of hers would, in the
             after-time, be herself a grown woman; and how she would keep, through all her riper
             years, the simple and loving heart of her childhood: and how she would gather about her
-            other little children, and make THEIR eyes bright and eager with many a strange tale,
-            perhaps even with the dream of Wonderland of long ago: and how she would feel with all
-            their simple sorrows, and find a pleasure in all their simple joys, remembering her own
-            child-life, and the happy summer days.</p>
+            other little children, and make <emp>THEIR</emp> eyes bright and eager with many a
+            strange tale, perhaps even with the dream of Wonderland of long ago: and how she would
+            feel with all their simple sorrows, and find a pleasure in all their simple joys,
+            remembering her own child-life, and the happy summer days.</p>
     </chapter>
 </book>
