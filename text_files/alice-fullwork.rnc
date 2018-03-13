@@ -3,32 +3,58 @@ book = element book { bookTitle, author, translator*, chapter+ }
 bookTitle = element bookTitle { text }
 author = element author { text }
 translator = element translator { text }
-chapter = element chapter { n, chapterTitle, ( p | break )+ }
+chapter = element chapter { n, chapterTitle, (p | break | song)+ }
 n = attribute n { text }
 chapterTitle = element title { text }
 break = element break { text }
 p =
     element p {
-        mixed { (parenthesis | word | phrase | rp | song | emp | foreign)* }
+        mixed {
+            (parenthesis | word | phrase | rp | onomatopoeia | song | emp | foreign | cultural)*
+        }
     }
 parenthesis =
     element parenthesis {
-        mixed { (word | phrase | emp)* }
+        mixed { (word | phrase | emp | cultural | rp )* }
     }
-word = element word { kind, text }
+word = element word { mixed { ( kind, emp* ) } }
 kind = attribute kind { "iu" | "ns" | "uc" | "pow" }
-phrase = element phrase { type, text }
+phrase = element phrase { mixed { ( type, ( emp | word )* ) } }
 type = attribute type { "iu" | "ns" | "uc" | "pow" }
-rp = element rp { rpn, mixed { rhyme+ } }
+rp =
+    element rp {
+        rpn,
+        mixed { rhyme+ }
+    }
 rpn = attribute rpn { xsd:int }
-rhyme = element rhyme { rn, def, text }
+rhyme =
+    element rhyme {
+        mixed { rn, def, emp* }
+    }
 def = attribute def { "true" | "trans" }
 rn = attribute rn { xsd:int }
+onomatopoeia = element onomatopoeia { text }
 song =
     element song {
-        mixed { (rhyme | word | phrase | stanza)* }
+        mixed { (rp | word | phrase | stanza | onomatopoeia | emp)* }
     }
-stanza = element stanza { text }
+stanza =
+    element stanza {
+        mixed { (l | rp | word | phrase | onomatopoeia | emp | parenthesis)* }
+    }
+l =
+    element l {
+        mixed { (rp | word | phrase | onomatopoeia | emp | parenthesis)* }
+    }
 emp = element emp { text }
 foreign = element foreign { language, text }
 language = attribute language { text }
+cultural =
+    element cultural {
+        mixed { (word | phrase | rp | song | onomatopoeia | emp)* }
+    }
+
+
+# Definition of terms:
+# word/phrase kind/type: "iu"="incorrect usage" "ns"="nonsense words" "uc"="uncommon/unconventional usage" "pow"="play on words"
+# rhyme def: "true"="true rhyme, the content rhymes" "trans"="translation of the rhyme, if the translation does not rhyme itself"
