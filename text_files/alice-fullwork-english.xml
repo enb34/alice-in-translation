@@ -1980,10 +1980,13 @@
                     <rhyme rn="01" def="true">When the pie was all finished, the Owl, as a
                         boon,</rhyme>
                     <rhyme rn="02" def="true">Was kindly permitted to pocket the spoon:</rhyme>
-                </rp> While the Panther received knife and fork with a growl, And concluded the
-                banquet-- </stanza>
+                </rp>
+                <rp rpn="032" stat="incomplete">
+                    <rhyme rn="00" def="incomp">While the Panther
+                        received knife and fork with a growl</rhyme>, And concluded the
+                    banquet--</rp>
+            </stanza>
         </song>
-        <!--Incomplete rhyme phrase-->
         <!--Parody of Watts's "'Tis the Voice of the Sluggard", continued-->
         <p>‘What <emp>IS</emp> the use of repeating all that stuff,’ the Mock Turtle interrupted,
             ‘if you don’t explain it as you go on? It’s by far the most confusing thing I ever
@@ -1999,11 +2002,11 @@
             this:--</p>
         <song>
             <stanza>
-                <rp rpn="032">
+                <rp rpn="033">
                     <rhyme rn="01" def="true">‘Beautiful Soup, so rich and green,</rhyme>
                     <rhyme rn="02" def="true">Waiting in a hot tureen!</rhyme>
                 </rp>
-                <rp rpn="033">
+                <rp rpn="034">
                     <rhyme rn="01" def="true">Who for such dainties would not stoop?</rhyme>
                     <rhyme rn="02" def="true">Soup of the evening, beautiful Soup!</rhyme>
                 </rp> Soup of the evening, beautiful Soup! Beau--ootiful Soo--oop! Beau--ootiful
@@ -2069,18 +2072,18 @@
         <p>On this the White Rabbit blew three blasts on the trumpet, and then unrolled the
             parchment scroll, and read as follows:--</p>
         <p>
-            <rp rpn="034">
+            <rp rpn="035">
                 <rhyme rn="01" def="true">‘The Queen of Hearts,</rhyme>
                 <rhyme rn="02" def="true">she made some tarts,</rhyme>
             </rp>
-            <rp rpn="035">
+            <rp rpn="036">
                 <rhyme rn="01" def="true">All on a summer day:</rhyme>
             </rp>
-            <rp rpn="034">
+            <rp rpn="035">
                 <rhyme rn="01" def="true">The Knave of Hearts,</rhyme>
                 <rhyme rn="02" def="true">he stole those tarts,</rhyme>
             </rp>
-            <rp rpn="035">
+            <rp rpn="036">
                 <rhyme rn="02" def="true">And took them quite away!’</rhyme>
             </rp>
         </p>
@@ -2285,50 +2288,50 @@
         <p>These were the verses the White Rabbit read:--</p>
         <song>
             <stanza>
-                <rp rpn="036"><rhyme rn="01" def="true">‘They told me you had been to
+                <rp rpn="037"><rhyme rn="01" def="true">‘They told me you had been to
                     her,</rhyme></rp>
-                <rp rpn="037"><rhyme rn="01" def="true">And mentioned me to him:</rhyme></rp>
-                <rp rpn="036"><rhyme rn="02" def="true">She gave me a good character,</rhyme></rp>
-                <rp rpn="037"><rhyme rn="02" def="true">But said I could not swim.</rhyme></rp>
+                <rp rpn="038"><rhyme rn="01" def="true">And mentioned me to him:</rhyme></rp>
+                <rp rpn="037"><rhyme rn="02" def="true">She gave me a good character,</rhyme></rp>
+                <rp rpn="038"><rhyme rn="02" def="true">But said I could not swim.</rhyme></rp>
             </stanza>
             <stanza>
-                <rp rpn="038"><rhyme rn="01" def="true">He sent them word I had not gone
+                <rp rpn="039"><rhyme rn="01" def="true">He sent them word I had not gone
                     </rhyme></rp>
                 <parenthesis><rp rpn="039"><rhyme rn="01" def="true">We know it to be
                         true</rhyme></rp></parenthesis>: <rp rpn="038"><rhyme rn="02" def="true">If
                         she should push the matter on,</rhyme></rp>
-                <rp rpn="039"><rhyme rn="02" def="true">What would become of you?</rhyme></rp>
+                <rp rpn="040"><rhyme rn="02" def="true">What would become of you?</rhyme></rp>
             </stanza>
             <stanza>
-                <rp rpn="040"><rhyme rn="01" def="true">I gave her one, they gave him
+                <rp rpn="041"><rhyme rn="01" def="true">I gave her one, they gave him
                     two,</rhyme></rp>
-                <rp rpn="041"><rhyme rn="01" def="true">You gave us three or more;</rhyme></rp>
-                <rp rpn="040"><rhyme rn="02" def="true">They all returned from him to
+                <rp rpn="042"><rhyme rn="01" def="true">You gave us three or more;</rhyme></rp>
+                <rp rpn="041"><rhyme rn="02" def="true">They all returned from him to
                     you,</rhyme></rp>
-                <rp rpn="041"><rhyme rn="02" def="true">Though they were mine before.</rhyme></rp>
+                <rp rpn="042"><rhyme rn="02" def="true">Though they were mine before.</rhyme></rp>
             </stanza>
             <stanza>
-                <rp rpn="042"><rhyme rn="01" def="true">If I or she should chance to be</rhyme></rp>
-                <rp rpn="043"><rhyme rn="01" def="true">Involved in this affair,</rhyme></rp>
-                <rp rpn="042"><rhyme rn="02" def="true">He trusts to you to set them
+                <rp rpn="043"><rhyme rn="01" def="true">If I or she should chance to be</rhyme></rp>
+                <rp rpn="044"><rhyme rn="01" def="true">Involved in this affair,</rhyme></rp>
+                <rp rpn="043"><rhyme rn="02" def="true">He trusts to you to set them
                     free,</rhyme></rp>
-                <rp rpn="043"><rhyme rn="02" def="true">Exactly as we were.</rhyme></rp>
+                <rp rpn="044"><rhyme rn="02" def="true">Exactly as we were.</rhyme></rp>
             </stanza>
             <stanza>
-                <rp rpn="044"><rhyme rn="01" def="true">My notion was that you had been</rhyme></rp>
-                <parenthesis><rp rpn="045"><rhyme rn="01" def="true">Before she had this
+                <rp rpn="045"><rhyme rn="01" def="true">My notion was that you had been</rhyme></rp>
+                <parenthesis><rp rpn="046"><rhyme rn="01" def="true">Before she had this
                         fit</rhyme></rp></parenthesis>
-                <rp rpn="044"><rhyme rn="02" def="true">An obstacle that came between
+                <rp rpn="045"><rhyme rn="02" def="true">An obstacle that came between
                     Him,</rhyme></rp>
-                <rp rpn="045"><rhyme rn="02" def="true">and ourselves, and it.</rhyme></rp>
+                <rp rpn="046"><rhyme rn="02" def="true">and ourselves, and it.</rhyme></rp>
             </stanza>
             <stanza>
-                <rp rpn="046"><rhyme rn="01" def="true">Don’t let him know she liked them
+                <rp rpn="047"><rhyme rn="01" def="true">Don’t let him know she liked them
                         best,</rhyme></rp>
-                <rp rpn="047"><rhyme rn="01" def="true">For this must ever be</rhyme></rp>
-                <rp rpn="046"><rhyme rn="02" def="true">A secret, kept from all the
+                <rp rpn="048"><rhyme rn="01" def="true">For this must ever be</rhyme></rp>
+                <rp rpn="047"><rhyme rn="02" def="true">A secret, kept from all the
                     rest,</rhyme></rp>
-                <rp rpn="047"><rhyme rn="02" def="true">Between yourself and me.’</rhyme></rp>
+                <rp rpn="048"><rhyme rn="02" def="true">Between yourself and me.’</rhyme></rp>
             </stanza>
         </song>
         <!--Song reference unknown-->

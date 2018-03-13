@@ -10,7 +10,7 @@ break = element break { text }
 p =
     element p {
         mixed {
-            (parenthesis | word | phrase | rp | onomatopoeia | song | emp | foreign | cultural)*
+            (parenthesis | word | phrase | rp | onomatopoeia | song | emp | foreign | cultural | repetition)*
         }
     }
 parenthesis =
@@ -22,16 +22,16 @@ kind = attribute kind { "iu" | "ns" | "uc" | "pow" }
 phrase = element phrase { mixed { ( type, ( emp | word )* ) } }
 type = attribute type { "iu" | "ns" | "uc" | "pow" }
 rp =
-    element rp {
-        rpn,
+    element rp { rpn, stat*, 
         mixed { rhyme+ }
     }
 rpn = attribute rpn { xsd:int }
+stat = attribute stat {"incomplete"}
 rhyme =
     element rhyme {
         mixed { rn, def, emp* }
     }
-def = attribute def { "true" | "trans" }
+def = attribute def { "true" | "trans" | "incomp" }
 rn = attribute rn { xsd:int }
 onomatopoeia = element onomatopoeia { text }
 song =
@@ -53,6 +53,8 @@ cultural =
     element cultural {
         mixed { (word | phrase | rp | song | onomatopoeia | emp)* }
     }
+repetition = element repetition {rep, text}
+rep= attribute rep {text}
 
 
 # Definition of terms:
