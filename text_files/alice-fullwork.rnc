@@ -15,7 +15,7 @@ p =
     }
 parenthesis =
     element parenthesis {
-        mixed { (word | phrase | emp | cultural | rp )* }
+        mixed { (word | phrase | emp | onomatopoeia | cultural | rp )* }
     }
 word = element word { mixed { ( kind, emp* ) } }
 kind = attribute kind { "iu" | "ns" | "uc" | "pow" }

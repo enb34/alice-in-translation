@@ -2,8 +2,8 @@
 <book>
     <bookTitle>ALICE’S ADVENTURES IN WONDERLAND</bookTitle>
     <author>Lewis Carroll</author>
-    <chapter n="I">
-        <title>CHAPTER I. Down the Rabbit-Hole</title>
+    <chapter n="1">
+        <title>Down the Rabbit-Hole</title>
         <p>Alice was beginning to get very tired of sitting by her sister on the bank, and of having
             nothing to do: once or twice she had peeped into the book her sister was reading, but it
             had no pictures or conversations in it, ‘and what is the use of a book,’ thought Alice
@@ -40,16 +40,17 @@
             tumbling down stairs! How brave they’ll all think me at home! Why, I wouldn’t say
             anything about it, even if I fell off the top of the house!’ <parenthesis>Which was very
                 likely true.</parenthesis></p>
-        <p>Down, down, down. Would the fall <emp>NEVER</emp> come to an end! ‘I wonder how many
-            miles I’ve fallen by this time?’ she said aloud. ‘I must be getting somewhere near the
-            centre of the earth. Let me see: that would be four thousand miles down, I think--’
-                <parenthesis>for, you see, Alice had learnt several things of this sort in her
-                lessons in the schoolroom, and though this was not a <emp>VERY</emp> good
-                opportunity for showing off her knowledge, as there was no one to listen to her,
-                still it was good practice to say it over</parenthesis> ‘--yes, that’s about the
-            right distance--but then I wonder what Latitude or Longitude I’ve got to?’
-                <parenthesis>Alice had no idea what Latitude was, or Longitude either, but thought
-                they were nice grand words to say.</parenthesis></p>
+        <p><repetition rep="down">Down, down, down.</repetition> Would the fall <emp>NEVER</emp>
+            come to an end! ‘I wonder how many miles I’ve fallen by this time?’ she said aloud. ‘I
+            must be getting somewhere near the centre of the earth. Let me see: that would be
+                <cultural>four thousand miles</cultural> down, I think--’ <parenthesis>for, you see,
+                Alice had learnt several things of this sort in her lessons in the schoolroom, and
+                though this was not a <emp>VERY</emp> good opportunity for showing off her
+                knowledge, as there was no one to listen to her, still it was good practice to say
+                it over</parenthesis> ‘--yes, that’s about the right distance--but then I wonder
+            what Latitude or Longitude I’ve got to?’ <parenthesis>Alice had no idea what Latitude
+                was, or Longitude either, but thought they were nice grand words to
+                say.</parenthesis></p>
         <p>Presently she began again. ‘I wonder if I shall fall right <emp>THROUGH</emp> the earth!
             How funny it’ll seem to come out among the people that walk with their heads downward!
             The <word kind="iu">Antipathies</word>, I think--’ <parenthesis>she was rather glad
@@ -165,7 +166,7 @@
         <break> * * * * * * * * * * * * * * * * * * * *</break>
     </chapter>
     <chapter n="II">
-        <title>CHAPTER II. The Pool of Tears</title>
+        <title>The Pool of Tears</title>
         <p>‘<word kind="ns">Curiouser</word> and <word kind="ns">curiouser</word>!’ cried Alice
                 <parenthesis>she was so much surprised, that for the moment she quite forgot how to
                 speak good English</parenthesis>; ‘now <phrase type="uc">I’m opening out like the
@@ -327,7 +328,7 @@
         <!--Within this chapter, there is a formatting mistake that was created by pretty print. It is 
             still uncertain what this mistake was but it is not present in the Japanese version (pretty 
             print does very little to change the structure of the text).-->
-        <title>CHAPTER III. A Caucus-Race and a Long Tale</title>
+        <title>A Caucus-Race and a Long Tale</title>
         <p>They were indeed a queer-looking party that assembled on the bank--the birds with
             draggled feathers, the animals with their fur clinging close to them, and all dripping
             wet, cross, and uncomfortable.</p>
@@ -478,7 +479,7 @@
             hoping that the Mouse had changed his mind, and was coming back to finish his story.</p>
     </chapter>
     <chapter n="IV">
-        <title>CHAPTER IV. The Rabbit Sends in a Little Bill</title>
+        <title>The Rabbit Sends in a Little Bill</title>
         <p>It was the White Rabbit, trotting slowly back again, and looking anxiously about as it
             went, as if it had lost something; and she heard it muttering to itself ‘The Duchess!
             The Duchess! Oh my dear paws! Oh my fur and whiskers! She’ll get me executed, <phrase
@@ -665,7 +666,7 @@
             of anything else.</p>
     </chapter>
     <chapter n="V">
-        <title>CHAPTER V. Advice from a Caterpillar</title>
+        <title>Advice from a Caterpillar</title>
         <p>The Caterpillar and Alice looked at each other for some time in silence: at last the
             Caterpillar took the hookah out of its mouth, and addressed her in a languid, sleepy
             voice.</p>
@@ -905,7 +906,7 @@
             house till she had brought herself down to nine inches high.</p>
     </chapter>
     <chapter n="VI">
-        <title>CHAPTER VI. Pig and Pepper</title>
+        <title>Pig and Pepper</title>
         <p>For a minute or two she stood looking at the house, and wondering what to do next, when
             suddenly a <cultural>footman</cultural> in <cultural>livery</cultural> came running out
             of the wood--<parenthesis>she considered him to be a <cultural>footman</cultural>
@@ -1130,7 +1131,7 @@
             after all! I almost wish I’d gone to see the Hatter instead!’</p>
     </chapter>
     <chapter n="VII">
-        <title>CHAPTER VII. A Mad Tea-Party</title>
+        <title>A Mad Tea-Party</title>
         <p>There was a table set out under a tree in front of the house, and the March Hare and the
             Hatter were having tea at it: a Dormouse was sitting between them, fast asleep, and the
             other two were using it as a cushion, resting their elbows on it, and talking over its
@@ -1339,7 +1340,7 @@
             the bright flower-beds and the cool fountains.</p>
     </chapter>
     <chapter n="VIII">
-        <title>CHAPTER VIII. The Queen’s Croquet-Ground</title>
+        <title>The Queen’s Croquet-Ground</title>
         <p>A large rose-tree stood near the entrance of the garden: the roses growing on it were
             white, but there were three gardeners at it, busily painting them red. Alice thought
             this a very curious thing, and she went nearer to watch them, and just as she came up to
@@ -1541,7 +1542,7 @@
             game.</p>
     </chapter>
     <chapter n="IX">
-        <title>CHAPTER IX. The Mock Turtle’s Story</title>
+        <title>The Mock Turtle’s Story</title>
         <p>‘You can’t think how glad I am to see you again, you dear old thing!’ said the Duchess,
             as she tucked her arm affectionately into Alice’s, and they walked off together.</p>
         <p>Alice was very glad to find her in such a pleasant temper, and thought to herself that
@@ -1753,7 +1754,7 @@
             something about the games now.’</p>
     </chapter>
     <chapter n="X">
-        <title>CHAPTER X. The Lobster Quadrille</title>
+        <title>The Lobster Quadrille</title>
         <p>The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He
             looked at Alice, and tried to speak, but for a minute or two <phrase type="pow">sobs
                 choked his voice</phrase>. ‘Same as if he had a bone in his throat,’ said the
@@ -1982,9 +1983,8 @@
                     <rhyme rn="02" def="true">Was kindly permitted to pocket the spoon:</rhyme>
                 </rp>
                 <rp rpn="032" stat="incomplete">
-                    <rhyme rn="00" def="incomp">While the Panther
-                        received knife and fork with a growl</rhyme>, And concluded the
-                    banquet--</rp>
+                    <rhyme rn="00" def="incomp">While the Panther received knife and fork with a
+                        growl</rhyme>, And concluded the banquet--</rp>
             </stanza>
         </song>
         <!--Parody of Watts's "'Tis the Voice of the Sluggard", continued-->
@@ -2027,7 +2027,7 @@
         <p> ‘Soo--oop of the e--e--evening, Beautiful, beautiful Soup!’</p>
     </chapter>
     <chapter n="XI">
-        <title>CHAPTER XI. Who Stole the Tarts?</title>
+        <title>Who Stole the Tarts?</title>
         <p>The King and Queen of Hearts were seated on their throne when they arrived, with a great
             crowd assembled about them--all sorts of little birds and beasts, as well as the whole
             pack of cards: the Knave was standing before them, in chains, with a soldier on each
@@ -2203,7 +2203,7 @@
             read out, at the top of his shrill little voice, the name ‘Alice!’</p>
     </chapter>
     <chapter n="XII">
-        <title>CHAPTER XII. Alice’s Evidence</title>
+        <title>Alice’s Evidence</title>
         <p>‘Here!’ cried Alice, quite forgetting in the flurry of the moment how large she had grown
             in the last few minutes, and she jumped up in such a hurry that she tipped over the
             jury-box with the edge of her skirt, upsetting all the jurymen on to the heads of the
