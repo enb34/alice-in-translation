@@ -32,10 +32,10 @@
             tried to look down and make out what she was coming to, but it was too dark to see
             anything; then she looked at the sides of the well, and noticed that they were filled
             with cupboards and book-shelves; here and there she saw maps and pictures hung upon
-            pegs. She took down a jar from one of the shelves as she passed; it was labelled ‘ORANGE
-            MARMALADE’, but to her great disappointment it was empty: she did not like to drop the
-            jar for fear of killing somebody, so managed to put it into one of the cupboards as she
-            fell past it.</p>
+            pegs. She took down a jar from one of the shelves as she passed; it was labelled
+                <emp>ORANGE MARMALADE</emp>, but to her great disappointment it was empty: she did
+            not like to drop the jar for fear of killing somebody, so managed to put it into one of
+            the cupboards as she fell past it.</p>
         <p>‘Well!’ thought Alice to herself, ‘after such a fall as this, I shall think nothing of
             tumbling down stairs! How brave they’ll all think me at home! Why, I wouldn’t say
             anything about it, even if I fell off the top of the house!’ <parenthesis>Which was very
@@ -61,14 +61,15 @@
                 through the air! Do you think you could manage it?</parenthesis> ‘And what an
             ignorant little girl she’ll think me for asking! No, it’ll never do to ask: perhaps I
             shall see it written up somewhere.’</p>
-        <p>Down, down, down. There was nothing else to do, so Alice soon began talking again.
-            ‘Dinah’ll miss me very much to-night, I should think!’ <parenthesis>Dinah was the
-                cat.</parenthesis> ‘I hope they’ll remember her saucer of milk at tea-time. Dinah my
-            dear! I wish you were down here with me! There are no mice in the air, I’m afraid, but
-            you might catch a bat, and that’s very like a mouse, you know. <rp rpn="001">But <rhyme
-                    rn="01" def="true">do cats eat bats</rhyme>, I wonder?’ And here Alice began to
-                get rather sleepy, and went on saying to herself, in a dreamy sort of way, ‘<rhyme
-                    rn="01" def="true">Do cats eat bats?</rhyme>
+        <!--Antipathies=-->
+        <p><repetition rep="down">Down, down, down.</repetition> There was nothing else to do, so
+            Alice soon began talking again. ‘Dinah’ll miss me very much to-night, I should think!’
+                <parenthesis>Dinah was the cat.</parenthesis> ‘I hope they’ll remember her saucer of
+            milk at tea-time. Dinah my dear! I wish you were down here with me! There are no mice in
+            the air, I’m afraid, but you might catch a bat, and that’s very like a mouse, you know.
+                <rp rpn="001">But <rhyme rn="01" def="true">do cats eat bats</rhyme>, I wonder?’ And
+                here Alice began to get rather sleepy, and went on saying to herself, in a dreamy
+                sort of way, ‘<rhyme rn="01" def="true">Do cats eat bats?</rhyme>
                 <rhyme rn="01" def="true">Do cats eat bats?</rhyme>’ and sometimes, ‘<rhyme rn="02"
                     def="true">Do bats eat cats?</rhyme>’ for, you see, as she couldn’t answer
                 either question,</rp> it didn’t much matter which way she put it. She felt that she

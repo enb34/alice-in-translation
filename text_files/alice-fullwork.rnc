@@ -10,13 +10,14 @@ break = element break { text }
 p =
     element p {
         mixed {
-            (parenthesis | word | phrase | rp | onomatopoeia | song | emp | foreign | cultural | repetition)*
+            (parenthesis | furigana | word | phrase | rp | onomatopoeia | song | emp | foreign | cultural | repetition)*
         }
     }
 parenthesis =
     element parenthesis {
-        mixed { (word | phrase | emp | onomatopoeia | cultural | rp )* }
+        mixed { (word | phrase | furigana | emp | onomatopoeia | cultural | rp )* }
     }
+furigana = element fg {text}
 word = element word { mixed { ( kind, emp* ) } }
 kind = attribute kind { "iu" | "ns" | "uc" | "pow" }
 phrase = element phrase { mixed { ( type, ( emp | word )* ) } }
