@@ -2,7 +2,7 @@
 <book>
     <bookTitle>ALICE’S ADVENTURES IN WONDERLAND</bookTitle>
     <author>Lewis Carroll</author>
-    <chapter n="1">
+    <chapter n="01">
         <title>Down the Rabbit-Hole</title>
         <p>Alice was beginning to get very tired of sitting by her sister on the bank, and of having
             nothing to do: once or twice she had peeped into the book her sister was reading, but it
@@ -166,7 +166,7 @@
         <p>So she set to work, and very soon finished off the cake.</p>
         <break> * * * * * * * * * * * * * * * * * * * *</break>
     </chapter>
-    <chapter n="II">
+    <chapter n="02">
         <title>The Pool of Tears</title>
         <p>‘<word kind="ns">Curiouser</word> and <word kind="ns">curiouser</word>!’ cried Alice
                 <parenthesis>she was so much surprised, that for the moment she quite forgot how to
@@ -342,7 +342,7 @@
                 <cultural>Eaglet</cultural>, and several other curious creatures. Alice led the way,
             and the whole party swam to the shore.</p>
     </chapter>
-    <chapter n="III">
+    <chapter n="03">
         <!--Within this chapter, there is a formatting mistake that was created by pretty print. It is 
             still uncertain what this mistake was but it is not present in the Japanese version (pretty 
             print does very little to change the structure of the text).-->
@@ -387,9 +387,9 @@
             all.’</p>
         <p>‘In that case,’ said the Dodo solemnly, rising to its feet, ‘I move that the meeting
             adjourn, for the immediate adoption of more energetic remedies--’</p>
-        <p>‘Speak <cultural>English</cultural>!’ said the Eaglet. ‘I don’t know the meaning of half those long words,
-            and, what’s more, I don’t believe you do either!’ And the Eaglet bent down its head to
-            hide a smile: some of the other birds tittered audibly.</p>
+        <p>‘Speak <cultural>English</cultural>!’ said the Eaglet. ‘I don’t know the meaning of half
+            those long words, and, what’s more, I don’t believe you do either!’ And the Eaglet bent
+            down its head to hide a smile: some of the other birds tittered audibly.</p>
         <p>‘What I was going to say,’ said the Dodo in an offended tone, ‘was, that the best thing
             to get us dry would be a <word kind="pow">Caucus-race</word>.’</p>
         <p>‘What <emp>IS</emp> a <word kind="pow">Caucus-race</word>?’ said Alice; not that she
@@ -407,9 +407,9 @@
             asking, ‘But who has won?’</p>
         <p>This question the Dodo could not answer without a great deal of thought, and it sat for a
             long time with one finger pressed upon its forehead <parenthesis>the position in which
-                you usually see Shakespeare, in the pictures of him</parenthesis>, while the rest
-            waited in silence. At last the Dodo said, ‘<emp>EVERYBODY</emp> has won, and all must
-            have prizes.’</p>
+                you usually see<cultural> Shakespeare</cultural>, in the pictures of
+                him</parenthesis>, while the rest waited in silence. At last the Dodo said,
+                ‘<emp>EVERYBODY</emp> has won, and all must have prizes.’</p>
         <p>‘But who is to give the prizes?’ quite a chorus of voices asked.</p>
         <p>‘Why, <emp>SHE</emp>, of course,’ said the Dodo, pointing to Alice with one finger; and
             the whole party at once crowded round her, calling out in a confused way, ‘Prizes!
@@ -418,10 +418,11 @@
             out a box of <cultural>comfits</cultural>, <parenthesis>luckily the salt water had not
                 got into it</parenthesis>, and handed them round as prizes. There was exactly one
             a-piece all round.</p>
+        <!--Comfits are -->
         <p>‘But she must have a prize herself, you know,’ said the Mouse.</p>
         <p>‘Of course,’ the Dodo replied very gravely. ‘What else have you got in your pocket?’ he
             went on, turning to Alice.</p>
-        <p>‘Only a <cultural>thimble</cultural>,’ said Alice sadly.</p>
+        <p>‘Only a thimble,’ said Alice sadly.</p>
         <p>‘Hand it over here,’ said the Dodo.</p>
         <p>Then they all crowded round her once more, while the Dodo solemnly presented the thimble,
             saying ‘We beg your acceptance of this elegant thimble’; and, when it had finished this
@@ -434,37 +435,40 @@
             be patted on the back. However, it was over at last, and they sat down again in a ring,
             and begged the Mouse to tell them something more.</p>
         <p>‘You promised to tell me your history, you know,’ said Alice, ‘and why it is you
-                hate--<phrase type="ns">C and D</phrase>,’ she added in a whisper, half afraid that
+                hate--<phrase type="uc">C and D</phrase>,’ she added in a whisper, half afraid that
             it would be offended again.</p>
-        <!--The "ns" tag for "C and D"-does the group agree?-->
+        <!--The "uc" tag for "C and D"-does the group agree?-->
         <p>‘Mine is a long and a sad tale!’ said the Mouse, turning to Alice, and sighing.</p>
         <p>‘It <emp>IS</emp> a long <word kind="pow">tail</word>, certainly,’ said Alice, looking
-            down with wonder at the Mouse’s tail; ‘but why do you call it sad?’ And she kept on
-            puzzling about it while the Mouse was speaking, so that her idea of the tale was
-            something like this:--</p>
+            down with wonder at the Mouse’s tail; ‘<phrase type="pow">but why do you call it
+                sad?</phrase>’ And she kept on puzzling about it while the Mouse was speaking, so
+            that her idea of the tale was something like this:--</p>
         <p>
-            <song>' <rp rpn="002"><rhyme rn="01" def="true">Fury said to a mouse, That he met in the
-                        house</rhyme></rp>, “<rp rpn="003"><rhyme rn="01" def="true">Let us both go
-                        to law: I will prosecute <emp>YOU</emp></rhyme>
-                </rp>.--<rp rpn="004"><rhyme rn="03" def="true">Come, I’ll take no denial; We must
-                        have a trial</rhyme></rp>: <rp rpn="003"><rhyme rn="01" def="true">For
-                        really this morning I’ve nothing to do</rhyme></rp>.” <rp rpn="005"><rhyme
-                        rn="01" def="true">Said the mouse to the cur, “Such a trial, dear Sir,
-                    </rhyme></rp>
+            <song>' <rp rpn="002"><rhyme rn="01" def="true">Fury said to a mouse</rhyme>, <rhyme
+                        rn="02" def="true">That he met in the house</rhyme></rp>, “<rp rpn="003"
+                        ><rhyme rn="01" def="true">Let us both go to law: I will prosecute
+                            <emp>YOU</emp></rhyme>
+                </rp>.--<rp rpn="004"><rhyme rn="03" def="true">Come, I’ll take no denial</rhyme>;
+                        <rhyme rn="02" def="true">.We must have a trial</rhyme></rp>: <rp rpn="003"
+                        ><rhyme rn="01" def="true">For really this morning I’ve nothing to
+                        do</rhyme></rp>.” <rp rpn="005"><rhyme rn="01" def="true">Said the mouse to
+                        the cur, “Such a trial, dear Sir, </rhyme></rp>
                 <rp rpn="006"><rhyme rn="01" def="true">With no jury or judge, would be wasting our
                         breath.</rhyme></rp>” “<rp rpn="007"><rhyme rn="01" def="true">I’ll be
                         judge, I’ll be jury,” Said cunning old Fury</rhyme></rp>: “<rp rpn="006"
                         ><rhyme rn="01" def="true">I’ll try the whole cause, and condemn you to
                         death.</rhyme></rp>”' </song>
         </p>
-        <!--spacing above for ease of reading, not due to formatting of the original text-->
+        <!--fix spacing above-->
         <p>‘You are not <word kind="uc">attending</word>!’ said the Mouse to Alice severely. ‘What
             are you thinking of?’</p>
         <p>‘I beg your pardon,’ said Alice very humbly: ‘you had got to the fifth bend, I
             think?’</p>
-        <p>‘I had <emp>NOT</emp>!’ cried the Mouse, sharply and very angrily.</p>
+        <p>‘I had <word kind="pow"><emp>NOT</emp></word>!’ cried the Mouse, sharply and very
+            angrily.</p>
         <p>‘A <word kind="pow">knot</word>!’ said Alice, always ready to make herself useful, and
-            looking anxiously about her. ‘Oh, do let me help to undo it!’</p>
+            looking anxiously about her. ‘Oh, <phrase type="pow">do let me help to undo
+            it</phrase>!’</p>
         <p>‘I shall do nothing of the sort,’ said the Mouse, getting up and walking away. ‘You
             insult me by talking such nonsense!’</p>
         <p>‘I didn’t mean it!’ pleaded poor Alice. ‘But you’re so easily offended, you know!’</p>
@@ -492,14 +496,15 @@
             seems to like her, down here, and I’m sure she’s the best cat in the world! Oh, my dear
             Dinah! I wonder if I shall ever see you any more!’ And here poor Alice began to cry
             again, for she felt very lonely and low-spirited. In a little while, however, she again
-            heard a little pattering of footsteps in the distance, and she looked up eagerly, half
-            hoping that the Mouse had changed his mind, and was coming back to finish his story.</p>
+            heard a little <onomatopoeia>pattering</onomatopoeia> of footsteps in the distance, and
+            she looked up eagerly, half hoping that the Mouse had changed his mind, and was coming
+            back to finish his story.</p>
     </chapter>
-    <chapter n="IV">
+    <chapter n="04">
         <title>The Rabbit Sends in a Little Bill</title>
         <p>It was the White Rabbit, trotting slowly back again, and looking anxiously about as it
             went, as if it had lost something; and she heard it muttering to itself ‘The Duchess!
-            The Duchess! Oh my dear paws! Oh my fur and whiskers! She’ll get me executed, <phrase
+            The <cultural>Duchess</cultural>! Oh my dear paws! Oh my fur and whiskers! She’ll get me executed, <phrase
                 type="uc">as sure as ferrets are ferrets</phrase>! Where <emp>CAN</emp> I have
             dropped them, I wonder?’ Alice guessed in a moment that it was looking for the fan and
             the pair of white kid gloves, and she very good-naturedly began hunting about for them,
@@ -511,10 +516,10 @@
             moment, and fetch me a pair of gloves and a fan! Quick, now!’ And Alice was so much
             frightened that she ran off at once in the direction it pointed to, without trying to
             explain the mistake it had made.</p>
-        <p>‘He took me for his housemaid,’ she said to herself as she ran. ‘How surprised he’ll be
+        <p>‘He took me for his <cultural>housemaid</cultural>,’ she said to herself as she ran. ‘How surprised he’ll be
             when he finds out who I am! But I’d better take him his fan and gloves--that is, if I
             can find them.’ As she said this, she came upon a neat little house, on the door of
-            which was a bright brass plate with the name ‘W. RABBIT’ engraved upon it. She went in
+            which was a bright brass plate with the name <emp>‘W. RABBIT’</emp> engraved upon it. She went in
             without knocking, and hurried upstairs, in great fear lest she should meet the real Mary
             Ann, and be turned out of the house before she had found the fan and gloves.</p>
         <p>‘How queer it seems,’ Alice said to herself, ‘to be <phrase type="uc">going
@@ -682,7 +687,7 @@
             arms folded, quietly smoking a long hookah, and taking not the smallest notice of her or
             of anything else.</p>
     </chapter>
-    <chapter n="V">
+    <chapter n="05">
         <title>Advice from a Caterpillar</title>
         <p>The Caterpillar and Alice looked at each other for some time in silence: at last the
             Caterpillar took the hookah out of its mouth, and addressed her in a languid, sleepy
@@ -922,7 +927,7 @@
             So she began nibbling at the righthand bit again, and did not venture to go near the
             house till she had brought herself down to nine inches high.</p>
     </chapter>
-    <chapter n="VI">
+    <chapter n="06">
         <title>Pig and Pepper</title>
         <p>For a minute or two she stood looking at the house, and wondering what to do next, when
             suddenly a <cultural>footman</cultural> in <cultural>livery</cultural> came running out
@@ -1145,7 +1150,7 @@
             walked up towards it rather timidly, saying to herself ‘Suppose it should be raving mad
             after all! I almost wish I’d gone to see the Hatter instead!’</p>
     </chapter>
-    <chapter n="VII">
+    <chapter n="07">
         <title>A Mad Tea-Party</title>
         <p>There was a table set out under a tree in front of the house, and the March Hare and the
             Hatter were having tea at it: a Dormouse was sitting between them, fast asleep, and the
@@ -1354,7 +1359,7 @@
             passage: and <emp>THEN</emp>--she found herself at last in the beautiful garden, among
             the bright flower-beds and the cool fountains.</p>
     </chapter>
-    <chapter n="VIII">
+    <chapter n="08">
         <title>The Queen’s Croquet-Ground</title>
         <p>A large rose-tree stood near the entrance of the garden: the roses growing on it were
             white, but there were three gardeners at it, busily painting them red. Alice thought
@@ -1556,7 +1561,7 @@
             wildly up and down looking for it, while the rest of the party went back to the
             game.</p>
     </chapter>
-    <chapter n="IX">
+    <chapter n="09">
         <title>The Mock Turtle’s Story</title>
         <p>‘You can’t think how glad I am to see you again, you dear old thing!’ said the Duchess,
             as she tucked her arm affectionately into Alice’s, and they walked off together.</p>
@@ -1768,7 +1773,7 @@
         <p>‘That’s enough about lessons,’ the Gryphon interrupted in a very decided tone: ‘tell her
             something about the games now.’</p>
     </chapter>
-    <chapter n="X">
+    <chapter n="10">
         <title>The Lobster Quadrille</title>
         <p>The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He
             looked at Alice, and tried to speak, but for a minute or two <phrase type="pow">sobs
@@ -2041,7 +2046,7 @@
             them, the melancholy words:--</p>
         <p> ‘Soo--oop of the e--e--evening, Beautiful, beautiful Soup!’</p>
     </chapter>
-    <chapter n="XI">
+    <chapter n="11">
         <title>Who Stole the Tarts?</title>
         <p>The King and Queen of Hearts were seated on their throne when they arrived, with a great
             crowd assembled about them--all sorts of little birds and beasts, as well as the whole
@@ -2217,7 +2222,7 @@
                 <emp>YET</emp>,’ she said to herself. Imagine her surprise, when the White Rabbit
             read out, at the top of his shrill little voice, the name ‘Alice!’</p>
     </chapter>
-    <chapter n="XII">
+    <chapter n="12">
         <title>Alice’s Evidence</title>
         <p>‘Here!’ cried Alice, quite forgetting in the flurry of the moment how large she had grown
             in the last few minutes, and she jumped up in such a hurry that she tipped over the
