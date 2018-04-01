@@ -4,12 +4,13 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color:rgba(77,77,77,0.75);
+    text-align:center;
 }
 li {
-    float:left;
+    display:inline;
 }
 li a {
-    display: block;
+    display: inline-block;
     font-family: 'Montserrat', sans-serif;
     color: white;
     text-align: center;
@@ -48,9 +49,15 @@ h2 {
     font-family: 'Arima Madurai', cursive;
     color:#4d4d4d;
     text-align:center;
+    width:500px;
+    background-color:rgba(217,232,250,0.5);
+    box-shadow: 7px 7px 5px #637282;
     padding:15px;
     padding-top:5px;
     padding-bottom:5px;
+    margin: 30px auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 #description {
     font-family: 'Montserrat', sans-serif;
@@ -58,7 +65,7 @@ h2 {
     background-color:rgba(217,232,250,0.75);
     box-shadow: 7px 7px 5px #637282;
     opacity:.75;
-    width:900px;
+    width:80%;
     padding:15px;
     margin: 30px auto;
     margin-left: auto;
@@ -68,7 +75,7 @@ h2 {
   display:flex;
   flex-direction:row;
   flex-wrap:nowrap;
-  justify-content: center;
+  justify-content:center;
   align-items: baseline;
 }
 #english {
@@ -77,10 +84,9 @@ h2 {
     background-color:rgba(217,232,250,0.75);
     box-shadow: 7px 7px 5px #637282;
     opacity:.75;
-    width:450px;
+    width:40%;
     padding:15px;
     margin: 30px auto;
-    margin-left:60px;
 }
 #japanese {
     font-family: 'Montserrat', sans-serif;
@@ -88,8 +94,23 @@ h2 {
     background-color:rgba(217,232,250,0.75);
     box-shadow: 7px 7px 5px #637282;
     opacity:.75;
-    width:450px;
-    padding:15px;
+    width:40%;
+    padding:15px; 
     margin: 30px auto;
-    margin-right:60px;
+}
+#links {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    background-color:rgba(217,232,250,0.75);
+    box-shadow: 7px 7px 5px #637282;
+    opacity:.75;
+    width:80%;
+    padding:15px;
+    margin: 30px auto; 
+}
+h3 {
+    font-family: 'Arima Madurai', cursive;
+    color:#4d4d4d;
+    opacity:1;
+    text-align:center;
 }
