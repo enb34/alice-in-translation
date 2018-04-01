@@ -10,24 +10,45 @@ break = element break { text }
 p =
     element p {
         mixed {
-            (parenthesis | furigana | word | phrase | rp | onomatopoeia | song | emp | dash | foreign | cultural | repetition)*
+            (parenthesis
+             | furigana
+             | word
+             | phrase
+             | rp
+             | onomatopoeia
+             | song
+             | emp
+             | dash
+             | foreign
+             | cultural
+             | repetition)*
         }
     }
 parenthesis =
     element parenthesis {
-        mixed { (word | phrase | furigana | emp | dash | onomatopoeia | cultural | rp )* }
+        mixed { (word | phrase | furigana | emp | dash | onomatopoeia | cultural | rp)* }
     }
-furigana = element fg {text}
-word = element word { mixed { ( kind, emp* , dash*) } }
-kind = attribute kind { "iu" | "ns" | "uc" | "pow" }
-phrase = element phrase { mixed { ( type, ( emp | word | furigana | dash )* ) } }
-type = attribute type { "iu" | "ns" | "uc" | "pow" }
+furigana = element fg { kanji, hiragana }
+kanji = element k { text }
+hiragana = element h { text }
+word =
+    element word {
+        mixed { kind, emp*, dash* }
+    }
+kind = attribute kind { "iu" | "ns" | "uc" | "pow" | "match" }
+phrase =
+    element phrase {
+        mixed { type, (emp | word | furigana | dash | onomatopoeia)* }
+    }
+type = attribute type { "iu" | "ns" | "uc" | "pow" | "match" }
 rp =
-    element rp { rpn, stat*, 
+    element rp {
+        rpn,
+        stat*,
         mixed { (rhyme | onomatopoeia | l)* }
     }
 rpn = attribute rpn { xsd:int }
-stat = attribute stat {"incomplete"}
+stat = attribute stat { "incomplete" }
 rhyme =
     element rhyme {
         mixed { rn, def, emp* }
@@ -45,21 +66,25 @@ stanza =
     }
 l =
     element l {
-        mixed { (rp | rhyme | word | phrase | onomatopoeia | emp | dash | parenthesis)* }
+        mixed { (rp | rhyme | word | phrase | onomatopoeia | emp | dash | parenthesis | furigana)* }
     }
 emp = element emp { text }
-dash= element dash {mixed {(emp | furigana | word | phrase | onomatopoeia)*}}
-foreign = element foreign { mixed { language, furigana* } }
+dash =
+    element dash {
+        mixed { (emp | furigana | word | phrase | onomatopoeia)* }
+    }
+foreign =
+    element foreign {
+        mixed { language, furigana* }
+    }
 language = attribute language { text }
 cultural =
     element cultural {
         mixed { (word | phrase | rp | song | onomatopoeia | emp | furigana)* }
     }
-repetition = element repetition {rep, text}
-rep= attribute rep {text}
-
-
+repetition = element repetition { rep, text }
+rep = attribute rep { text }
 # Definition of terms:
-# word/phrase kind/type: "iu"="incorrect usage" "ns"="nonsense words" "uc"="uncommon/unconventional usage" "pow"="play on words"
+# word/phrase kind/type: "iu"="incorrect usage" "ns"="nonsense words" "uc"="uncommon/unconventional usage" "pow"="play on words" "match"="translation follows meaning of word/phrase but not other properties word/phrase tag"
 # rhyme def: "true"="true rhyme, the content rhymes" "trans"="translation of the rhyme, if the translation does not rhyme itself"
-# <dash> element is for the Japanese text with apostrophes appearing over the text--stil uncertain if this serves as emphasis or for some other purpose
+# <dash> element is for the Japanese text with apostrophes appearing over the text--stil uncertain if this serves as emphasis or is for some other purpose
