@@ -31,10 +31,7 @@ parenthesis =
 furigana = element fg { kanji, hiragana }
 kanji = element k { text }
 hiragana = element h { text }
-word =
-    element word {
-        mixed { kind, emp*, dash* }
-    }
+word = element word { kind, text }
 kind = attribute kind { "iu" | "ns" | "uc" | "pow" | "match" }
 phrase =
     element phrase {
@@ -55,7 +52,10 @@ rhyme =
     }
 def = attribute def { "true" | "trans" | "incomp" }
 rn = attribute rn { xsd:int }
-onomatopoeia = element onomatopoeia { text }
+onomatopoeia =
+    element onomatopoeia {
+        mixed { word* }
+    }
 song =
     element song {
         mixed { (rp | word | phrase | stanza | onomatopoeia | emp | dash | l)* }
@@ -66,9 +66,23 @@ stanza =
     }
 l =
     element l {
-        mixed { (rp | rhyme | word | phrase | onomatopoeia | emp | dash | parenthesis | furigana)* }
+        mixed {
+            (rp
+             | rhyme
+             | word
+             | phrase
+             | onomatopoeia
+             | emp
+             | dash
+             | parenthesis
+             | furigana
+             | repetition)*
+        }
     }
-emp = element emp { text }
+emp =
+    element emp {
+        mixed { word* }
+    }
 dash =
     element dash {
         mixed { (emp | furigana | word | phrase | onomatopoeia)* }
@@ -82,7 +96,10 @@ cultural =
     element cultural {
         mixed { (word | phrase | rp | song | onomatopoeia | emp | furigana)* }
     }
-repetition = element repetition { rep, text }
+repetition =
+    element repetition {
+        mixed { rep, onomatopoeia* }
+    }
 rep = attribute rep { text }
 # Definition of terms:
 # word/phrase kind/type: "iu"="incorrect usage" "ns"="nonsense words" "uc"="uncommon/unconventional usage" "pow"="play on words" "match"="translation follows meaning of word/phrase but not other properties word/phrase tag"
