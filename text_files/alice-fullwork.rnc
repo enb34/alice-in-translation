@@ -3,9 +3,9 @@ book = element book { bookTitle, author, translator*, chapter+ }
 bookTitle = element bookTitle { text }
 author = element author { text }
 translator = element translator { text }
-chapter = element chapter { n, chapterTitle, (p | break | song)+ }
+chapter = element chapter { n, title, (p | break | song)+ }
 n = attribute n { text }
-chapterTitle = element title { text }
+title = element title { text }
 break = element break { text }
 p =
     element p {
@@ -81,7 +81,7 @@ l =
     }
 emp =
     element emp {
-        mixed { word* }
+        mixed { word* | cultural* }
     }
 dash =
     element dash {

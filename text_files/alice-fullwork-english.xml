@@ -67,11 +67,15 @@
                 <parenthesis>Dinah was the cat.</parenthesis> ‘I hope they’ll remember her saucer of
             milk at tea-time. Dinah my dear! I wish you were down here with me! There are no mice in
             the air, I’m afraid, but you might catch a bat, and that’s very like a mouse, you know.
-                <rp rpn="001">But <rhyme rn="01" def="true">do cats eat bats</rhyme>, I wonder?’ And
-                here Alice began to get rather sleepy, and went on saying to herself, in a dreamy
-                sort of way, ‘<rhyme rn="01" def="true">Do cats eat bats?</rhyme>
-                <rhyme rn="01" def="true">Do cats eat bats?</rhyme>’ and sometimes, ‘<rhyme rn="02"
-                    def="true">Do bats eat cats?</rhyme>’ for, you see, as she couldn’t answer
+                <rp rpn="001">But <rhyme rn="01" def="true">do cats</rhyme>
+                <rhyme rn="02" def="true">eat bats</rhyme>, I wonder?’ And here Alice began to get
+                rather sleepy, and went on saying to herself, in a dreamy sort of way, ‘<rhyme
+                    rn="01" def="true">Do cats</rhyme>
+                <rhyme rn="02" def="true">eat bats?</rhyme>
+                <rhyme rn="01" def="true">Do cats</rhyme>
+                <rhyme rn="02" def="true">eat bats?</rhyme>’ and sometimes, ‘<rhyme rn="02"
+                    def="true">Do bats</rhyme>
+                <rhyme rn="01" def="true">eat cats?</rhyme>’ for, you see, as she couldn’t answer
                 either question, it didn’t much matter which way she put it.</rp> She felt that she
             was dozing off, and had just begun to dream that she was walking hand in hand with
             Dinah, and saying to her very earnestly, ‘Now, Dinah, tell me the truth: did you ever
@@ -232,17 +236,22 @@
             <stanza>
                 <rp rpn="002">
                     <l><rhyme rn="01" def="true">‘How doth the little crocodile</rhyme></l>
-                    <l><rhyme rn="02" def="true"><emp>Improve</emp> his shining tail,</rhyme></l>
-                    <l><rhyme rn="01" def="true">And pour the waters of the Nile</rhyme></l>
-                    <l><rhyme rn="02" def="true">On every golden scale!</rhyme></l>
-                </rp>
+                <l><rhyme rn="02" def="true"><emp>Improve</emp> his shining
+                            tail,</rhyme></l>
+                <l><rhyme rn="01" def="true">And pour the waters of the
+                        Nile</rhyme></l>
+                <l><rhyme rn="02" def="true">On every golden scale!</rhyme></l>
+            </rp>
             </stanza>
             <stanza>
                 <rp rpn="003">
                     <l><rhyme rn="01" def="true">‘How cheerfully he seems to grin,</rhyme></l>
-                    <l><rhyme rn="02" def="true">How neatly spread his claws,</rhyme></l>
-                    <l><rhyme rn="01" def="true">And welcome little fishes in</rhyme></l>
-                    <l><rhyme rn="02" def="true"><emp>With</emp> gently smiling jaws!’</rhyme></l>
+                <l><rhyme rn="02" def="true">How neatly spread his
+                    claws,</rhyme></l>
+                <l><rhyme rn="01" def="true">And welcome little fishes
+                    in</rhyme></l>
+                <l><rhyme rn="02" def="true"><emp>With</emp> gently smiling
+                            jaws!’</rhyme></l>
                 </rp>
             </stanza>
         </song>
@@ -444,20 +453,35 @@
                 sad?</phrase>’ And she kept on puzzling about it while the Mouse was speaking, so
             that her idea of the tale was something like this:--</p>
         <p>
-            <song>' <rp rpn="002"><rhyme rn="01" def="true">Fury said to a mouse</rhyme>, <rhyme
-                        rn="02" def="true">That he met in the house</rhyme></rp>, “<rp rpn="003"
-                        ><rhyme rn="01" def="true">Let us both go to law: I will prosecute
-                            <emp>YOU</emp></rhyme>
-                </rp>.--<rp rpn="004"><rhyme rn="03" def="true">Come, I’ll take no denial</rhyme>;
-                        <rhyme rn="02" def="true">.We must have a trial</rhyme></rp>: <rp rpn="003"
-                        ><rhyme rn="01" def="true">For really this morning I’ve nothing to
-                        do</rhyme></rp>.” <rp rpn="005"><rhyme rn="01" def="true">Said the mouse to
-                        the cur, “Such a trial, dear Sir, </rhyme></rp>
-                <rp rpn="006"><rhyme rn="01" def="true">With no jury or judge, would be wasting our
-                        breath.</rhyme></rp>” “<rp rpn="007"><rhyme rn="01" def="true">I’ll be
-                        judge, I’ll be jury,” Said cunning old Fury</rhyme></rp>: “<rp rpn="006"
+            <song>
+                <rp rpn="004">
+                    <l>' <rhyme rn="01" def="true">Fury said to a mouse</rhyme>,<rhyme rn="02"
+                            def="true">That he met in the house</rhyme>,</l>
+            </rp>
+                <rp rpn="005"><l>“<rhyme rn="01" def="true">Let us both go to law: I will prosecute
+                                <emp>YOU</emp></rhyme> .--</l>
+                </rp>
+                <rp rpn="006">
+                    <l><rhyme rn="01"
+                        def="true">Come, I’ll take no denial</rhyme>; <rhyme rn="02" def="true">.We
+                        must have a trial</rhyme>:</l>
+                </rp>
+                <rp rpn="005">
+                    <l><rhyme rn="01" def="true">For
+                        really this morning I’ve nothing to do</rhyme>.”</l>
+                </rp> 
+                <rp rpn="007">
+                    <l><rhyme
+                        rn="01" def="true">Said the mouse to the cur,</rhyme> <rhyme rn="02" def="true">“Such a trial, dear Sir,
+                    </rhyme></l></rp>
+                <rp rpn="008">
+                    <l><rhyme rn="01" def="true">With no jury or judge, would be wasting our
+                        breath.</rhyme>”</l></rp> 
+                <rp rpn="009"><l>“<rhyme rn="01" def="true">I’ll be
+                    judge, I’ll be jury,”</rhyme> <rhyme rn="02" def="true">Said cunning old Fury</rhyme></l></rp>: 
+                <l>“<rp rpn="008"
                         ><rhyme rn="01" def="true">I’ll try the whole cause, and condemn you to
-                        death.</rhyme></rp>”' </song>
+                        death.</rhyme></rp>”'</l> </song>
         </p>
         <!--fix spacing above-->
         <p>‘You are not <word kind="uc">attending</word>!’ said the Mouse to Alice severely. ‘What
@@ -1553,10 +1577,9 @@
             not like the look of things at all, as the game was in such confusion that she never
             knew whether it was her turn or not. So she went in search of her hedgehog.</p>
         <p>The hedgehog was engaged in a fight with another hedgehog, which seemed to Alice an
-            excellent opportunity for croqueting one of them with the other:
-            the only difficulty was, that her flamingo was gone across to the other side of the
-            garden, where Alice could see it trying in a helpless sort of way to fly up into a
-            tree.</p>
+            excellent opportunity for croqueting one of them with the other: the only difficulty
+            was, that her flamingo was gone across to the other side of the garden, where Alice
+            could see it trying in a helpless sort of way to fly up into a tree.</p>
         <p>By the time she had caught the flamingo and brought it back, the fight was over, and both
             the hedgehogs were out of sight: ‘but it doesn’t matter much,’ thought Alice, ‘as all
             the arches are gone from this side of the ground.’ So she tucked it away under her arm,
@@ -1614,36 +1637,35 @@
             not like to be rude, so she bore it as well as she could.</p>
         <p>‘The game’s going on rather better now,’ she said, by way of keeping up the conversation
             a little.</p>
-        <p>‘’Tis so,’ said the Duchess: ‘and the moral of that is--“Oh, ‘tis love,
-                ‘tis love, that makes the world go round!”’</p>
+        <p>‘’Tis so,’ said the Duchess: ‘and the moral of that is--“Oh, ‘tis love, ‘tis love, that
+            makes the world go round!”’</p>
         <p>‘Somebody said,’ Alice whispered, ‘that it’s done by everybody minding their own
             business!’</p>
         <p>‘Ah, well! It means much the same thing,’ said the Duchess, digging her sharp little chin
-            into Alice’s shoulder as she added, ‘and the moral of <emp>THAT</emp> is--“Take care of the sense, and the sounds will take care of
-                themselves.”’</p>
+            into Alice’s shoulder as she added, ‘and the moral of <emp>THAT</emp> is--“Take care of
+            the sense, and the sounds will take care of themselves.”’</p>
         <p>‘How fond she is of finding morals in things!’ Alice thought to herself.</p>
         <p>‘I dare say you’re wondering why I don’t put my arm round your waist,’ the Duchess said
             after a pause: ‘the reason is, that I’m doubtful about the temper of your flamingo.
             Shall I try the experiment?’</p>
         <p>‘<emp>HE</emp> might bite,’ Alice cautiously replied, not feeling at all anxious to have
             the experiment tried.</p>
-        <p>‘Very true,’ said the Duchess: ‘<phrase type="pow">flamingoes and mustard both bite</phrase>.
-            And the moral of that is--“Birds of a feather flock
-                together.”’</p>
+        <p>‘Very true,’ said the Duchess: ‘<phrase type="pow">flamingoes and mustard both
+                bite</phrase>. And the moral of that is--“Birds of a feather flock together.”’</p>
         <p>‘Only mustard isn’t a bird,’ Alice remarked.</p>
         <p>‘Right, as usual,’ said the Duchess: ‘what a clear way you have of putting things!’</p>
         <p>‘It’s a mineral, I <emp>THINK</emp>,’ said Alice.</p>
         <p>‘Of course it is,’ said the Duchess, who seemed ready to agree to everything that Alice
             said; ‘there’s a large <phrase type="pow">mustard-mine</phrase> near here. And the moral
-            of that is--“The more there is of <word kind="pow">mine</word>, the
-                less there is of yours.”’</p>
+            of that is--“The more there is of <word kind="pow">mine</word>, the less there is of
+            yours.”’</p>
         <!--mustard: food and sulfur mustard-->
         <p>‘Oh, I know!’ exclaimed Alice, who had not attended to this last remark, ‘it’s a
             vegetable. It doesn’t look like one, but it is.’</p>
-        <p>‘I quite agree with you,’ said the Duchess; ‘and the moral of that is--“Be what you would seem to be”--or if you’d like it put more
-                simply--“Never imagine yourself not to be otherwise than what it
-                might appear to others that what you were or might have been was not otherwise than
-                what you had been would have appeared to them to be otherwise.”’</p>
+        <p>‘I quite agree with you,’ said the Duchess; ‘and the moral of that is--“Be what you would
+            seem to be”--or if you’d like it put more simply--“Never imagine yourself not to be
+            otherwise than what it might appear to others that what you were or might have been was
+            not otherwise than what you had been would have appeared to them to be otherwise.”’</p>
         <p>‘I think I should understand that better,’ Alice said very politely, ‘if I had it written
             down: but I can’t quite follow it as you say it.’</p>
         <p>‘That’s nothing to what I could say if I chose,’ the Duchess replied, in a pleased
@@ -1663,12 +1685,11 @@
             frowning like a thunderstorm.</p>
         <p>‘A fine day, your Majesty!’ the Duchess began in a low, weak voice.</p>
         <p>‘Now, I give you fair warning,’ shouted the Queen, stamping on the ground as she spoke;
-            ‘<phrase type="pow">either you or your head must be off</phrase>, and that in about half no
-            time! Take your choice!’</p>
+                ‘<phrase type="pow">either you or your head must be off</phrase>, and that in about
+            half no time! Take your choice!’</p>
         <p>The Duchess took her choice, and was gone in a moment.</p>
         <p>‘Let’s go on with the game,’ the Queen said to Alice; and Alice was too much frightened
-            to say a word, but slowly followed her back to the
-            croquet-ground.</p>
+            to say a word, but slowly followed her back to the croquet-ground.</p>
         <p>The other guests had taken advantage of the Queen’s absence, and were resting in the
             shade: however, the moment they saw her, they hurried back to the game, the Queen merely
             remarking that a moment’s delay would cost them their lives.</p>
@@ -1752,10 +1773,10 @@
         <p>‘I couldn’t afford to learn it.’ said the Mock Turtle with a sigh. ‘I only took the
             regular course.’</p>
         <p>‘What was that?’ inquired Alice.</p>
-        <p>‘<phrase type="pow">Reeling and Writhing,</phrase> of course, to
-            begin with,’ the Mock Turtle replied; ‘and then <phrase type="pow">the different branches of
-                Arithmetic--Ambition, Distraction,
-                <word kind="ns">Uglification</word>, and Derision</phrase>.’</p>
+        <p>‘<phrase type="pow">Reeling and Writhing,</phrase> of course, to begin with,’ the Mock
+            Turtle replied; ‘and then <phrase type="pow">the different branches of
+                Arithmetic--Ambition, Distraction, <word kind="ns">Uglification</word>, and
+                Derision</phrase>.’</p>
         <!--How to tag uglification as both "ns" and "pow"?-->
         <!--reading, writing, addition, subtraction, multiplication, division-->
         <p>‘I never heard of “<word kind="ns">Uglification</word>,”’ Alice ventured to say. ‘What is
@@ -1768,24 +1789,25 @@
         <p>Alice did not feel encouraged to ask any more questions about it, so she turned to the
             Mock Turtle, and said ‘What else had you to learn?’</p>
         <p>‘Well, there was <word kind="pow">Mystery</word>,’ the Mock Turtle replied, counting off
-            the subjects on his flappers, ‘--<phrase type="pow">Mystery, ancient and modern,
-            with Seaography</phrase>: then <word kind="pow">Drawling</word>--the
-                <word kind="pow">Drawling-master</word> was an old conger-eel, that used to come
-            once a week: <emp>HE</emp> taught us <phrase type="pow">Drawling, 
-                Stretching, and Fainting in Coils</phrase>.’</p>
+            the subjects on his flappers, ‘--<phrase type="pow">Mystery, ancient and modern, with
+                Seaography</phrase>: then <word kind="pow">Drawling</word>--the <word kind="pow"
+                >Drawling-master</word> was an old conger-eel, that used to come once a week:
+                <emp>HE</emp> taught us <phrase type="pow">Drawling, Stretching, and Fainting in
+                Coils</phrase>.’</p>
         <p>‘What was <emp>THAT</emp> like?’ said Alice.</p>
         <p>‘Well, I can’t show it you myself,’ the Mock Turtle said: ‘I’m too stiff. And the Gryphon
             never learnt it.’</p>
         <p>‘Hadn’t time,’ said the Gryphon: ‘I went to the Classics master, though. He was an old
             crab, <emp>HE</emp> was.’</p>
         <p>‘I never went to him,’ the Mock Turtle said with a sigh: ‘he taught <phrase type="pow">
-            Laughing and Grief</phrase>, they used to say.’</p>
+                Laughing and Grief</phrase>, they used to say.’</p>
         <!--history, geography, drawing, sketching, painting in oils, latin, greek-->
         <p>‘So he did, so he did,’ said the Gryphon, sighing in his turn; and both creatures hid
             their faces in their paws.</p>
         <p>‘And how many hours a day did you do lessons?’ said Alice, in a hurry to change the
             subject.</p>
-        <p>‘<cultural>Ten hours</cultural> the first day,’ said the Mock Turtle: ‘<cultural>nine</cultural> the next, and so on.’</p>
+        <p>‘<cultural>Ten hours</cultural> the first day,’ said the Mock Turtle:
+                ‘<cultural>nine</cultural> the next, and so on.’</p>
         <p>‘What a curious plan!’ exclaimed Alice.</p>
         <p>‘That’s the reason they’re called lessons,’ the Gryphon remarked: ‘because they <word
                 kind="pow">lessen</word> from day to day.’</p>
@@ -1799,11 +1821,10 @@
     <chapter n="10">
         <title>The Lobster Quadrille</title>
         <p>The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He
-            looked at Alice, and tried to speak, but for a minute or two sobs
-                choked his voice. ‘Same as if he had a bone in his throat,’ said the
-            Gryphon: and it set to work shaking him and punching him in the back. At last the Mock
-            Turtle recovered his voice, and, with tears running down his cheeks, he went on
-            again:--</p>
+            looked at Alice, and tried to speak, but for a minute or two sobs choked his voice.
+            ‘Same as if he had a bone in his throat,’ said the Gryphon: and it set to work shaking
+            him and punching him in the back. At last the Mock Turtle recovered his voice, and, with
+            tears running down his cheeks, he went on again:--</p>
         <p>‘You may not have lived much under the sea--’ <parenthesis>‘I haven’t,’ said
                 Alice</parenthesis>--‘and perhaps you were never even introduced to a lobster--’
                 <parenthesis>Alice began to say ‘I once tasted--’ but checked herself hastily, and
@@ -1839,43 +1860,45 @@
         <song>
             <stanza>
                 <rp rpn="020">
-                    <l><rhyme rn="01" def="true">‘“Will you walk a little faster?” said a whiting to a
-                        snail.</rhyme></l>
-                    <l><rhyme rn="02" def="true">“There’s a porpoise close behind us, and he’s treading
-                        on my tail.</rhyme></l>
+                    <l><rhyme rn="01" def="true">‘“Will you walk a little faster?” said a whiting to
+                            a snail.</rhyme></l>
+                    <l><rhyme rn="02" def="true">“There’s a porpoise close behind us, and he’s
+                            treading on my tail.</rhyme></l>
                 </rp>
             </stanza>
             <stanza>
                 <rp rpn="021">
                     <l><rhyme rn="01" def="true">See how eagerly the lobsters and the turtles all
-                        advance!</rhyme></l>
+                            advance!</rhyme></l>
                     <l><rhyme rn="02" def="true">They are waiting on the shingle--will you come and
-                        join the dance?</rhyme></l>
+                            join the dance?</rhyme></l>
                 </rp>
             </stanza>
             <stanza>
-                <l><repetition rep="will-you_won't-you">Will you, won’t you, will you, won’t you, will you</repetition> join the dance?</l>
-                <l><repetition rep="will-you_won't-you">Will you,
-                won’t you, will you, won’t you, won’t yo</repetition>u join the dance?</l>
+                <l><repetition rep="will-you_won't-you">Will you, won’t you, will you, won’t you,
+                        will you</repetition> join the dance?</l>
+                <l><repetition rep="will-you_won't-you">Will you, won’t you, will you, won’t you,
+                        won’t yo</repetition>u join the dance?</l>
             </stanza>
             <stanza>
                 <rp rpn="022">
-                    <l><rhyme rn="01" def="true">“You can really have no notion how delightful it will
-                        be</rhyme></l>
-                    <l><rhyme rn="02" def="true">When they take us up and throw us, with the lobsters,
-                        out to sea!”</rhyme></l>
+                    <l><rhyme rn="01" def="true">“You can really have no notion how delightful it
+                            will be</rhyme></l>
+                    <l><rhyme rn="02" def="true">When they take us up and throw us, with the
+                            lobsters, out to sea!”</rhyme></l>
                 </rp>
                 <rp rpn="021">
-                    <l><rhyme rn="03" def="true">But the snail replied “Too far, too far!” and gave a
-                        look askance--</rhyme></l>
-                    <l><rhyme rn="02" def="true">Said he thanked the whiting kindly, but he would not
-                        join the dance.</rhyme></l>
+                    <l><rhyme rn="03" def="true">But the snail replied “Too far, too far!” and gave
+                            a look askance--</rhyme></l>
+                    <l><rhyme rn="02" def="true">Said he thanked the whiting kindly, but he would
+                            not join the dance.</rhyme></l>
                 </rp>
             </stanza>
-            <stanza> 
-                <l><repetition rep="would-not_could-not">Would not, could not, would not, could not, would not</repetition> join the dance.</l>
-                <l><repetition rep="would-not_could-not">Would
-                not, could not, would not, could not, could not</repetition> join the dance.</l>
+            <stanza>
+                <l><repetition rep="would-not_could-not">Would not, could not, would not, could not,
+                        would not</repetition> join the dance.</l>
+                <l><repetition rep="would-not_could-not">Would not, could not, would not, could not,
+                        could not</repetition> join the dance.</l>
             </stanza>
             <stanza>
                 <rp rpn="023">
@@ -1892,11 +1915,11 @@
                 </rp>
             </stanza>
             <stanza>
-                <l><repetition rep="will-you_won't-you">Will you, won’t you, will you, won’t you, will you</repetition> join the dance?</l> 
-                <l><repetition rep="will-you_won't-you">Will you,
-                won’t you, will you, won’t you, won’t you</repetition> join the dance?”</l>
-            </stanza>’
-        </song>
+                <l><repetition rep="will-you_won't-you">Will you, won’t you, will you, won’t you,
+                        will you</repetition> join the dance?</l>
+                <l><repetition rep="will-you_won't-you">Will you, won’t you, will you, won’t you,
+                        won’t you</repetition> join the dance?”</l>
+            </stanza>’ </song>
         <!--Song tags: in the two stanzas without rhyme, should the repetition be tagged? As phrases?
             Would this be interesting to track across translations, or should it just be left as it 
             currently is?-->
@@ -1930,7 +1953,8 @@
         <p>Alice looked down at them, and considered a little before she gave her answer. ‘<phrase
                 type="uc">They’re done with</phrase>
             <word kind="pow">blacking</word>, I believe.’</p>
-        <p>‘Boots and shoes under the sea,’ the Gryphon went on in a deep voice, ‘are done with a <word kind="pow">whiting</word>. Now you know.’</p>
+        <p>‘Boots and shoes under the sea,’ the Gryphon went on in a deep voice, ‘are done with a
+                <word kind="pow">whiting</word>. Now you know.’</p>
         <p>‘And what are they made of?’ Alice asked in a tone of great curiosity.</p>
         <p>‘Soles and <word kind="pow">eels</word>, of course,’ the Gryphon replied rather
             impatiently: ‘any shrimp could have told you that.’</p>
@@ -1970,29 +1994,32 @@
             words came very queer indeed:--</p>
         <song>
             <stanza>
-                <rp rpn="024"> ‘<rhyme rn="01" def="true">’Tis the voice of the Lobster; I heard him
-                        declare,</rhyme>
-                    <rhyme rn="02" def="true">“You have baked me too brown, I must sugar my
-                        hair.”</rhyme>
+                <rp rpn="024">
+                    <l>‘’Tis the voice of the Lobster; <rhyme rn="01" def="true">I heard him
+                            declare,</rhyme></l>
+                    <l>“You have baked me too brown, <rhyme rn="02" def="true">I must sugar my
+                            hair.”</rhyme></l>
                 </rp>
                 <rp rpn="025">
-                    <rhyme rn="01" def="true">As a duck with its eyelids, so he with his
-                        nose</rhyme>
-                    <rhyme rn="02" def="true">Trims his belt and his buttons, and turns out his
-                        toes.</rhyme>’ </rp>
+                    <l><rhyme rn="01" def="true">As a duck with its eyelids, so he with his
+                            nose</rhyme></l>
+                    <l><rhyme rn="02" def="true">Trims his belt and his buttons, and turns out his
+                            toes.</rhyme>’</l>
+                </rp>
             </stanza>
             <!--Originally embedded in text within paratheses: "later editions continued as follows"-->
             <stanza>
                 <rp rpn="027">
-                    <rhyme rn="01" def="true">When the sands are all dry, he is gay as a
-                        lark,</rhyme>
-                    <rhyme rn="02" def="true">And will talk in contemptuous tones of the
-                        Shark,</rhyme>
+                    <l><rhyme rn="01" def="true">When the sands are all dry, he is gay as a
+                            lark,</rhyme></l>
+                    <l><rhyme rn="02" def="true">And will talk in contemptuous tones of the
+                            Shark,</rhyme></l>
                 </rp>
                 <rp rpn="028">
-                    <rhyme rn="01" def="true">But, when the tide rises and sharks are
-                        around,</rhyme>
-                    <rhyme rn="02" def="true">His voice has a timid and tremulous sound.</rhyme>
+                    <l><rhyme rn="01" def="true">But, when the tide rises and sharks are
+                            around,</rhyme></l>
+                    <l><rhyme rn="02" def="true">His voice has a timid and tremulous
+                        sound.</rhyme></l>
                 </rp>
             </stanza>
         </song>
@@ -2015,28 +2042,35 @@
         <song>
             <stanza>
                 <rp rpn="029">
-                    <rhyme rn="01" def="true">‘I passed by his garden, and marked, with one
-                        eye,</rhyme>
-                    <rhyme rn="02" def="true">How the Owl and the Panther were sharing a
-                        pie--’</rhyme>
+                    <l><rhyme rn="01" def="true">‘I passed by his garden, and marked, with one
+                            eye,</rhyme></l>
+                    <l><rhyme rn="02" def="true">How the Owl and the Panther were sharing a
+                            pie--’</rhyme></l>
                 </rp>
             </stanza>
             <!--Originally embedded in text within paratheses: "later editions continued as follows"-->
             <stanza>
                 <rp rpn="030">
-                    <rhyme rn="01" def="true">The Panther took pie-crust, and gravy, and
-                        meat,</rhyme>
-                    <rhyme rn="02" def="true">While the Owl had the dish as its share of the
-                        treat.</rhyme>
+                    <l>
+                        <rhyme rn="01" def="true">The Panther took pie-crust, and gravy, and
+                            meat,</rhyme>
+                    </l>
+                    <l>
+                        <rhyme rn="02" def="true">While the Owl had the dish as its share of the
+                            treat.</rhyme>
+                    </l>
                 </rp>
                 <rp rpn="031">
-                    <rhyme rn="01" def="true">When the pie was all finished, the Owl, as a
-                        boon,</rhyme>
-                    <rhyme rn="02" def="true">Was kindly permitted to pocket the spoon:</rhyme>
+                    <l>
+                        <rhyme rn="01" def="true">When the pie was all finished, the Owl, as a
+                            boon,</rhyme>
+                    </l>
+                    <l>
+                        <rhyme rn="02" def="true">Was kindly permitted to pocket the spoon:</rhyme>
+                    </l>
                 </rp>
-                <rp rpn="032" stat="incomplete">
-                    <rhyme rn="00" def="incomp">While the Panther received knife and fork with a
-                        growl</rhyme>, And concluded the banquet--</rp>
+                <l>While the Panther received knife and fork with a growl,</l>
+                <l>And concluded the banquet--</l>
             </stanza>
         </song>
         <!--Parody of Watts's "'Tis the Voice of the Sluggard", continued-->
@@ -2055,18 +2089,24 @@
         <song>
             <stanza>
                 <rp rpn="033">
-                    <rhyme rn="01" def="true">‘Beautiful Soup, so rich and green,</rhyme>
-                    <rhyme rn="02" def="true">Waiting in a hot tureen!</rhyme>
+                    <l><rhyme rn="01" def="true">‘Beautiful Soup, so rich and green,</rhyme></l>
+                    <l><rhyme rn="02" def="true">Waiting in a hot tureen!</rhyme></l>
                 </rp>
                 <rp rpn="034">
-                    <rhyme rn="01" def="true">Who for such dainties would not stoop?</rhyme>
-                    <rhyme rn="02" def="true">Soup of the evening, beautiful Soup!</rhyme>
-                </rp> Soup of the evening, beautiful Soup! Beau--ootiful Soo--oop! Beau--ootiful
-                Soo--oop! Soo--oop of the e--e--evening, Beautiful, beautiful Soup! </stanza>
-            <stanza> ‘Beautiful Soup! Who cares for fish, Game, or any other dish? Who would not
-                give all else for two Pennyworth only of beautiful Soup? Pennyworth only of
-                beautiful Soup? Beau--ootiful Soo--oop! Beau--ootiful Soo--oop! Soo--oop of the
-                e--e--evening, Beautiful, beauti--FUL SOUP!’ </stanza>
+                    <l><rhyme rn="01" def="true">Who for such dainties would not stoop?</rhyme></l>
+                    <l><rhyme rn="02" def="true">Soup of the evening, beautiful Soup!</rhyme></l>
+                </rp>
+                <l>Soup of the evening, beautiful Soup!</l>
+                <l>Beau--ootiful Soo--oop! Beau--ootiful Soo--oop!</l>
+                <l>Soo--oop of the e--e--evening, Beautiful, beautiful Soup!</l>
+            </stanza>
+            <stanza>
+                <l>‘Beautiful Soup! Who cares for fish, Game, or any other dish?</l>
+                <l>Who would not give all else for two Pennyworth only of beautiful Soup?</l>
+                <l>Pennyworth only of beautiful Soup?</l>
+                <l>Beau--ootiful Soo--oop! Beau--ootiful Soo--oop!</l>
+                <l>Soo--oop of the e--e--evening, Beautiful, beauti--FUL SOUP!’</l>
+            </stanza>
         </song>
         <!--More song repetition-->
         <p>‘Chorus again!’ cried the Gryphon, and the Mock Turtle had just begun to repeat it, when
@@ -2123,22 +2163,30 @@
         <p>‘Herald, read the accusation!’ said the King.</p>
         <p>On this the White Rabbit blew three blasts on the trumpet, and then unrolled the
             parchment scroll, and read as follows:--</p>
-        <p>
+        <song>
             <rp rpn="035">
-                <rhyme rn="01" def="true">‘The Queen of Hearts,</rhyme>
-                <rhyme rn="02" def="true">she made some tarts,</rhyme>
+                <l>
+                    <rhyme rn="01" def="true">‘The Queen of Hearts,</rhyme>
+                    <rhyme rn="02" def="true">she made some tarts,</rhyme>
+                </l>
             </rp>
             <rp rpn="036">
-                <rhyme rn="01" def="true">All on a summer day:</rhyme>
+                <l>
+                    <rhyme rn="01" def="true">All on a summer day:</rhyme>
+                </l>
             </rp>
             <rp rpn="035">
-                <rhyme rn="01" def="true">The Knave of Hearts,</rhyme>
-                <rhyme rn="02" def="true">he stole those tarts,</rhyme>
+                <l>
+                    <rhyme rn="01" def="true">The Knave of Hearts,</rhyme>
+                    <rhyme rn="02" def="true">he stole those tarts,</rhyme>
+                </l>
             </rp>
             <rp rpn="036">
-                <rhyme rn="02" def="true">And took them quite away!’</rhyme>
+                <l>
+                    <rhyme rn="02" def="true">And took them quite away!’</rhyme>
+                </l>
             </rp>
-        </p>
+        </song>
         <p>‘Consider your verdict,’ the King said to the jury.</p>
         <p>‘Not yet, not yet!’ the Rabbit hastily interrupted. ‘There’s a great deal to come before
             that!’</p>
@@ -2207,7 +2255,7 @@
         <p>‘You <emp>MUST</emp> remember,’ remarked the King, ‘or I’ll have you executed.’</p>
         <p>The miserable Hatter dropped his teacup and bread-and-butter, and went down on one knee.
             ‘I’m a poor man, your Majesty,’ he began.</p>
-        <p>‘You’re a very poor speaker,’ said the King.</p>
+        <p>‘<phrase type="pow">You’re a very poor speaker</phrase>,’ said the King.</p>
         <p>Here one of the guinea-pigs cheered, and was immediately suppressed by the officers of
             the court. <parenthesis>As that is rather a hard word, I will just explain to you how it
                 was done. They had a large canvas bag, which tied up at the mouth with strings: into
@@ -2287,19 +2335,18 @@
             ‘<emp>UN</emp>important, your Majesty means, of course,’ he said in a very respectful
             tone, but frowning and making faces at him as he spoke.</p>
         <p>‘<emp>UN</emp>important, of course, I meant,’ the King hastily said, and went on to
-            himself in an undertone,</p>
-        <p>‘important--unimportant--unimportant--important--’ as if he were trying which word
-            sounded best.</p>
+            himself in an undertone,‘important--unimportant--unimportant--important--’ as if he were
+            trying which word sounded best.</p>
         <p>Some of the jury wrote it down ‘important,’ and some ‘unimportant.’ Alice could see this,
             as she was near enough to look over their slates; ‘but it doesn’t matter a bit,’ she
             thought to herself.</p>
         <p>At this moment the King, who had been for some time busily writing in his note-book,
             cackled out ‘Silence!’ and read out from his book, ‘Rule Forty-two. <emp>ALL PERSONS
-                MORE THAN A MILE HIGH TO LEAVE THE COUR</emp>T.’</p>
+                    <cultural>MORE THAN A MILE HIGH</cultural> TO LEAVE THE COURT</emp>.’</p>
         <p>Everybody looked at Alice.</p>
-        <p>‘<emp>I’M</emp> not a mile high,’ said Alice.</p>
+        <p>‘<emp>I’M</emp> not <cultural>a mile</cultural> high,’ said Alice.</p>
         <p>‘You are,’ said the King.</p>
-        <p>‘Nearly two miles high,’ added the Queen.</p>
+        <p>‘Nearly <cultural>two miles</cultural> high,’ added the Queen.</p>
         <p>‘Well, I shan’t go, at any rate,’ said Alice: ‘besides, that’s not a regular rule: you
             invented it just now.’</p>
         <p>‘It’s the oldest rule in the book,’ said the King.</p>
@@ -2340,50 +2387,59 @@
         <p>These were the verses the White Rabbit read:--</p>
         <song>
             <stanza>
-                <rp rpn="037"><rhyme rn="01" def="true">‘They told me you had been to
-                    her,</rhyme></rp>
-                <rp rpn="038"><rhyme rn="01" def="true">And mentioned me to him:</rhyme></rp>
-                <rp rpn="037"><rhyme rn="02" def="true">She gave me a good character,</rhyme></rp>
-                <rp rpn="038"><rhyme rn="02" def="true">But said I could not swim.</rhyme></rp>
+                <l><rp rpn="037"><rhyme rn="01" def="true">‘They told me you had been to
+                            her,</rhyme></rp></l>
+                <l><rp rpn="038"><rhyme rn="01" def="true">And mentioned me to him:</rhyme></rp></l>
+                <l><rp rpn="037"><rhyme rn="02" def="true">She gave me a good
+                        character,</rhyme></rp></l>
+                <l><rp rpn="038"><rhyme rn="02" def="true">But said I could not
+                    swim.</rhyme></rp></l>
             </stanza>
             <stanza>
-                <rp rpn="039"><rhyme rn="01" def="true">He sent them word I had not gone
-                    </rhyme></rp>
-                <parenthesis><rp rpn="039"><rhyme rn="01" def="true">We know it to be
-                        true</rhyme></rp></parenthesis>: <rp rpn="038"><rhyme rn="02" def="true">If
-                        she should push the matter on,</rhyme></rp>
-                <rp rpn="040"><rhyme rn="02" def="true">What would become of you?</rhyme></rp>
+                <l><rp rpn="039"><rhyme rn="01" def="true">He sent them word I had not gone
+                        </rhyme></rp></l>
+                <l><parenthesis><rp rpn="039"><rhyme rn="01" def="true">We know it to be
+                                true</rhyme></rp></parenthesis>:</l>
+                <l><rp rpn="038"><rhyme rn="02" def="true">If she should push the matter
+                        on,</rhyme></rp></l>
+                <l><rp rpn="040"><rhyme rn="02" def="true">What would become of
+                    you?</rhyme></rp></l>
             </stanza>
             <stanza>
-                <rp rpn="041"><rhyme rn="01" def="true">I gave her one, they gave him
-                    two,</rhyme></rp>
-                <rp rpn="042"><rhyme rn="01" def="true">You gave us three or more;</rhyme></rp>
-                <rp rpn="041"><rhyme rn="02" def="true">They all returned from him to
-                    you,</rhyme></rp>
-                <rp rpn="042"><rhyme rn="02" def="true">Though they were mine before.</rhyme></rp>
+                <l><rp rpn="041"><rhyme rn="01" def="true">I gave her one, they gave him
+                            two,</rhyme></rp></l>
+                <l><rp rpn="042"><rhyme rn="01" def="true">You gave us three or
+                    more;</rhyme></rp></l>
+                <l><rp rpn="041"><rhyme rn="02" def="true">They all returned from him to
+                            you,</rhyme></rp></l>
+                <l><rp rpn="042"><rhyme rn="02" def="true">Though they were mine
+                        before.</rhyme></rp></l>
             </stanza>
             <stanza>
-                <rp rpn="043"><rhyme rn="01" def="true">If I or she should chance to be</rhyme></rp>
-                <rp rpn="044"><rhyme rn="01" def="true">Involved in this affair,</rhyme></rp>
-                <rp rpn="043"><rhyme rn="02" def="true">He trusts to you to set them
-                    free,</rhyme></rp>
-                <rp rpn="044"><rhyme rn="02" def="true">Exactly as we were.</rhyme></rp>
+                <l><rp rpn="043"><rhyme rn="01" def="true">If I or she should chance to
+                        be</rhyme></rp></l>
+                <l><rp rpn="044"><rhyme rn="01" def="true">Involved in this affair,</rhyme></rp></l>
+                <l><rp rpn="043"><rhyme rn="02" def="true">He trusts to you to set them
+                            free,</rhyme></rp></l>
+                <l><rp rpn="044"><rhyme rn="02" def="true">Exactly as we were.</rhyme></rp></l>
             </stanza>
             <stanza>
-                <rp rpn="045"><rhyme rn="01" def="true">My notion was that you had been</rhyme></rp>
-                <parenthesis><rp rpn="046"><rhyme rn="01" def="true">Before she had this
-                        fit</rhyme></rp></parenthesis>
-                <rp rpn="045"><rhyme rn="02" def="true">An obstacle that came between
-                    Him,</rhyme></rp>
-                <rp rpn="046"><rhyme rn="02" def="true">and ourselves, and it.</rhyme></rp>
+                <l><rp rpn="045"><rhyme rn="01" def="true">My notion was that you had
+                        been</rhyme></rp></l>
+                <l><parenthesis><rp rpn="046"><rhyme rn="01" def="true">Before she had this
+                                fit</rhyme></rp></parenthesis></l>
+                <l><rp rpn="045"><rhyme rn="02" def="true">An obstacle that came between
+                            Him,</rhyme></rp></l>
+                <l><rp rpn="046"><rhyme rn="02" def="true">and ourselves, and it.</rhyme></rp></l>
             </stanza>
             <stanza>
-                <rp rpn="047"><rhyme rn="01" def="true">Don’t let him know she liked them
-                        best,</rhyme></rp>
-                <rp rpn="048"><rhyme rn="01" def="true">For this must ever be</rhyme></rp>
-                <rp rpn="047"><rhyme rn="02" def="true">A secret, kept from all the
-                    rest,</rhyme></rp>
-                <rp rpn="048"><rhyme rn="02" def="true">Between yourself and me.’</rhyme></rp>
+                <l><rp rpn="047"><rhyme rn="01" def="true">Don’t let him know she liked them
+                            best,</rhyme></rp></l>
+                <l><rp rpn="048"><rhyme rn="01" def="true">For this must ever be</rhyme></rp></l>
+                <l><rp rpn="047"><rhyme rn="02" def="true">A secret, kept from all the
+                        rest,</rhyme></rp></l>
+                <l><rp rpn="048"><rhyme rn="02" def="true">Between yourself and
+                    me.’</rhyme></rp></l>
             </stanza>
         </song>
         <!--Song reference unknown-->
@@ -2391,8 +2447,8 @@
             hands; ‘so now let the jury--’</p>
         <p>‘If any one of them can explain it,’ said Alice, <parenthesis>she had grown so large in
                 the last few minutes that she wasn’t a bit afraid of interrupting him,</parenthesis>
-            ‘I’ll give him sixpence. <emp>I</emp> don’t believe there’s an atom of meaning in
-            it.’</p>
+            ‘I’ll give him <cultural>sixpence</cultural>. <emp>I</emp> don’t believe there’s an atom
+            of meaning in it.’</p>
         <p>The jury all wrote down on their slates, ‘<emp>SHE</emp> doesn’t believe there’s an atom
             of meaning in it,’ but none of them attempted to explain the paper.</p>
         <p>‘If there’s no meaning in it,’ said the King, ‘that saves a world of trouble, you know,
@@ -2403,10 +2459,12 @@
         <p>The Knave shook his head sadly. ‘Do I look like it?’ he said. <parenthesis>Which he
                 certainly did <emp>NOT</emp>, being made entirely of cardboard.</parenthesis></p>
         <p>‘All right, so far,’ said the King, and he went on muttering over the verses to himself:
-                ‘“<emp>WE KNOW IT TO BE TRUE</emp>--” that’s the jury, of course--“<emp>I GAVE HER
-                ONE, THEY GAVE HIM TWO--</emp>” why, that must be what he did with the tarts, you
-            know--’</p>
-        <p>‘But, it goes on “<emp>THEY ALL RETURNED FROM HIM TO YOU,</emp>”’ said Alice.</p>
+                ‘“<rp rpn="042"><rhyme rn="01" def="true"><emp>WE KNOW IT TO BE
+                TRUE--</emp></rhyme></rp>” that’s the jury, of course--“<rp rpn="042"><rhyme rn="02"
+                    def="true"><emp>I GAVE HER ONE, THEY GAVE HIM TWO--</emp></rhyme></rp>” why,
+            that must be what he did with the tarts, you know--’</p>
+        <p>‘But, it goes on “<rp rpn="042"><rhyme rn="01" def="true"><emp>THEY ALL RETURNED FROM HIM
+                        TO YOU,</emp></rhyme></rp>”’ said Alice.</p>
         <p>‘Why, there they are!’ said the King triumphantly, pointing to the tarts on the table.
             ‘Nothing can be clearer than <emp>THAT</emp>. Then again--“<emp>BEFORE SHE HAD THIS
                 FIT</emp>--” you never had fits, my dear, I think?’ he said to the Queen.</p>
@@ -2414,13 +2472,13 @@
                 <parenthesis>The unfortunate little Bill had left off writing on his slate with one
                 finger, as he found it made no mark; but he now hastily began again, using the ink,
                 that was trickling down his face, as long as it lasted.</parenthesis></p>
-        <p>‘Then the words don’t <emp><word kind="pow">FIT</word></emp> you,’ said the King, looking
-            round the court with a smile. There was a dead silence.</p>
+        <p>‘<phrase type="pow">Then the words don’t <emp>FIT</emp> you</phrase>,’ said the King,
+            looking round the court with a smile. There was a dead silence.</p>
         <p>‘It’s a pun!’ the King added in an offended tone, and everybody laughed, ‘Let the jury
             consider their verdict,’ the King said, for about the twentieth time that day.</p>
         <p>‘No, no!’ said the Queen. ‘Sentence first--verdict afterwards.’</p>
         <p>‘Stuff and nonsense!’ said Alice loudly. ‘The idea of having the sentence first!’</p>
-        <p>‘Hold your tongue!’ said the Queen, turning purple.</p>
+        <p>‘Hold your tongue!’ said the Queen, <cultural>turning purple</cultural>.</p>
         <p>‘I won’t!’ said Alice.</p>
         <p>‘Off with her head!’ the Queen shouted at the top of her voice. Nobody moved.</p>
         <p>‘Who cares for you?’ said Alice, <parenthesis>she had grown to her full size by this
@@ -2436,6 +2494,7 @@
                 <emp>WAS</emp> a curious dream, dear, certainly: but now run in to your tea; it’s
             getting late.’ So Alice got up and ran off, thinking while she ran, as well she might,
             what a wonderful dream it had been.</p>
+        <break/>
         <p>But her sister sat still just as she left her, leaning her head on her hand, watching the
             setting sun, and thinking of little Alice and all her wonderful Adventures, till she too
             began dreaming after a fashion, and this was her dream:--</p>
