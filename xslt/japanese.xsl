@@ -27,10 +27,48 @@
             <xsl:attribute name="id">
                 <xsl:value-of select="@n"/>
             </xsl:attribute>
-            <h2><xsl:apply-templates select="title" /></h2>
-            <xsl:apply-templates /></div>
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    <xsl:template match="title">
+        <h2>
+            <xsl:apply-templates/>
+        </h2>
     </xsl:template>
     <xsl:template match="p">
         <p><xsl:apply-templates /></p>
+    </xsl:template>
+    <xsl:template match="song">
+        <div id="song">
+            <xsl:apply-templates select="stanza"/>
+        </div>
+    </xsl:template>
+    <xsl:template match="stanza">
+        <p>
+            <xsl:apply-templates select="l"/>
+        </p>
+    </xsl:template>
+    <xsl:template match="l">
+        <xsl:apply-templates/>
+        <xsl:if test="following-sibling::l">
+            <br/>
+        </xsl:if>
+    </xsl:template>
+    <xsl:template match="break">
+        <br/>
+        <xsl:apply-templates/>
+        <br/>
+    </xsl:template>
+    <xsl:template match="fg">
+        <ruby>
+            <xsl:apply-templates/>
+        </ruby>
+    </xsl:template>
+    <xsl:template match="h">
+            <rp>(</rp>
+        <rt>
+            <xsl:apply-templates/>
+        </rt>
+        <rp>)</rp>
     </xsl:template>
 </xsl:stylesheet>
