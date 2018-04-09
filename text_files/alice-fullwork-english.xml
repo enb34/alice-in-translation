@@ -184,11 +184,9 @@
             want to go! Let me see: I’ll give them a new pair of boots every Christmas.’</p>
         <p>And she went on planning to herself how she would manage it. ‘They must go by the
             carrier,’ she thought; ‘and how funny it’ll seem, sending presents to one’s own feet!
-            And how odd the directions will look! <song>
-                <l>ALICE’S RIGHT FOOT,</l>
-                <l>ESQ. HEARTHRUG, NEAR THE FENDER,</l>
-                <l><parenthesis>WITH ALICE’S LOVE</parenthesis></l>.</song> Oh dear, what nonsense
-            I’m talking!’</p>
+            And how odd the directions will look! ALICE’S RIGHT FOOT, ESQ. HEARTHRUG, NEAR THE
+            FENDER, <parenthesis>WITH ALICE’S LOVE</parenthesis>. Oh dear, what nonsense I’m
+            talking!’</p>
         <p>Just then her head struck against the roof of the hall: in fact she was now more than
             nine feet high, and she at once took up the little golden key and hurried off to the
             garden door.</p>
@@ -236,22 +234,17 @@
             <stanza>
                 <rp rpn="002">
                     <l><rhyme rn="01" def="true">‘How doth the little crocodile</rhyme></l>
-                <l><rhyme rn="02" def="true"><emp>Improve</emp> his shining
-                            tail,</rhyme></l>
-                <l><rhyme rn="01" def="true">And pour the waters of the
-                        Nile</rhyme></l>
-                <l><rhyme rn="02" def="true">On every golden scale!</rhyme></l>
-            </rp>
+                    <l><rhyme rn="02" def="true"><emp>Improve</emp> his shining tail,</rhyme></l>
+                    <l><rhyme rn="01" def="true">And pour the waters of the Nile</rhyme></l>
+                    <l><rhyme rn="02" def="true">On every golden scale!</rhyme></l>
+                </rp>
             </stanza>
             <stanza>
                 <rp rpn="003">
                     <l><rhyme rn="01" def="true">‘How cheerfully he seems to grin,</rhyme></l>
-                <l><rhyme rn="02" def="true">How neatly spread his
-                    claws,</rhyme></l>
-                <l><rhyme rn="01" def="true">And welcome little fishes
-                    in</rhyme></l>
-                <l><rhyme rn="02" def="true"><emp>With</emp> gently smiling
-                            jaws!’</rhyme></l>
+                    <l><rhyme rn="02" def="true">How neatly spread his claws,</rhyme></l>
+                    <l><rhyme rn="01" def="true">And welcome little fishes in</rhyme></l>
+                    <l><rhyme rn="02" def="true"><emp>With</emp> gently smiling jaws!’</rhyme></l>
                 </rp>
             </stanza>
         </song>
@@ -452,37 +445,36 @@
             down with wonder at the Mouse’s tail; ‘<phrase type="pow">but why do you call it
                 sad?</phrase>’ And she kept on puzzling about it while the Mouse was speaking, so
             that her idea of the tale was something like this:--</p>
-        <p>
-            <song>
+        <song>
+            <stanza>
                 <rp rpn="004">
                     <l>' <rhyme rn="01" def="true">Fury said to a mouse</rhyme>,<rhyme rn="02"
                             def="true">That he met in the house</rhyme>,</l>
-            </rp>
+                </rp>
                 <rp rpn="005"><l>“<rhyme rn="01" def="true">Let us both go to law: I will prosecute
                                 <emp>YOU</emp></rhyme> .--</l>
                 </rp>
                 <rp rpn="006">
-                    <l><rhyme rn="01"
-                        def="true">Come, I’ll take no denial</rhyme>; <rhyme rn="02" def="true">.We
-                        must have a trial</rhyme>:</l>
+                    <l><rhyme rn="01" def="true">Come, I’ll take no denial</rhyme>; <rhyme rn="02"
+                            def="true">.We must have a trial</rhyme>:</l>
                 </rp>
                 <rp rpn="005">
-                    <l><rhyme rn="01" def="true">For
-                        really this morning I’ve nothing to do</rhyme>.”</l>
-                </rp> 
+                    <l><rhyme rn="01" def="true">For really this morning I’ve nothing to
+                        do</rhyme>.”</l>
+                </rp>
                 <rp rpn="007">
-                    <l><rhyme
-                        rn="01" def="true">Said the mouse to the cur,</rhyme> <rhyme rn="02" def="true">“Such a trial, dear Sir,
-                    </rhyme></l></rp>
+                    <l><rhyme rn="01" def="true">Said the mouse to the cur,</rhyme>
+                        <rhyme rn="02" def="true">“Such a trial, dear Sir, </rhyme></l></rp>
                 <rp rpn="008">
                     <l><rhyme rn="01" def="true">With no jury or judge, would be wasting our
-                        breath.</rhyme>”</l></rp> 
-                <rp rpn="009"><l>“<rhyme rn="01" def="true">I’ll be
-                    judge, I’ll be jury,”</rhyme> <rhyme rn="02" def="true">Said cunning old Fury</rhyme></l></rp>: 
-                <l>“<rp rpn="008"
-                        ><rhyme rn="01" def="true">I’ll try the whole cause, and condemn you to
-                        death.</rhyme></rp>”'</l> </song>
-        </p>
+                            breath.</rhyme>”</l></rp>
+                <rp rpn="009"><l>“<rhyme rn="01" def="true">I’ll be judge, I’ll be jury,”</rhyme>
+                        <rhyme rn="02" def="true">Said cunning old Fury</rhyme></l></rp>: <l>“<rp
+                        rpn="008"><rhyme rn="01" def="true">I’ll try the whole cause, and condemn
+                            you to death.</rhyme></rp>”'</l>
+            </stanza>
+        </song>
+
         <!--fix spacing above-->
         <p>‘You are not <word kind="uc">attending</word>!’ said the Mouse to Alice severely. ‘What
             are you thinking of?’</p>
@@ -1291,18 +1283,22 @@
             March--just before <emp>HE</emp> went mad, you know--’ <parenthesis>pointing with his
                 tea spoon at the March Hare,</parenthesis> ‘--it was at the great concert given by
             the Queen of Hearts, and I had to sing</p>
-        <song> “<rp rpn="018">
+        <song> 
+            <stanza>“<rp rpn="018">
                 <l><rhyme rn="01" def="true">Twinkle, twinkle, little bat!</rhyme></l>
                 <l><rhyme rn="01" def="true">How I wonder what you’re at!</rhyme></l>
-            </rp>” </song>
+            </rp>” </stanza>
+        </song>
         <!--Parody of "Twinkle Twinkle Little Star"-->
         <p>You know the song, perhaps?’</p>
         <p>‘I’ve heard something like it,’ said Alice.</p>
         <p>‘It goes on, you know,’ the Hatter continued, ‘in this way:--</p>
         <song>
-            <rp rpn="019"><l>“ <rhyme rn="01" def="true">Up above the world you fly,</rhyme></l>
+            <stanza>
+                <rp rpn="019"><l>“ <rhyme rn="01" def="true">Up above the world you fly,</rhyme></l>
                 <l><rhyme rn="01" def="true">Like a tea-tray in the sky</rhyme></l>
             </rp>. <l>Twinkle, twinkle--“’</l>
+            </stanza>
         </song>
         <p>Here the Dormouse shook itself, and began singing in its sleep ‘<repetition rep="twinkle"
                 >Twinkle, twinkle, twinkle, twinkle</repetition>--’ and went on so long that they
@@ -2164,7 +2160,8 @@
         <p>On this the White Rabbit blew three blasts on the trumpet, and then unrolled the
             parchment scroll, and read as follows:--</p>
         <song>
-            <rp rpn="035">
+            <stanza>
+                <rp rpn="035">
                 <l>
                     <rhyme rn="01" def="true">‘The Queen of Hearts,</rhyme>
                     <rhyme rn="02" def="true">she made some tarts,</rhyme>
@@ -2186,6 +2183,7 @@
                     <rhyme rn="02" def="true">And took them quite away!’</rhyme>
                 </l>
             </rp>
+            </stanza>
         </song>
         <p>‘Consider your verdict,’ the King said to the jury.</p>
         <p>‘Not yet, not yet!’ the Rabbit hastily interrupted. ‘There’s a great deal to come before
