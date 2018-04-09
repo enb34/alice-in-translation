@@ -58,4 +58,43 @@
         <xsl:apply-templates/>
         <br/>
     </xsl:template>
+    <xsl:template match="parenthesis">
+        <xsl:text>(</xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text>)</xsl:text>
+    </xsl:template>
+    <xsl:template match="word">
+        Word
+    </xsl:template>
+    <xsl:template match="phrase">
+        Phrase
+    </xsl:template>
+    <xsl:template match="rp">
+        Rhyme Phrase
+    </xsl:template>
+    <xsl:template match="onomatopoeia">
+        <span id="onom">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="emp">
+        <span id="emp">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="foreign">
+        <span id="lang-{@language}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="cultural">
+        <span id="cultural">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="repetition">
+        <span id="rep">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
 </xsl:stylesheet>
