@@ -74,27 +74,27 @@
         Dashed emp
     </xsl:template>
     <xsl:template match="onomatopoeia">
-        <span id="onom">
+        <span class="onom">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="emp">
-        <span id="emp">
+        <span class="emp">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="foreign">
-        <span id="lang-{@language}">
+        <span class="lang" id="{@language}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="cultural">
-        <span id="cultural">
+        <span class="cultural">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="repetition">
-        <span id="rep">
+        <span class="rep">
             <xsl:apply-templates/>
         </span>
     </xsl:template>

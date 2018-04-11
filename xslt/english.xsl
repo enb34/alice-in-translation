@@ -38,7 +38,7 @@
         <p><xsl:apply-templates /></p>
     </xsl:template>
     <xsl:template match="song">
-        <div id="song">
+        <div class="song">
             <xsl:apply-templates select="stanza"/>
         </div>
     </xsl:template>
@@ -73,27 +73,27 @@
         Rhyme Phrase
     </xsl:template>
     <xsl:template match="onomatopoeia">
-        <span id="onom">
+        <span class="onom">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="emp">
-        <span id="emp">
+        <span class="emp">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="foreign">
-        <span id="lang-{@language}">
+        <span class="lang-{@language}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="cultural">
-        <span id="cultural">
+        <span class="cultural">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="repetition">
-        <span id="rep">
+        <span class="rep">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
