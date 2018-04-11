@@ -64,10 +64,22 @@
         <xsl:apply-templates/>
         <xsl:text>）</xsl:text>
     </xsl:template>
-    <xsl:template match="word">
+    <xsl:template match="word[@kind = 'ns']">
         Word
     </xsl:template>
-    <xsl:template match="phrase">
+    <xsl:template match="word[@kind = 'ic']">
+        Word
+    </xsl:template>
+    <xsl:template match="word[@kind = 'pow']">
+        Word
+    </xsl:template>
+    <xsl:template match="phrase[@type = 'ns']">
+        Phrase
+    </xsl:template>
+    <xsl:template match="phrase[@type = 'ic']">
+        Phrase
+    </xsl:template>
+    <xsl:template match="phrase[@type = 'pow']">
         Phrase
     </xsl:template>
     <xsl:template match="dash">
