@@ -23,7 +23,7 @@
         <h2><xsl:apply-templates/></h2>
     </xsl:template>
     <xsl:template match="chapter">
-        <div>
+        <div class="textChapter">
             <xsl:attribute name="id">
                 <xsl:value-of select="@n"/>
             </xsl:attribute>
@@ -39,13 +39,13 @@
         <p><xsl:apply-templates /></p>
     </xsl:template>
     <xsl:template match="song">
-        <div id="song">
-            <xsl:apply-templates select="stanza"/>
+        <div class="song">
+            <xsl:apply-templates/>
         </div>
     </xsl:template>
     <xsl:template match="stanza">
         <p>
-            <xsl:apply-templates select="l"/>
+            <xsl:apply-templates/>
         </p>
     </xsl:template>
     <xsl:template match="l">
@@ -65,25 +65,39 @@
         <xsl:text>）</xsl:text>
     </xsl:template>
     <xsl:template match="word[@kind = 'ns']">
-        Word
+        <span class="ns">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
     <xsl:template match="word[@kind = 'ic']">
-        Word
+        <span class="ic">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
     <xsl:template match="word[@kind = 'pow']">
-        Word
+        <span class="pow">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
     <xsl:template match="phrase[@type = 'ns']">
-        Phrase
+        <span class="ns">
+            <xsl:apply-templates></xsl:apply-templates>
+        </span>
     </xsl:template>
     <xsl:template match="phrase[@type = 'ic']">
-        Phrase
+        <span class="ic">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
     <xsl:template match="phrase[@type = 'pow']">
-        Phrase
+        <span class="pow">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
     <xsl:template match="dash">
-        Dashed emp
+        <span class="emp.dash">
+            <xsl:apply-templates></xsl:apply-templates>
+        </span>
     </xsl:template>
     <xsl:template match="onomatopoeia">
         <span class="onom">

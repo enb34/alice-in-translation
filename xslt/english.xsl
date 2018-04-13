@@ -23,7 +23,7 @@
         <h2><xsl:apply-templates/></h2>
     </xsl:template>
     <xsl:template match="chapter">
-        <div>
+        <div class="textChapter">
             <xsl:attribute name="id">
                 <xsl:value-of select="@n"/>
             </xsl:attribute>
@@ -39,12 +39,12 @@
     </xsl:template>
     <xsl:template match="song">
         <div class="song">
-            <xsl:apply-templates select="stanza"/>
+            <xsl:apply-templates/>
         </div>
     </xsl:template>
     <xsl:template match="stanza">
         <p>
-            <xsl:apply-templates select="l"/>
+            <xsl:apply-templates/>
         </p>
     </xsl:template>
     <xsl:template match="l">
@@ -63,14 +63,40 @@
         <xsl:apply-templates/>
         <xsl:text>)</xsl:text>
     </xsl:template>
-    <xsl:template match="word">
-        Word
+    <xsl:template match="word[@kind = 'ns']">
+        <span class="ns">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
-    <xsl:template match="phrase">
-        Phrase
+    <xsl:template match="word[@kind = 'ic']">
+        <span class="ic">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="word[@kind = 'pow']">
+        <span class="pow">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="phrase[@type = 'ns']">
+        <span class="ns">
+            <xsl:apply-templates></xsl:apply-templates>
+        </span>
+    </xsl:template>
+    <xsl:template match="phrase[@type = 'ic']">
+        <span class="ic">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="phrase[@type = 'pow']">
+        <span class="pow">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
     <xsl:template match="rp">
-        Rhyme Phrase
+        <span class="rp{@rpn}">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
     <xsl:template match="onomatopoeia">
         <span class="onom">

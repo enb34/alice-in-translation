@@ -71,6 +71,42 @@ h2 {
     margin-left: auto;
     margin-right: auto;
 }
+
+#descriptionTable {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    background-color:rgba(217,232,250,0.75);
+    box-shadow: 7px 7px 5px #637282;
+    opacity:.75;
+    width:72%;
+    padding:10px;
+    margin: 70px auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+table {
+    text-align:center;
+    width:100%;
+    display:inline;
+}
+
+table a {
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    color: #4d4d4d;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+}
+
+table a:hover {
+background-color:#267080;
+}
+
+th, td {
+    border:1px solid #4d4d4d;
+}
+
 .flex-container {
   display:flex;
   flex-direction:row;
