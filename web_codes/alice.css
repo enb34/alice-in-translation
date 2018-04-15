@@ -125,7 +125,7 @@ th, td {
   display:flex;
   flex-direction:row;
   flex-wrap:nowrap;
-  justify-content:center;
+  justify-content:space-between;
   align-items: baseline;
 }
 #english {
@@ -163,4 +163,13 @@ h3 {
     color:#4d4d4d;
     opacity:1;
     text-align:center;
+}
+.onom {
+    color:magenta;
+}
+.cultural {
+    color:green;
+}
+.emp {
+    font-weight:bold;
 }

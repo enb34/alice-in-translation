@@ -7,6 +7,9 @@
         <html>
             <head>
                 <title>アリスはふしぎの国で</title>
+                <link rel="stylesheet" type="text/css" href="alice.css" />
+                <link href="https://fonts.googleapis.com/css?family=Arima+Madurai:900%7CMontserrat"
+                    rel="stylesheet" />
             </head>
             <body>
                 <xsl:apply-templates select="//book"/>

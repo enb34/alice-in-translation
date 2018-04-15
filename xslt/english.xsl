@@ -7,8 +7,14 @@
         <html>
             <head>
                 <title>Alice's Adventures in Wonderland</title>
+                <link rel="stylesheet" type="text/css" href="english-text.css" />
+                <link href="https://fonts.googleapis.com/css?family=Arima+Madurai:900%7CMontserrat"
+                    rel="stylesheet" />
             </head>
             <body>
+                <div id="toc">
+                    something will need to go here
+                </div>
                 <xsl:apply-templates select="//book"/>
             </body>
         </html>
