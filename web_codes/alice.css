@@ -27,6 +27,7 @@ body {
     background-image: url("images/clouds-dennis.jpg");
     background-repeat:no-repeat;
     background-size:100%;
+    background-attachment:fixed;
 }
 h1 {
     font-family: 'Arima Madurai', cursive;
