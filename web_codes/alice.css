@@ -143,6 +143,13 @@ table {
     text-align:center;
     width:100%;
     display:inline;
+    margin: 0px auto;
+}
+
+.indexTable {
+    margin-left:auto;
+    margin-right:auto;
+    width:82%;
 }
 
 table a {
@@ -205,6 +212,10 @@ h3 {
     opacity:1;
     text-align:center;
 }
+.title {
+    font-style:italic;
+}
+
 .onom {
     color:magenta;
 }
