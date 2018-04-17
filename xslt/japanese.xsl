@@ -113,7 +113,7 @@
         </span>
     </xsl:template>
     <xsl:template match="foreign">
-        <span class="lang" id="{@language}">
+        <span class="lang">
             <xsl:apply-templates/>
         </span>
     </xsl:template>

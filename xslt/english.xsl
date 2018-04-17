@@ -12,9 +12,6 @@
                     rel="stylesheet" />
             </head>
             <body>
-                <div id="toc">
-                    something will need to go here
-                </div>
                 <xsl:apply-templates select="//book"/>
             </body>
         </html>
@@ -100,7 +97,7 @@
         </span>
     </xsl:template>
     <xsl:template match="rp">
-        <span class="rp{@rpn}">
+        <span class="rp">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
@@ -115,7 +112,7 @@
         </span>
     </xsl:template>
     <xsl:template match="foreign">
-        <span class="lang-{@language}">
+        <span class="lang">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
