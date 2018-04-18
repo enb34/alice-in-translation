@@ -1,0 +1,39 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Table</title>
+   </head>
+   <body>
+      <h1>English</h1>
+      <table>
+         <tr>
+            <th>Element</th>
+            <th>Quantity</th>
+         </tr>
+         <tr>
+            <td>Nonsense</td>
+            <td>9</td>
+         </tr>
+         <tr>
+            <td>Play on Words</td>
+            <td>48</td>
+         </tr>
+         <tr>
+            <td>Incorrect Usage</td>
+            <td>2</td>
+         </tr>
+         <tr>
+            <td>Rhyme Phrase</td>
+            <td>70</td>
+         </tr>
+         <tr>
+            <td>Repetition</td>
+            <td>9</td>
+         </tr>
+         <tr>
+            <td>Onomatopoeia</td>
+            <td>11</td>
+         </tr>
+      </table>
+   </body>
+</html>
