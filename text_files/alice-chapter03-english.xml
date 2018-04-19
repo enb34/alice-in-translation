@@ -104,33 +104,63 @@
         <song>
             <stanza>
                 <rp rpn="004">
-                    <l>' <rhyme rn="01" def="true">Fury said to a mouse</rhyme>,<rhyme rn="02"
-                            def="true">That he met in the house</rhyme>,</l>
-                </rp>
-                <rp rpn="005"><l>“<rhyme rn="01" def="true">Let us both go to law: I will prosecute
-                                <emp>YOU</emp></rhyme> .--</l>
-                </rp>
-                <rp rpn="006">
-                    <l><rhyme rn="01" def="true">Come, I’ll take no denial</rhyme>; <rhyme rn="02"
-                            def="true">.We must have a trial</rhyme>:</l>
+                    <l>         'Fury said to a</l>
+                    <l>         <rhyme rn="01" def="true">mouse</rhyme>That he</l>
+                    <l>        met in the</l>
+                    <l>       <rhyme rn="02" def="true">house</rhyme>,</l>
                 </rp>
                 <rp rpn="005">
-                    <l><rhyme rn="01" def="true">For really this morning I’ve nothing to
-                        do</rhyme>.”</l>
+                    <l>     “Let us</l>
+                    <l>      both go to</l>
+                    <l>       law: I will</l>
+                    <l>        prosecute</l>
+                    <l>         <rhyme rn="01" def="true"><emp>YOU</emp></rhyme> .--</l>
+                </rp>
+                <rp rpn="006">
+                    <l>Come,            I’ll take no</l>
+                    <l>           <rhyme rn="01" def="true">denial</rhyme>; We</l>
+                    <l>          must have a</l>
+                    <l>        <rhyme rn="02" def="true">trial</rhyme>:</l>
+                </rp>
+                <rp rpn="005">
+                    <l>      For really this</l>
+                    <l>     morning I’ve</l>
+                    <l>    nothing</l>
+                    <l>    to<rhyme rn="01" def="true">do.”</rhyme></l>
                 </rp>
                 <rp rpn="007">
-                    <l><rhyme rn="01" def="true">Said the mouse to the cur,</rhyme>
-                        <rhyme rn="02" def="true">“Such a trial, dear Sir, </rhyme></l></rp>
+                    <l>      Said the</l>
+                    <l>      mouse to the</l>
+                    <l>       <rhyme rn="01" def="true">cur,</rhyme> “Such</l>
+                    <l>        a trial,</l>
+                    <l>         dear <rhyme rn="02" def="true">Sir,</rhyme></l></rp>
                 <rp rpn="008">
-                    <l><rhyme rn="01" def="true">With no jury or judge, would be wasting our
-                            breath.</rhyme>”</l></rp>
-                <rp rpn="009"><l>“<rhyme rn="01" def="true">I’ll be judge, I’ll be jury,”</rhyme>
-                        <rhyme rn="02" def="true">Said cunning old Fury</rhyme></l></rp>: <l>“<rp
-                        rpn="008"><rhyme rn="01" def="true">I’ll try the whole cause, and condemn
-                            you to death.</rhyme></rp>”'</l>
+                    <l>            With</l>
+                    <l>          no jury</l>
+                    <l>        or judge,</l>
+                    <l>       would be</l>
+                    <l>      wasting</l>
+                    <l>      our</l>
+                    <l>      <rhyme rn="01" def="true">breath.</rhyme>”</l></rp>
+                <rp rpn="009">
+                    <l>        “I’ll be</l>
+                    <l>        judge, I’ll</l>
+                    <l>         be <rhyme rn="01" def="true">jury,”</rhyme></l>
+                    <l>             Said</l>
+                    <l>         cunning</l>
+                    <l>          old <rhyme rn="02" def="true">Fury</rhyme>:</l></rp>
+                <rp rpn="008">
+                    <l>          “I’ll</l>
+                    <l>          try the</l>
+                    <l>            whole</l>
+                    <l>            cause,</l>
+                    <l>              and</l>
+                    <l>           condemn</l>
+                    <l>           you</l>
+                    <l>          to</l>
+                    <l>           <rhyme rn="01" def="true">death.</rhyme>”'</l></rp>
             </stanza>
         </song>
-
         <!--fix spacing above-->
         <p>‘You are not <word kind="uc">attending</word>!’ said the Mouse to Alice severely. ‘What
             are you thinking of?’</p>

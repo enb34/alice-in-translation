@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns="http://www.w3.org/1999/XHTML"
-    exclude-result-prefixes="xs"
-    version="3.0">
-    <xsl:output method="xml" indent="yes" doctype-system="about:legacy-compat"/>
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="3.0">
+    <xs:output method="xml" indent="yes" doctype-system="about:legacy-compat"/>
+    <xsl:variable name="docs" as="document-node()+"
+        select="sort(collection('../text_files/?select=*fullwork*.xml'))"/>
     <xsl:template match="/">
         <html>
             <head>
                 <title>Songs and Poems</title>
             </head>
+            <body>
+                <xsl:for-each select="$docs">
+                    <xsl:apply-templates select="//song"/>
+                </xsl:for-each>
+            </body>
         </html>
-        <body>
-            <xsl:apply-templates select="//song"/>
-        </body>
     </xsl:template>
     <xsl:template match="song">
-        <div id="song{position()}">
+        <xsl:if test=".[//bookTitle='ALICE’S ADVENTURES IN WONDERLAND']">
+            <div id="song{position()}.eng">
             <xsl:apply-templates/>
         </div>
+        </xsl:if>
+        <xsl:if test=".[//bookTitle='アリスはふしぎの国で']">
+            <div id="song{position()}.jpn">
+                <xsl:apply-templates/>
+            </div>
+        </xsl:if>
     </xsl:template>
     <xsl:template match="stanza">
         <p>

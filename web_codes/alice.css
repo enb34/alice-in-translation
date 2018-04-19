@@ -87,7 +87,7 @@ h2 {
     margin-right: auto;
 }
 
-#descriptionTable {
+#imageNavbar {
     font-family: 'Montserrat', sans-serif;
     color:black;
     background-color:rgba(217,232,250,0.75);
@@ -100,7 +100,7 @@ h2 {
     margin-right: auto;
 }
 
-#descriptionTable2 {
+#textNavbar {
     font-family: 'Montserrat', sans-serif;
     color:black;
     background-color:rgba(217,232,250,0.75);
@@ -113,7 +113,7 @@ h2 {
     margin-right: auto;
 }
 
-#descriptionTable3 {
+#aboutNavbar {
     font-family: 'Montserrat', sans-serif;
     color:black;
     background-color:rgba(217,232,250,0.75);
@@ -126,13 +126,13 @@ h2 {
     margin-right: auto;
 }
 
-#descriptionTable3 {
+#concludeNavbar {
     font-family: 'Montserrat', sans-serif;
     color:black;
     background-color:rgba(217,232,250,0.75);
     box-shadow: 7px 7px 5px #637282;
     opacity:.75;
-    width:24%;
+    width:29%;
     padding:10px;
     margin: 70px auto;
     margin-left: auto;
