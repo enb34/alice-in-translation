@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(5,15)">
+      <text x="0" y="0">O</text>
+      <text x="15" y="0">R</text>
+      <text x="30" y="0">C</text>
+      <text x="45" y="0">I</text>
+      <text x="60" y="0">P</text>
+      <text x="75" y="0">U</text>
+      <rect x="0" y="10" fill="pink" height="8" width="8"/>
+      <rect x="0" y="20" fill="pink" height="8" width="8"/>
+      <rect x="0" y="30" fill="pink" height="8" width="8"/>
+      <rect x="0" y="40" fill="pink" height="8" width="8"/>
+      <rect x="0" y="50" fill="pink" height="8" width="8"/>
+      <rect x="0" y="60" fill="pink" height="8" width="8"/>
+      <rect x="0" y="70" fill="pink" height="8" width="8"/>
+      <rect x="0" y="80" fill="pink" height="8" width="8"/>
+      <rect x="0" y="90" fill="pink" height="8" width="8"/>
+      <rect x="0" y="100" fill="pink" height="8" width="8"/>
+      <rect x="0" y="110" fill="pink" height="8" width="8"/>
+      <rect x="0" y="120" fill="pink" height="8" width="8"/>
+      <rect x="0" y="130" fill="pink" height="8" width="8"/>
+      <rect x="0" y="140" fill="pink" height="8" width="8"/>
+      <rect x="15" y="10" fill="green" height="8" width="8"/>
+      <rect x="15" y="20" fill="green" height="8" width="8"/>
+      <rect x="15" y="30" fill="green" height="8" width="8"/>
+      <rect x="15" y="40" fill="green" height="8" width="8"/>
+      <rect x="30" y="10" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="20" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="30" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="40" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="50" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="60" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="70" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="80" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="90" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="100" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="110" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="120" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="130" fill="yellow" height="8" width="8"/>
+      <rect x="30" y="140" fill="yellow" height="8" width="8"/>
+      <rect x="45" y="10" fill="purple" height="8" width="8"/>
+      <rect x="45" y="20" fill="purple" height="8" width="8"/>
+      <rect x="60" y="10" fill="orange" height="8" width="8"/>
+      <rect x="75" y="10" fill="navy" height="8" width="8"/>
+      <rect x="75" y="20" fill="navy" height="8" width="8"/>
+      <rect x="75" y="30" fill="navy" height="8" width="8"/>
+      <rect x="75" y="40" fill="navy" height="8" width="8"/>
+      <text x="0" y="200">O = onomotopoeia</text>
+      <text x="0" y="215">R = rhyme</text>
+      <text x="0" y="230">C = cultural reference</text>
+      <text x="0" y="245">I = incorrect usage</text>
+      <text x="0" y="260">P = play on words</text>
+      <text x="0" y="275">U = uncommon</text>
+   </g>
+</svg>
