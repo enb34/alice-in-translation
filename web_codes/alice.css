@@ -87,63 +87,41 @@ h2 {
     margin-right: auto;
 }
 
-#imageNavbar {
+.navbar {
     font-family: 'Montserrat', sans-serif;
     color:black;
     background-color:rgba(217,232,250,0.75);
     box-shadow: 7px 7px 5px #637282;
     opacity:.75;
-    width:72%;
-    padding:10px;
+    padding:0px;
     margin: 70px auto;
-    margin-left: auto;
-    margin-right: auto;
+}
+
+#imageNavbar {
+    width:72%;
 }
 
 #textNavbar {
-    font-family: 'Montserrat', sans-serif;
-    color:black;
-    background-color:rgba(217,232,250,0.75);
-    box-shadow: 7px 7px 5px #637282;
-    opacity:.75;
     width:76%;
-    padding:10px;
-    margin: 70px auto;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 #aboutNavbar {
-    font-family: 'Montserrat', sans-serif;
-    color:black;
-    background-color:rgba(217,232,250,0.75);
-    box-shadow: 7px 7px 5px #637282;
-    opacity:.75;
     width:48%;
-    padding:10px;
-    margin: 70px auto;
-    margin-left: auto;
-    margin-right: auto;
+}
+
+#about {
+    width:48%;
 }
 
 #concludeNavbar {
-    font-family: 'Montserrat', sans-serif;
-    color:black;
-    background-color:rgba(217,232,250,0.75);
-    box-shadow: 7px 7px 5px #637282;
-    opacity:.75;
     width:29%;
-    padding:10px;
-    margin: 70px auto;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 
 table {
     text-align:center;
-    width:100%;
     display:inline;
+    vertical-align:middle;
     margin: 0px auto;
 }
 
@@ -162,13 +140,10 @@ table a {
     text-decoration: none;
 }
 
-table a:hover {
+table td:hover {
 background-color:#267080;
 }
 
-th, td {
-    border:1px solid #4d4d4d;
-}
 
 .flex-container {
   display:flex;
