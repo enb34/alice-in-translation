@@ -10,7 +10,7 @@
     <xsl:variable name="xaxis" select="$barInterval * 6 + $objbarSpace"/>
     <xsl:variable name="yaxis" select="20"/>
     <xsl:template match="/">
-        <svg>
+        <svg viewBox="0 0 1250 600">
             <g transform="translate(65,350)">
                 <!--Graph Outline-->
                 <line x1="10" y1="0" x2="{$xaxis}" y2="0" stroke="black" stroke-width="2"/>

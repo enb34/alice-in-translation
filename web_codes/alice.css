@@ -188,6 +188,13 @@ h3 {
     opacity:1;
     text-align:center;
 }
+
+svg {
+    margin-left:auto; 
+    margin-right:auto; 
+    display:block;
+}
+
 .title {
     font-style:italic;
 }
