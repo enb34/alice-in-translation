@@ -18,12 +18,12 @@
     </xsl:template>
     <xsl:template match="song">
         <xsl:if test=".[//bookTitle='ALICE’S ADVENTURES IN WONDERLAND']">
-            <div id="song{position()}.eng">
+            <div id="song{position()}-eng">
             <xsl:apply-templates/>
         </div>
         </xsl:if>
         <xsl:if test=".[//bookTitle='アリスはふしぎの国で']">
-            <div id="song{position()}.jpn">
+            <div id="song{position()}-jpn">
                 <xsl:apply-templates/>
             </div>
         </xsl:if>

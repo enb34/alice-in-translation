@@ -1,5 +1,4 @@
 .mainNavbar {
-    
     background-color:rgba(77,77,77,0.75);
 }
 
@@ -29,6 +28,11 @@ li a.inpage {
     padding: 10px 10px;
     text-decoration: none;
     color:black;
+}
+
+li.buttons {
+    text-align:left;
+    display:list-item;
 }
 
 li a:hover {
@@ -162,15 +166,27 @@ background-color:#267080;
   justify-content:space-between;
   align-items: baseline;
 }
+#buttons {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    background-color:rgba(217,232,250,0.75);
+    box-shadow: 7px 7px 5px #637282;
+    opacity:.75;
+    width:10%;
+    padding:15px;
+    margin: 30px auto;
+    position:relative;
+}
 #english {
     font-family: 'Montserrat', sans-serif;
     color:black;
     background-color:rgba(217,232,250,0.75);
     box-shadow: 7px 7px 5px #637282;
     opacity:.75;
-    width:45%;
+    width:40%;
     padding:15px;
     margin: 30px auto;
+    position:relative;
 }
 #japanese {
     font-family: 'Montserrat', sans-serif;
@@ -178,9 +194,10 @@ background-color:#267080;
     background-color:rgba(217,232,250,0.75);
     box-shadow: 7px 7px 5px #637282;
     opacity:.75;
-    width:45%;
+    width:40%;
     padding:15px; 
     margin: 30px auto;
+    position:relative;
 }
 #links {
     font-family: 'Montserrat', sans-serif;
@@ -209,12 +226,36 @@ svg {
     font-style:italic;
 }
 
-.onom {
+.onom.on {
     color:magenta;
+    text-decoration:underline;
 }
-.cultural {
+
+.cultural.on {
     color:green;
+    text-decoration:underline;
 }
+
+.rep.on {
+    color:purple;
+    text-decoration:underline;
+}
+
+.ns.on {
+    color:red;
+    text-decoration:underline;
+}
+
+.iu.on {
+    color:brown;
+    text-decoration:underline;
+}
+
+.pow.on {
+    color:blue;
+    text-decoration:underline;
+}
+
 .emp {
     font-weight:bold;
 }
