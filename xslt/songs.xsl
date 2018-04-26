@@ -4,28 +4,39 @@
     <xs:output method="xml" indent="yes" doctype-system="about:legacy-compat"/>
     <xsl:variable name="docs" as="document-node()+"
         select="collection('../text_files/?select=*fullwork*.xml')"/>
-
     <xsl:template match="/">
-
         <doc>
             <body>
-                <xsl:for-each select="$docs">
-                    <xsl:apply-templates select="//song"/>
-                </xsl:for-each>
+                <xsl:variable name="unsorted" as="element(div)+">
+                    <xsl:for-each select="$docs">
+                        <xsl:apply-templates select="//song"/>
+                    </xsl:for-each>
+                </xsl:variable>
+                <xsl:sequence
+                    select="
+                        sort($unsorted, (), function ($item) {
+                            number(substring-after($item/@id, 'song'))
+                        })"
+                />
             </body>
         </doc>
     </xsl:template>
     <xsl:template match="song">
-        <xsl:if test=".[//bookTitle = 'ALICE’S ADVENTURES IN WONDERLAND']">
-            <div id="song{position()}1">
-                <xsl:apply-templates/>
-            </div>
-        </xsl:if>
-        <xsl:if test=".[//bookTitle = 'アリスはふしぎの国で']">
-            <div id="song{position()}2">
-                <xsl:apply-templates/>
-            </div>
-        </xsl:if>
+        <xsl:choose>
+            <xsl:when test="//bookTitle = 'ALICE’S ADVENTURES IN WONDERLAND'">
+                <div id="song{(position() - 1 )*2 + 1}">
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:when>
+            <xsl:when test="//bookTitle = 'アリスはふしぎの国で'">
+                <div id="song{(position() - 1 ) * 2}">
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:message terminate="yes">No English or Japanese title</xsl:message>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <xsl:template match="stanza">
         <p>
