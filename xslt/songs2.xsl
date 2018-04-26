@@ -14,9 +14,9 @@
     </xsl:template>
     <xsl:template match="div">
         <div id="{@id}">
-            <xsl:for-each select="@id">
-                <xsl:sort select="@id" data-type="number"/>
-            </xsl:for-each>
+            <xsl:apply-templates select="@id">
+                <xsl:sort select="replace(., '[^\d]', '')" data-type="number"/>
+            </xsl:apply-templates>
         </div>
     </xsl:template>
 </xsl:stylesheet>
