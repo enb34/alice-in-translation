@@ -9,7 +9,8 @@
 
         <doc>
             <body>
-                <xsl:for-each select="$docs">
+                
+                    <xsl:for-each select="$docs">
                     <xsl:apply-templates select="//song"/>
                 </xsl:for-each>
             </body>
@@ -17,12 +18,12 @@
     </xsl:template>
     <xsl:template match="song">
         <xsl:if test=".[//bookTitle = 'ALICE’S ADVENTURES IN WONDERLAND']">
-            <div id="song{position()}1">
+            <div id="song0{(position() - 1 )*2 + 1}">
                 <xsl:apply-templates/>
             </div>
         </xsl:if>
         <xsl:if test=".[//bookTitle = 'アリスはふしぎの国で']">
-            <div id="song{position()}2">
+            <div id="song0{(position() - 1 ) * 2}">
                 <xsl:apply-templates/>
             </div>
         </xsl:if>
