@@ -1,5 +1,12 @@
+function init() {
+    var checkboxes = document.getElementsByTagName('input');
+    for (var i = 0; i < checkboxes.length; i++) {
+        checkboxes[i].addEventListener('click', toggleColor, false);
+    }
+}
+
 function toggleColor() {
-    var device = this.getAttribute('value');
+    var device = this.value;
     switch (device) {
         //case 'cultural': {
         //var culturaltog = document.getElementbyClassName('cultural');
@@ -44,22 +51,15 @@ function toggleColor() {
         //};
         //break;
     }
-    var check = this.checked;
-    var span = document.getElementByClassName(device);
-    for (var i = 0; i <span.length; i++) {
-        if (check == true) {
-            span[i].style.textColor = color;
-        } else {
-            span[i].style.textColor = originalColor;
-        }
-    }
-}
-
-function init() {
-    var checkboxes = document.getElementsByTagName('input');
-    for (var i = 0; i < checkboxes.length; i++) {
-        checkboxes[i].addEventListener('click', toggleColor, false);
-    }
+    //var check = this.checked;
+    //var span = document.getElementByClassName(device);
+    //for (var i = 0; i <span.length; i++) {
+        //if (check == true) {
+            //span[i].style.textColor = color;
+        //} else {
+            //span[i].style.textColor = originalColor;
+        //}
+    //}
 }
 
 window.onload = init;
