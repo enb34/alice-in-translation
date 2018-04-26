@@ -3,27 +3,26 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="3.0">
     <xs:output method="xml" indent="yes" doctype-system="about:legacy-compat"/>
     <xsl:variable name="docs" as="document-node()+"
-        select="sort(collection('../text_files/?select=*fullwork*.xml'))"/>
+        select="collection('../text_files/?select=*fullwork*.xml')"/>
+
     <xsl:template match="/">
-        <html>
-            <head>
-                <title>Songs and Poems</title>
-            </head>
+
+        <doc>
             <body>
                 <xsl:for-each select="$docs">
                     <xsl:apply-templates select="//song"/>
                 </xsl:for-each>
             </body>
-        </html>
+        </doc>
     </xsl:template>
     <xsl:template match="song">
-        <xsl:if test=".[//bookTitle='ALICE’S ADVENTURES IN WONDERLAND']">
-            <div id="song{position()}-eng">
-            <xsl:apply-templates/>
-        </div>
+        <xsl:if test=".[//bookTitle = 'ALICE’S ADVENTURES IN WONDERLAND']">
+            <div id="song{position()}1">
+                <xsl:apply-templates/>
+            </div>
         </xsl:if>
-        <xsl:if test=".[//bookTitle='アリスはふしぎの国で']">
-            <div id="song{position()}-jpn">
+        <xsl:if test=".[//bookTitle = 'アリスはふしぎの国で']">
+            <div id="song{position()}2">
                 <xsl:apply-templates/>
             </div>
         </xsl:if>
@@ -39,4 +38,5 @@
             <br/>
         </xsl:if>
     </xsl:template>
+
 </xsl:stylesheet>
