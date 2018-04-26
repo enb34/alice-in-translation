@@ -24,12 +24,12 @@
     <xsl:template match="song">
         <xsl:choose>
             <xsl:when test="//bookTitle = 'ALICE’S ADVENTURES IN WONDERLAND'">
-                <div id="song{(position() - 1 )*2 + 1}">
+                <div id="song{(position() - 1 ) * 2}">
                     <xsl:apply-templates/>
                 </div>
             </xsl:when>
             <xsl:when test="//bookTitle = 'アリスはふしぎの国で'">
-                <div id="song{(position() - 1 ) * 2}">
+                <div id="song{(position() - 1 ) * 2 + 1}">
                     <xsl:apply-templates/>
                 </div>
             </xsl:when>

@@ -61,8 +61,6 @@ h1 {
     padding-top:5px;
     padding-bottom:5px;
     margin: 30px auto;
-    margin-left: auto;
-    margin-right: auto;
 }
 h2 {
     font-family: 'Arima Madurai', cursive;
@@ -88,8 +86,11 @@ h2 {
     width:80%;
     padding:15px;
     margin: 30px auto;
-    margin-left: auto;
-    margin-right: auto;
+}
+
+pre {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
 }
 
 #description {
@@ -177,6 +178,7 @@ background-color:#267080;
     margin: 30px auto;
     position:relative;
 }
+    
 #english {
     font-family: 'Montserrat', sans-serif;
     color:black;
@@ -258,4 +260,102 @@ svg {
 
 .emp {
     font-weight:bold;
+}
+
+#song1 {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    width:90%;
+    padding:15px;
+    margin: 30px 30px;
+    position:relative;
+    }
+    
+#song2 {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    width:90%;
+    padding:15px;
+    margin: 30px 30px;
+    position:relative;
+}
+
+#song3 {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    width:90%;
+    padding:15px;
+    margin: 30px 30px;
+    position:relative;
+}
+
+#song4 {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    width:90%;
+    padding:15px;
+    margin: 30px 30px;
+    position:relative;
+}
+
+#song5 {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    width:90%;
+    padding:15px;
+    margin: 30px 30px;
+    position:relative;
+}
+
+#song6 {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    width:90%;
+    padding:15px;
+    margin: 30px 30px;
+    position:relative;
+}
+
+#song7 {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    width:90%;
+    padding:15px;
+    margin: 30px 30px;
+    position:relative;
+}
+
+#song8 {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    width:90%;
+    padding:15px;
+    margin: 30px 30px;
+    position:relative;
+}
+#song9 {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    width:90%;
+    padding:15px;
+    margin: 30px 30px;
+    position:relative;
+}
+
+#song10 {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    width:90%;
+    padding:15px;
+    margin: 30px 30px;
+    position:relative;
+}
+
+#song11 {
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    width:90%;
+    padding:15px;
+    margin: 30px 30px;
+    position:relative;
 }
