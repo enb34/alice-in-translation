@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="3.0">
     <xs:output method="xml" indent="yes" doctype-system="about:legacy-compat"/>
     <xsl:variable name="docs" as="document-node()+"
-        select="sort(collection('../text_files/?select=*fullwork*.xml'))"/>
+        select="collection('../text_files/?select=*fullwork*.xml')"/>
 
     <xsl:template match="/">
 
@@ -17,12 +17,12 @@
     </xsl:template>
     <xsl:template match="song">
         <xsl:if test=".[//bookTitle = 'ALICE’S ADVENTURES IN WONDERLAND']">
-            <div id="{position()}1">
+            <div id="song{position()}1">
                 <xsl:apply-templates/>
             </div>
         </xsl:if>
         <xsl:if test=".[//bookTitle = 'アリスはふしぎの国で']">
-            <div id="{position()}2">
+            <div id="song{position()}2">
                 <xsl:apply-templates/>
             </div>
         </xsl:if>
