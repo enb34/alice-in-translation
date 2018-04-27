@@ -133,26 +133,20 @@ pre {
 }
 
 
-table {
+table.words {
     text-align:center;
-    display:inline;
     vertical-align:middle;
-    margin: 2px auto;
+    margin: auto;
+    border: 2px solid #4d4d4d;
 }
 
-.indexTable {
-    margin-left:auto;
-    margin-right:auto;
-    width:1020px;
-}
-
-td, th {
-    display: inline-block;
+tr, td, th {
     font-family: 'Montserrat', sans-serif;
     color: #4d4d4d;
     text-align: center;
     padding: 5px;
     text-decoration: none;
+    border: 1px solid #4d4d4d;
 }
 
 .flex-container {
@@ -271,7 +265,7 @@ svg {
 #song1 {
     font-family: 'Montserrat', sans-serif;
     color:black;
-    width:90%;
+    width:50%;
     padding:15px;
     margin: 30px 30px;
     position:relative;
