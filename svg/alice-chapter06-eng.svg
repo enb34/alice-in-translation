@@ -13,19 +13,17 @@
       <rect x="0" y="40" fill="pink" height="8" width="8"/>
       <rect x="0" y="50" fill="pink" height="8" width="8"/>
       <rect x="0" y="60" fill="pink" height="8" width="8"/>
-      <rect x="0" y="70" fill="pink" height="8" width="8"/>
-      <rect x="0" y="80" fill="pink" height="8" width="8"/>
-      <rect x="0" y="90" fill="pink" height="8" width="8"/>
-      <rect x="0" y="100" fill="pink" height="8" width="8"/>
-      <rect x="0" y="110" fill="pink" height="8" width="8"/>
-      <rect x="0" y="120" fill="pink" height="8" width="8"/>
-      <rect x="0" y="130" fill="pink" height="8" width="8"/>
-      <rect x="0" y="140" fill="pink" height="8" width="8"/>
-      <rect x="0" y="150" fill="pink" height="8" width="8"/>
       <rect x="15" y="20" fill="green" height="8" width="8"/>
       <rect x="15" y="30" fill="green" height="8" width="8"/>
       <rect x="15" y="40" fill="green" height="8" width="8"/>
       <rect x="15" y="50" fill="green" height="8" width="8"/>
+      <rect x="15" y="60" fill="green" height="8" width="8"/>
+      <rect x="15" y="70" fill="green" height="8" width="8"/>
+      <rect x="15" y="80" fill="green" height="8" width="8"/>
+      <rect x="15" y="90" fill="green" height="8" width="8"/>
+      <rect x="15" y="100" fill="green" height="8" width="8"/>
+      <rect x="15" y="110" fill="green" height="8" width="8"/>
+      <rect x="15" y="120" fill="green" height="8" width="8"/>
       <rect x="30" y="20" fill="gold" height="8" width="8"/>
       <rect x="30" y="30" fill="gold" height="8" width="8"/>
       <rect x="30" y="40" fill="gold" height="8" width="8"/>
@@ -40,10 +38,20 @@
       <rect x="30" y="130" fill="gold" height="8" width="8"/>
       <rect x="30" y="140" fill="gold" height="8" width="8"/>
       <rect x="30" y="150" fill="gold" height="8" width="8"/>
-      <rect x="45" y="20" fill="purple" height="8" width="8"/>
+      <rect x="30" y="160" fill="gold" height="8" width="8"/>
+      <rect x="30" y="170" fill="gold" height="8" width="8"/>
+      <rect x="30" y="180" fill="gold" height="8" width="8"/>
+      <rect x="30" y="190" fill="gold" height="8" width="8"/>
+      <rect x="30" y="200" fill="gold" height="8" width="8"/>
+      <rect x="30" y="210" fill="gold" height="8" width="8"/>
+      <rect x="30" y="220" fill="gold" height="8" width="8"/>
+      <rect x="30" y="230" fill="gold" height="8" width="8"/>
+      <rect x="60" y="20" fill="orange" height="8" width="8"/>
+      <rect x="60" y="30" fill="orange" height="8" width="8"/>
+      <rect x="60" y="40" fill="orange" height="8" width="8"/>
+      <rect x="60" y="50" fill="orange" height="8" width="8"/>
+      <rect x="60" y="60" fill="orange" height="8" width="8"/>
       <rect x="90" y="20" fill="silver" height="8" width="8"/>
-      <rect x="90" y="30" fill="silver" height="8" width="8"/>
-      <rect x="90" y="40" fill="silver" height="8" width="8"/>
       <text x="120" y="0">O = onomotopoeia</text>
       <text x="120" y="15">R = rhyme</text>
       <text x="120" y="30">C = cultural reference</text>
