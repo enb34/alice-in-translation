@@ -137,7 +137,7 @@ table {
     text-align:center;
     display:inline;
     vertical-align:middle;
-    margin: 0px auto;
+    margin: 2px auto;
 }
 
 .indexTable {
@@ -146,7 +146,7 @@ table {
     width:1020px;
 }
 
-table a {
+td, th {
     display: inline-block;
     font-family: 'Montserrat', sans-serif;
     color: #4d4d4d;
@@ -155,11 +155,6 @@ table a {
     text-decoration: none;
 }
 
-table td:hover {
-background-color:#267080;
-}
-
-
 .flex-container {
   display:flex;
   flex-direction:row;
@@ -167,6 +162,17 @@ background-color:#267080;
   justify-content:space-between;
   align-items: baseline;
 }
+
+.fleximage {
+    margin: 10px 5px;
+    justify-content:space-between;
+    flex-direction:row;
+}
+
+.fleximage a:hover {
+    outline: 7px solid #267080;
+}
+
 #buttons {
     font-family: 'Montserrat', sans-serif;
     color:black;
