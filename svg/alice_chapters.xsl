@@ -43,12 +43,5 @@
         <xsl:for-each select="0 to $uc_count">
             <rect x="90" y="{(position() - 1) * 10 + 20}" fill="silver" height="8" width="8"/>
         </xsl:for-each>
-        <text x="120" y="0">O = onomotopoeia</text>
-        <text x="120" y="15">R = rhyme</text>
-        <text x="120" y="30">C = cultural reference</text>
-        <text x="120" y="45">I = incorrect usage</text>
-        <text x="120" y="60">P = play on words</text>
-        <text x="120" y="75">N = nonsense</text>
-        <text x="120" y="90">U = uncommon usage</text>
     </xsl:template>
 </xsl:stylesheet>

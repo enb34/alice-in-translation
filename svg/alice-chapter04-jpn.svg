@@ -19,32 +19,14 @@
       <rect x="0" y="100" fill="pink" height="8" width="8"/>
       <rect x="0" y="110" fill="pink" height="8" width="8"/>
       <rect x="0" y="120" fill="pink" height="8" width="8"/>
-      <rect x="0" y="130" fill="pink" height="8" width="8"/>
-      <rect x="0" y="140" fill="pink" height="8" width="8"/>
-      <rect x="0" y="150" fill="pink" height="8" width="8"/>
-      <rect x="0" y="160" fill="pink" height="8" width="8"/>
-      <rect x="0" y="170" fill="pink" height="8" width="8"/>
-      <rect x="0" y="180" fill="pink" height="8" width="8"/>
-      <rect x="0" y="190" fill="pink" height="8" width="8"/>
-      <rect x="0" y="200" fill="pink" height="8" width="8"/>
-      <rect x="0" y="210" fill="pink" height="8" width="8"/>
-      <rect x="0" y="220" fill="pink" height="8" width="8"/>
-      <rect x="0" y="230" fill="pink" height="8" width="8"/>
-      <rect x="0" y="240" fill="pink" height="8" width="8"/>
       <rect x="15" y="20" fill="green" height="8" width="8"/>
       <rect x="30" y="20" fill="gold" height="8" width="8"/>
       <rect x="30" y="30" fill="gold" height="8" width="8"/>
       <rect x="30" y="40" fill="gold" height="8" width="8"/>
       <rect x="30" y="50" fill="gold" height="8" width="8"/>
       <rect x="30" y="60" fill="gold" height="8" width="8"/>
-      <rect x="45" y="20" fill="purple" height="8" width="8"/>
-      <rect x="90" y="20" fill="silver" height="8" width="8"/>
-      <text x="120" y="0">O = onomotopoeia</text>
-      <text x="120" y="15">R = rhyme</text>
-      <text x="120" y="30">C = cultural reference</text>
-      <text x="120" y="45">I = incorrect usage</text>
-      <text x="120" y="60">P = play on words</text>
-      <text x="120" y="75">N = nonsense</text>
-      <text x="120" y="90">U = uncommon usage</text>
+      <rect x="30" y="70" fill="gold" height="8" width="8"/>
+      <rect x="30" y="80" fill="gold" height="8" width="8"/>
+      <rect x="30" y="90" fill="gold" height="8" width="8"/>
    </g>
 </svg>
