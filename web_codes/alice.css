@@ -230,32 +230,32 @@ svg {
 
 .onom.on {
     color:magenta;
-    text-decoration:underline;
+    font-weight:bold;
 }
 
 .cultural.on {
     color:green;
-    text-decoration:underline;
+    font-weight:bold;
 }
 
 .rep.on {
     color:purple;
-    text-decoration:underline;
+    font-weight:bold;
 }
 
 .ns.on {
     color:red;
-    text-decoration:underline;
+    font-weight:bold;
 }
 
 .iu.on {
     color:brown;
-    text-decoration:underline;
+    font-weight:bold;
 }
 
 .pow.on {
     color:blue;
-    text-decoration:underline;
+    font-weight:bold;
 }
 
 .emp {
