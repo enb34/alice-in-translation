@@ -117,7 +117,7 @@ pre {
 }
 
 #imageNavbar {
-    width:1065px;
+    width:1015px;
 }
 
 #textNavbar {
@@ -154,6 +154,14 @@ tr, td, th {
   flex-direction:row;
   flex-wrap:nowrap;
   justify-content:space-between;
+  align-items: baseline;
+}
+
+.flex-image {
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content:space-around;
   align-items: baseline;
 }
 
